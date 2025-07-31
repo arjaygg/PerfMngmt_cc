@@ -1,0 +1,31 @@
+# Performance Management Analysis - Git Ignore
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Personal notes (if any sensitive info)
+personal_notes/
+sensitive/
+
+# OS generated files
+ehthumbs.db

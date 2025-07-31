@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__markdownify__xlsx-to-markdown"
+    ],
+    "deny": []
+  }
+}
