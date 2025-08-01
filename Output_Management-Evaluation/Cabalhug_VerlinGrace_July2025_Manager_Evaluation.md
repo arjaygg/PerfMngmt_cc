@@ -26,7 +26,7 @@ Verlin Grace demonstrates solid foundational development skills and strong accou
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Verlin Grace achieved the 80% target, meeting organizational expectations. However, consistent feedback indicates the need to be "more adept to innovative practices and tools." While she demonstrates solid execution of assigned tasks, expanding her engagement with AI tools and innovative development practices represents a significant opportunity for enhanced contribution to BFS innovation initiatives.
+I've observed Verlin Grace achieving the 80% target with solid execution, which meets our organizational expectations. However, during our team reviews, I consistently hear feedback about the need for her to be "more adept to innovative practices and tools." While she demonstrates reliable task completion, I see significant opportunity for her to expand engagement with AI tools and innovative development practices to enhance her contribution to our BFS innovation initiatives.
 
 ### Achieve Engineering Excellence
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -34,7 +34,7 @@ Verlin Grace achieved the 80% target, meeting organizational expectations. Howev
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Verlin Grace successfully completed multiple milestones, achieving the 80% target. Her systematic approach to API documentation, knowledge sharing through brownbag sessions, and commitment to technical documentation demonstrates solid engineering practices. The feedback noting "still needs improvements in the aspects of Development Enhancements" indicates opportunities for more proactive technical innovation and process improvement.
+I've seen Verlin Grace successfully complete multiple milestones, achieving her 80% target through systematic work. What I appreciate about her approach is her dedication to API documentation and her participation in brownbag sessions for knowledge sharing. However, feedback I've received noting she "still needs improvements in the aspects of Development Enhancements" aligns with my observations that she could be more proactive in technical innovation and process improvement initiatives.
 
 ### Empowered & Accountable Teams
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -42,7 +42,7 @@ Verlin Grace successfully completed multiple milestones, achieving the 80% targe
 **Achievement Level:** 75%
 
 **Manager Comments:**
-Verlin Grace demonstrates strong team collaboration and accountability, achieving 75% of the target. Her participation in brownbag sessions, API documentation efforts, and peer support show good team contribution. However, the feedback to be "more active in communicating with product/business teams" indicates the need for enhanced cross-functional collaboration and proactive stakeholder engagement.
+I've observed Verlin Grace demonstrating strong team collaboration and accountability, achieving 75% of her target. Her participation in brownbag sessions and API documentation efforts show good team contribution, and I see her providing peer support consistently. However, feedback I've received suggesting she be "more active in communicating with product/business teams" aligns with my observation that she needs enhanced cross-functional collaboration and more proactive stakeholder engagement.
 
 ---
 
@@ -53,28 +53,28 @@ Verlin Grace demonstrates strong team collaboration and accountability, achievin
 **Manager Rating:** Meet Expectations (M) - Tenure Constrained
 
 **Manager Comments:**
-Verlin Grace consistently demonstrates reliability through fair collaboration with coworkers, focused meeting participation, and adaptability to development changes. Her ability to meet deadlines with punctuality and conduct quality assurance of feature implementations shows strong dependability. Her guidance to peer developers and openness to learning from different perspectives demonstrates mature professional approach.
+I've consistently observed Verlin Grace demonstrating reliability through her fair collaboration with coworkers and focused participation in our meetings. What stands out to me is her adaptability to development changes and her consistent ability to meet deadlines with punctuality. I've seen her conduct thorough quality assurance of feature implementations and provide guidance to peer developers, showing both dependability and a mature professional approach in learning from different perspectives.
 
 ### Problem Solving/Analysis
 **Employee Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Meet Expectations (M)
 
 **Manager Comments:**
-Verlin Grace shows systematic problem-solving approach through regular team reflection, effective division of labor using agile processes, and appropriate work prioritization. Her focus on simplicity and maximizing work efficiency demonstrates good analytical thinking. Her routine approach to development process review and enhancement shows consistent problem-solving methodology.
+I've observed Verlin Grace showing a systematic problem-solving approach through her participation in our regular team reflection sessions. She demonstrates good analytical thinking through effective division of labor using agile processes and appropriate work prioritization. What I appreciate about her approach is her focus on simplicity and maximizing work efficiency, and I see her consistent methodology in development process review and enhancement activities.
 
 ### Productivity
 **Employee Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Meet Expectations (M) - Tenure Constrained
 
 **Manager Comments:**
-Verlin Grace effectively manages productivity through volunteering for additional work, completing prioritized tasks before deadlines, and active participation in knowledge sharing sessions. Her engagement with AI red teaming and code review suggestions, combined with seeking new learning materials in AI tools and clean architecture, demonstrates good productivity mindset and continuous learning approach.
+I've seen Verlin Grace effectively manage her productivity by volunteering for additional work and consistently completing prioritized tasks before deadlines. Her active participation in knowledge sharing sessions shows commitment, and I've noticed her engagement with AI red teaming and code review suggestions. What encourages me is her seeking new learning materials in AI tools and clean architecture, which demonstrates both a good productivity mindset and a continuous learning approach.
 
 ### Results Focus
 **Employee Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Meet Expectations (M) - Tenure Constrained
 
 **Manager Comments:**
-Verlin Grace demonstrates strong accountability and results focus, taking responsibility for feature development, bug fixes, and providing guidance to junior developers. Her commitment to learning from mistakes and ensuring they are not repeated shows mature results orientation. Her honest approach to correcting implementation errors and making necessary changes demonstrates professional integrity.
+I've observed Verlin Grace demonstrating strong accountability and results focus through her approach to feature development, bug fixes, and guidance she provides to junior developers. What impresses me about her work ethic is her commitment to learning from mistakes and ensuring they're not repeated. Her honest approach to correcting implementation errors and making necessary changes demonstrates the kind of professional integrity that builds team trust.
 
 ---
 
