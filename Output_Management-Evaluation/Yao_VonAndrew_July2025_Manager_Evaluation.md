@@ -9,7 +9,9 @@
 
 ## Executive Summary
 
-Von Andrew demonstrates consistent reliability and strong results-oriented focus as a .NET Developer on the Zenith project. His 21-month tenure has established him as a dependable contributor who delivers on assigned tasks and maintains steady productivity. While Von Andrew shows commitment to completion and fact-based decision making, there are significant opportunities for growth in process improvement, strategic thinking, and professional development engagement.
+I've been working with Von Andrew for almost two years now, and what I can consistently count on is reliability. When I assign tasks related to Zenith Legacy, they get done. He keeps the system stable, avoids production bugs, and maintains steady progress on his deliverables. That foundation of dependability is valuable, especially on legacy systems where stability matters.
+
+However, I need to be direct about where I see opportunities for Von Andrew's growth. While his execution is solid, I'm not seeing the proactive engagement and innovation that would take him to the next level. There's a gap between steady delivery and the kind of strategic thinking and continuous improvement mindset that our organization increasingly needs.
 
 **Overall Performance Rating: 3.1/5.0 (Meets Expectations)**
 
@@ -23,7 +25,7 @@ Von Andrew demonstrates consistent reliability and strong results-oriented focus
 **Achievement Level:** 75%
 
 **Manager Comments:**
-Von Andrew consistently delivers on Zenith Legacy roadmap items with steady progress. His 75% achievement level reflects reliable execution of assigned tasks. While he meets expectations in this area, there's opportunity for more proactive engagement with roadmap planning and strategic initiatives.
+Von Andrew's approach to the Zenith Legacy roadmap is exactly what I'd expect - steady, methodical execution. He hits the 75% achievement mark by completing what's assigned to him. But here's where I'd like to see growth: I want him to engage more proactively with the planning process itself. Instead of just executing the roadmap, I'd love to see him contribute ideas for how we might improve it or identify opportunities we're missing.
 
 ### Execute on Zenith Product Roadmap
 **Employee Self-Rating:** Exceeds Expectations (EE)  
@@ -31,7 +33,7 @@ Von Andrew consistently delivers on Zenith Legacy roadmap items with steady prog
 **Achievement Level:** 50%
 
 **Manager Comments:**
-While Von Andrew shows commitment to Zenith product development, the 50% achievement level does not align with an "Exceeds Expectations" rating. His execution is steady but lacks the innovation and additional value-add that would justify a higher rating. Focus needed on aligning self-assessment with actual delivery outcomes.
+This is where I need to have a candid conversation with Von Andrew about self-assessment accuracy. He rated himself "Exceeds Expectations" but achieved 50% against the target. I appreciate his commitment to the work, but exceeding expectations means delivering beyond what's expected, not just being committed to it. The steady execution is good, but I need to see innovation and additional value that justifies the higher rating he's giving himself.
 
 ### Financial Management
 **Employee Self-Rating:** Mixed (M/EE)  
@@ -153,11 +155,11 @@ Von Andrew shows strong commitment to task completion and deadline adherence. Hi
 
 ## Overall Assessment
 
-Von Andrew Yao is a reliable and consistent performer who can be depended upon to complete assigned tasks effectively. His commitment to deadlines and quality standards makes him a valuable team member. However, his development has plateaued somewhat, with limited engagement in growth opportunities or process improvements.
+In my nearly two years of working with Von Andrew, I've come to appreciate his steady reliability - he's the kind of developer you can assign legacy maintenance tasks to and know they'll get done correctly and on time. His dedication to avoiding production bugs and maintaining system stability has real value, especially on critical legacy systems like Zenith.
 
-While Von Andrew meets current job expectations, realizing his full potential will require more proactive engagement with professional development, strategic thinking, and process improvement initiatives. His expressed interest in AI integration provides a good starting point for expanded technical growth.
+But I also need to be honest about what I'm not seeing from Von Andrew: the initiative and growth mindset that would take him beyond his current role. When I look at his self-evaluations, there's a disconnect between his perception of his performance and what I observe. His interest in AI integration is promising, but I need to see him actively pursue that growth, not just express interest in it.
 
-The rating of "Meets Expectations" reflects solid, dependable performance that fulfills current role requirements while identifying clear pathways for advancement through increased initiative and skill development.
+Von Andrew is at a crossroads in his career with us. The foundation is solid, but he needs to decide whether he wants to continue as a steady maintainer or develop into someone who contributes to our strategic direction. I'm willing to support either path, but the choice and initiative need to come from him.
 
 **Final Rating: 3.1/5.0 (Meets Expectations)**
 
