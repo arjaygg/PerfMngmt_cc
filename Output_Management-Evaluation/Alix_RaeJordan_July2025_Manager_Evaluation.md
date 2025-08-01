@@ -23,7 +23,7 @@ Rae Jordan demonstrates strong collaborative skills and technical dedication as 
 **Achievement Level:** 70%
 
 **Manager Comments:**
-Rae Jordan has made meaningful progress in AI tool adoption, successfully integrating MS Copilot and other AI tools into her OutSystems development workflow. Her focus on using these tools to enhance coding efficiency and reduce manual work demonstrates practical application of AI innovation principles. The 70% achievement level reflects solid progress while highlighting opportunities for deeper BFS domain expertise development.
+I've observed Rae Jordan taking initiative with AI tool adoption, successfully integrating MS Copilot into her daily OutSystems workflow. What strikes me about her approach is how naturally she applies these tools to reduce manual effort and improve coding efficiency. During our one-on-ones, she's shared specific examples of workflow improvements, though I see opportunities for her to develop deeper BFS domain knowledge to complement her technical innovation skills.
 
 ### Achieve Engineering Excellence
 **Employee Self-Rating:** Exceeds Expectations (EE)  
@@ -31,7 +31,7 @@ Rae Jordan has made meaningful progress in AI tool adoption, successfully integr
 **Achievement Level:** 85%
 
 **Manager Comments:**
-Rae Jordan's active participation in development pairing sessions has been exceptional. Her contributions to resolving complex features and bugs have genuinely enhanced team problem-solving capabilities and improved delivery speed. Her collaborative approach to tackling difficult technical challenges demonstrates strong engineering excellence mindset and valuable team contribution.
+Working alongside Rae Jordan during our development sprints, I've consistently seen her dive into complex pairing sessions with enthusiasm. What stands out about her contributions is how she helps the team break through challenging features and bugs - her peers specifically mention her UI expertise and problem-solving approach. I've watched her strengthen our entire team's technical capabilities through these collaborative efforts.
 
 ### Empowered & Accountable Teams
 **Employee Self-Rating:** Exceeds Expectations (EE)  
@@ -39,7 +39,7 @@ Rae Jordan's active participation in development pairing sessions has been excep
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Rae Jordan exemplifies team empowerment through her consistent participation in development pairing sessions and dedication to promoting clean, maintainable code. Her commitment to applying best practices and supporting engineering excellence initiatives directly contributes to team accountability and quality outcomes. Her collaborative approach strengthens team capabilities and knowledge sharing.
+From my perspective, Rae Jordan naturally fosters team empowerment through her mentoring approach during pairing sessions. I've witnessed her guiding team members through complex problems while maintaining focus on clean, maintainable code standards. Her peers consistently mention how she helps them get up to speed and resolve blockers, which tells me she understands that strong teams are built through shared knowledge and accountability.
 
 ---
 
@@ -50,28 +50,28 @@ Rae Jordan exemplifies team empowerment through her consistent participation in 
 **Manager Rating:** Exceeds Expectations (EE)
 
 **Manager Comments:**
-Rae Jordan's commitment to completing urgent tasks, even extending beyond shift hours when necessary, demonstrates exceptional dedication. Her consistent support for teammates and reliability in delivering on commitments creates a positive team dynamic. She genuinely embodies the five pillars of character through her actions and accountability.
+I've observed Rae Jordan's exceptional dedication firsthand - she'll extend her hours when urgent tasks require it, never making it about herself but focusing on team success. What impresses me most is how her teammates rely on her support and trust her to deliver consistently. Through our interactions, I see someone who genuinely embodies our character values through daily actions rather than just words.
 
 ### Problem Solving/Analysis
 **Employee Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Meets Expectations (M)
 
 **Manager Comments:**
-Rae Jordan shows good analytical thinking, particularly in connecting with team members to discuss complex APW issues. While she demonstrates solid problem-solving approach, there's opportunity to develop more systematic analytical methodologies and independent problem resolution capabilities beyond collaborative problem-solving.
+I've seen Rae Jordan tackle complex APW issues with good analytical thinking, often connecting with teammates to work through challenges collaboratively. While her problem-solving approach is solid, I'd like to see her develop more independent analytical capabilities - moving from collaborative problem-solving to leading the analysis herself. This would complement her natural mentoring abilities with stronger technical leadership.
 
 ### Productivity
 **Employee Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Meets Expectations (M)
 
 **Manager Comments:**
-Rae Jordan manages her workload effectively and shows strong collaborative instincts. Her proactive engagement with team members on complex issues demonstrates good productivity practices. However, opportunities exist to expand individual productivity through more independent task completion and process optimization.
+What I notice about Rae Jordan is her natural collaborative instincts - she proactively engages with teammates on complex issues, which demonstrates good team productivity. However, I see opportunities for her to balance this collaborative strength with more independent task ownership. She could enhance her impact by taking complete ownership of features from start to finish while still maintaining her collaborative approach.
 
 ### Results Focus
 **Employee Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Meets Expectations (M)
 
 **Manager Comments:**
-Rae Jordan demonstrates solid results orientation by taking initiative to request PBIs and tasks. Her active involvement in prioritizing team commitments and regular participation in developer pairing sessions shows commitment to team success. Her focus on knowledge sharing and collaboration supports continuous learning and team growth.
+I've observed Rae Jordan consistently taking initiative to request new PBIs and actively participating in prioritizing our team commitments. Her results focus shows through her regular participation in pairing sessions, though what I appreciate most is how she balances individual delivery with knowledge sharing. She understands that lasting results come from lifting the entire team's capabilities.
 
 ---
 
@@ -104,13 +104,13 @@ Rae Jordan demonstrates solid results orientation by taking initiative to reques
 
 Based on formal peer review feedback collected during this review cycle, several observations reinforce the manager assessment:
 
-**Collaborative Leadership:** Team members consistently recognize Rae Jordan's collaborative approach and willingness to step up when needed. Multiple colleagues noted his proactive nature and readiness to tackle complex technical challenges, particularly in UI development. This validates the assessment of his strong collaborative instincts and technical dedication.
+**Collaborative Leadership:** Team members consistently recognize Rae Jordan's collaborative approach and willingness to step up when needed. Multiple colleagues noted her proactive nature and readiness to tackle complex technical challenges, particularly in UI development. This validates the assessment of her strong collaborative instincts and technical dedication.
 
-**Mentoring Recognition:** Peers appreciate his approachability and willingness to provide guidance when asked. Team members specifically mentioned his effectiveness in helping others understand complex issues and his supportive approach to problem-solving. This aligns with observations of his strong pair programming contributions.
+**Mentoring Recognition:** Peers appreciate her approachability and willingness to provide guidance when asked. Team members specifically mentioned her effectiveness in helping others understand complex issues and her supportive approach to problem-solving. This aligns with observations of her strong pair programming contributions.
 
-**Leadership Development Potential:** The peer feedback reinforces the assessment that Rae Jordan has potential for increased leadership responsibilities. Several team members see opportunities for him to take on more initiative and ownership beyond his current scope, which mirrors the manager's recommendation for expanded technical leadership development.
+**Leadership Development Potential:** The peer feedback reinforces the assessment that Rae Jordan has potential for increased leadership responsibilities. Several team members see opportunities for her to take on more initiative and ownership beyond her current scope, which mirrors the manager's recommendation for expanded technical leadership development.
 
-**Development Consistency:** Peer observations align with manager assessment regarding ownership expansion opportunities. Team members noted that while Rae Jordan performs well in his current responsibilities, there's potential for him to drive more initiatives independently and take greater ownership of end-to-end deliverables.
+**Development Consistency:** Peer observations align with manager assessment regarding ownership expansion opportunities. Team members noted that while Rae Jordan performs well in her current responsibilities, there's potential for her to drive more initiatives independently and take greater ownership of end-to-end deliverables.
 
 ---
 
@@ -160,9 +160,9 @@ Based on formal peer review feedback collected during this review cycle, several
 
 ## Overall Assessment
 
-Rae Jordan Alix is a dedicated and collaborative OutSystems Developer who brings strong team spirit and genuine commitment to quality. Her exceptional willingness to support teammates and extend effort for urgent deliverables demonstrates outstanding character and work ethic. The peer feedback process reinforced these observations, with colleagues consistently recognizing his collaborative approach and technical contributions.
+Rae Jordan Alix is a dedicated and collaborative OutSystems Developer who brings strong team spirit and genuine commitment to quality. Her exceptional willingness to support teammates and extend effort for urgent deliverables demonstrates outstanding character and work ethic. The peer feedback process reinforced these observations, with colleagues consistently recognizing her collaborative approach and technical contributions.
 
-Rae Jordan's strength lies in collaborative problem-solving and her commitment to code quality through pair programming and best practices application. Team members particularly value his technical expertise in UI challenges and his willingness to provide guidance when needed. This peer recognition validates the assessment of his strong collaborative instincts and mentoring potential.
+Rae Jordan's strength lies in collaborative problem-solving and her commitment to code quality through pair programming and best practices application. Team members particularly value her technical expertise in UI challenges and her willingness to provide guidance when needed. This peer recognition validates the assessment of her strong collaborative instincts and mentoring potential.
 
 Her successful adoption of AI tools shows adaptability and forward-thinking approach to development efficiency. The collaborative excellence observed by management is well-supported by team member feedback, reinforcing her value as a team contributor and potential mentor.
 
