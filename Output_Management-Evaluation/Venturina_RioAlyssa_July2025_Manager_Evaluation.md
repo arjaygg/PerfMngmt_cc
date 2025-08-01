@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Rio demonstrates excellent technical competency and strong initiative as a Senior Software Engineer on the AUC project. Her 8.2-month tenure has established her as a reliable, quality-focused contributor who proactively identifies process improvements and takes ownership of strategic initiatives. Rio's combination of technical skills, process innovation, and accountability makes her a valuable senior team member with clear leadership potential.
+In the eight months I've worked with Rio, what consistently impresses me is her proactive mindset. She doesn't just complete her assigned work - she looks around and identifies what could be improved. Her work on the Deployment Checklist wasn't something I asked for, but it's exactly the kind of initiative that makes processes better for everyone. That forward-thinking approach is what I look for in a senior developer.
 
 **Overall Performance Rating: 3.3/5.0 (Meets Expectations)**
 
@@ -23,7 +23,7 @@ Rio demonstrates excellent technical competency and strong initiative as a Senio
 **Achievement Level:** 85%
 
 **Manager Comments:**
-Rio has shown exceptional initiative in AI adoption and automation innovation. Her proactive use of Copilot for development efficiency, exploration of Power Automate opportunities within ABC Talent Pulse initiative, and acquisition of Microsoft Applied Skills credential demonstrate strong commitment to positioning ABC Tech as a center of AI-powered innovation. Her identification of automation opportunities in the hiring process shows strategic thinking beyond immediate development tasks.
+Rio's approach to AI tools and automation has been genuinely impressive. She's not just using Copilot to speed up her coding - she's exploring Power Automate for our hiring process and actually got the Microsoft Applied Skills credential to back up her knowledge. What I appreciate is that she sees automation opportunities everywhere, not just in her immediate development work.
 
 ### Achieve Engineering Excellence
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -31,7 +31,7 @@ Rio has shown exceptional initiative in AI adoption and automation innovation. H
 **Achievement Level:** 90%
 
 **Manager Comments:**
-Rio's comprehensive approach to engineering excellence is exemplary. Her systematic implementation of unit testing, technical documentation, active participation in pair code reviews, and development demos to QA demonstrate mature engineering practices. Her contribution to reusable components and widgets in OutSystems significantly improves team efficiency and consistency. Her proactive quality assurance approach prevents defects and reduces rework.
+Rio approaches engineering with the kind of systematic thoroughness that makes my job easier. Her unit testing is comprehensive, her documentation is actually useful, and she actively participates in code reviews in a way that helps everyone learn. The reusable components she's built in OutSystems have saved the whole team time and improved our consistency.
 
 ### Empowered & Accountable Teams
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -39,7 +39,7 @@ Rio's comprehensive approach to engineering excellence is exemplary. Her systema
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Rio's initiative in starting the Deployment Checklist development and creating POC demonstrates exceptional ownership and accountability. Her collaborative approach to ensuring these processes promote accountability and quality shows mature team leadership. Although still in progress, her efforts lay crucial groundwork for more structured and efficient development practices across the team.
+The Deployment Checklist Rio initiated is a perfect example of how she thinks beyond her immediate responsibilities. She saw a process gap that was causing issues for the team and took initiative to fix it. Even though it's still in progress, the groundwork she's laid is going to make our deployment process much more reliable.
 
 ---
 

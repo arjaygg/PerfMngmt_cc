@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Mauricio demonstrates strong potential and technical capabilities but shows inconsistent execution across different areas of responsibility. His commitment to continuous learning and professional development is commendable, and he brings creative problem-solving approaches to complex challenges. However, there are clear opportunities for improvement in consistency of delivery and goal achievement that need focused attention.
+Working with Mauricio over these past 21 months has been a mix of genuine excitement about his potential and frustration with his inconsistency. When he's on, he's really on - creative, independent, taking ownership of complex problems. But I've also seen him struggle with follow-through and consistent delivery. It's clear he has the technical capability; what we need to work on together is the reliability piece.
 
 **Overall Performance Rating: 2.8/5.0 (Needs Development)**
 
@@ -23,7 +23,7 @@ Mauricio demonstrates strong potential and technical capabilities but shows inco
 **Achievement Level:** 90%
 
 **Manager Comments:**
-Mauricio shows strong initiative and independence in approaching Zenith Legacy initiatives. While he demonstrates good understanding of his role and delivers quality work with minimal supervision, the execution sometimes lacks the consistency expected at his tenure level. His ownership mentality is excellent, but needs to be coupled with more reliable delivery patterns.
+Mauricio's approach to Zenith Legacy work shows me he understands the technical challenges and can work independently. What concerns me is the inconsistency - some weeks he delivers excellent work that exceeds expectations, other weeks I'm left wondering about the status of key deliverables. After 21 months, I need to see more reliable patterns in his execution.
 
 ### Execute on Zenith Product Roadmap (Multiple Goals)
 **Employee Self-Rating:** Needs Development (ND)  
@@ -31,7 +31,7 @@ Mauricio shows strong initiative and independence in approaching Zenith Legacy i
 **Achievement Level:** 75%
 
 **Manager Comments:**
-This area represents Mauricio's primary development opportunity. While he frequently seeks novel approaches to organize work and fulfill duties, the translation to consistent results has been inconsistent. His commitment to professional growth through targeted training is positive, but the application of new skills to deliverables needs improvement. The 90% achievement on roadmap items shows capability, but the ND rating indicates execution challenges that require focused attention.
+This is where I need to be direct with Mauricio. He's always looking for new ways to organize his work and approach problems, which I appreciate, but the results aren't consistently following through. I see him taking training and learning new skills, but I'm not seeing that translate to more reliable delivery. The 90% achievement shows he can do the work; the challenge is doing it consistently.
 
 ### Financial Management
 **Employee Self-Rating:** Needs Development (ND)  
