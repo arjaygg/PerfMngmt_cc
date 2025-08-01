@@ -23,7 +23,7 @@ Raynan demonstrates strong technical competency and exceptional accountability a
 **Achievement Level:** 70%
 
 **Manager Comments:**
-Raynan's proactive initiative in attending the OutSystems Developers Conference 2025 and exploring OutSystems Mentor for AI-assisted development demonstrates exceptional commitment to professional growth. His 70% achievement significantly exceeds the 30% target, showing outstanding progress in positioning ABC Tech as a center of BFS and AI innovation. His dedication to acquiring cutting-edge tools and insights directly supports faster, smarter financial solution delivery.
+I've been impressed by Raynan's initiative in attending the OutSystems Developers Conference 2025 - he came back energized and shared valuable insights with the team. What stands out about his approach is how he's actively exploring OutSystems Mentor for AI-assisted development, not just talking about it but actually implementing it. His 70% achievement far exceeds our 30% target, and I can see how his dedication to acquiring cutting-edge tools directly supports our BFS innovation goals.
 
 ### Achieve Engineering Excellence
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -31,7 +31,7 @@ Raynan's proactive initiative in attending the OutSystems Developers Conference 
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Raynan's contribution to engineering excellence is exemplary, achieving 80% against the target metrics. His focus on enhancing collaboration, accelerating delivery of complex features, and improving code quality while reducing rework demonstrates mature engineering practices. His systematic approach to development efficiency and quality improvement directly supports our engineering excellence objectives.
+Working with Raynan, I've seen his contribution to engineering excellence firsthand - his 80% achievement reflects both technical skill and systematic thinking. What I appreciate most is how he approaches complex features with a quality-first mindset, enhancing collaboration while reducing rework. I've observed his methodical approach to development efficiency during our sprint planning, and it clearly demonstrates mature engineering practices that benefit our entire team.
 
 ### Empowered & Accountable Teams
 **Employee Self-Rating:** Meets Expectations (M)  
@@ -39,7 +39,7 @@ Raynan's contribution to engineering excellence is exemplary, achieving 80% agai
 **Achievement Level:** 80%
 
 **Manager Comments:**
-Raynan excels in team empowerment through his adherence to onsite work policies and strategic talent referrals. His recommendation of a capable OutSystems developer for a key project demonstrates excellent judgment and team-first thinking. His actions consistently strengthen team collaboration and ensure appropriate skill placement, contributing significantly to our culture of accountability and shared ownership.
+I've consistently observed Raynan excelling in team empowerment through his approach to collaboration and strategic thinking. His recommendation of a capable OutSystems developer for a key project was spot-on - it showed excellent judgment and genuine team-first thinking. From my perspective, his adherence to our onsite work policies combined with his natural ability to strengthen team collaboration demonstrates his commitment to our culture of accountability and shared ownership.
 
 ---
 
@@ -50,28 +50,28 @@ Raynan excels in team empowerment through his adherence to onsite work policies 
 **Manager Rating:** Exceeds Expectations (EE)
 
 **Manager Comments:**
-Raynan consistently embodies the Five Pillars of Character through his actions. His willingness to extend shift hours to accomplish important tasks and consistent support for teammates demonstrates exceptional reliability and commitment. He creates an uplifting environment through his dependable nature and genuine care for team success.
+I've witnessed Raynan consistently embody our Five Pillars of Character through his daily actions. What strikes me most is his willingness to extend his shift hours when important tasks require it - not grudgingly, but with genuine commitment to team success. His teammates consistently tell me they can count on his support, and I see how his dependable nature creates an uplifting environment where others feel supported.
 
 ### Problem Solving/Analysis
 **Employee Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)
 
 **Manager Comments:**
-Raynan's analytical capabilities are outstanding, particularly in breaking down complex problems and identifying underlying issues. His successful track record of fixing QA-raised bugs for APW demonstrates strong technical problem-solving skills. His ability to help identify the right developers for specific tasks based on team strengths shows advanced analytical thinking and team optimization mindset.
+I've observed Raynan's outstanding analytical capabilities in action, particularly when he breaks down complex problems into manageable components. His track record of fixing QA-raised bugs for APW speaks volumes - he doesn't just fix symptoms but identifies underlying issues. What impresses me most is his ability to help identify the right developers for specific tasks based on team strengths, showing both analytical thinking and genuine team optimization mindset.
 
 ### Productivity
 **Employee Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)
 
 **Manager Comments:**
-Raynan's productivity management is exceptional. He consistently asks for new PBIs when completing current tasks, actively participates in prioritizing team commitments, and engages in developer pairing sessions. His proactive approach to workload management and knowledge sharing demonstrates superior time management and team contribution.
+Working with Raynan, I've seen his exceptional productivity management in action. He consistently asks for new PBIs as soon as he completes current tasks - never sitting idle but always moving our work forward. I've observed his active participation in prioritizing team commitments and his regular engagement in developer pairing sessions. His proactive approach to both workload management and knowledge sharing demonstrates what superior time management looks like.
 
 ### Results Focus
 **Employee Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)
 
 **Manager Comments:**
-Raynan's results orientation is exemplary. He consistently delivers PBIs on time based on Dev Target Dates, with delays only occurring due to legitimate blockers like backend issues or product clarifications. His immediate ownership of bug tickets related to his previous work demonstrates exceptional accountability and commitment to quality outcomes.
+I've consistently seen Raynan's exemplary results orientation throughout our project cycles. He delivers PBIs on time based on Dev Target Dates, and when delays do occur, they're due to legitimate blockers like backend issues or product clarifications. What impresses me most is his immediate ownership of bug tickets related to his previous work - he doesn't make excuses or deflect, but takes responsibility and ensures quality outcomes.
 
 ---
 
