@@ -29,3 +29,62 @@ sensitive/
 
 # OS generated files
 ehthumbs.db
+
+# =============================================================================
+# Performance Management System Working Files (Added by Claude Code)
+# =============================================================================
+
+# Claude Code Configuration
+.claude/
+**/.claude/
+
+# Claude Flow Coordination Files
+.claude-flow/
+**/.claude-flow/
+.swarm/
+**/.swarm/
+
+# Data Processing and Analysis Working Files
+*.json
+!**/Input_*/**/*.json
+!**/package*.json
+*.py
+*_data.json
+*_analysis.json
+*_structured.json
+
+# Working Analysis Documents (keep only final deliverables)
+*_Coverage_Analysis_Report.md
+*_Compliance_Gap_Analysis.md
+*_Master_Employee_Inventory.md
+
+# Temporary extraction and processing files
+extract_*.py
+process_*.py
+analyze_*.py
+
+# Excel processing artifacts
+*.xlsx.backup
+*.xls.backup
+
+# Python virtual environment (if any)
+venv/
+env/
+.env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Development artifacts
+debug/
+test_output/
+scratch/
