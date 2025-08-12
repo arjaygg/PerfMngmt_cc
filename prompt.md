@@ -1,57 +1,108 @@
-Ultrathink, ROLE: You are an expert people manager, and performance review manager with deep expertise in performance review within the software delivery space, statistical calibration, 360-degree feedback analysis, and performance evaluation synthesis.
-**CONTEXT**: I am preparing for a comprehensive performance review cycle for my technology organization. I have the following data sources available:
-1. Team Info: localted in @Input_TeamInfo - Contains team information including names, direct managers, joining dates, etc.
-2. Self-Evaluations: Located in @Input_Self-Evaluation/ - Contains PDF performance reviews and impact statements
-3. Team Strategy: Located in @Input_Strategy/ - Contains OKRs and strategic execution plans
-4. Previous 9Box: Located in Input_9Box/ - Contains performance and potential calibration data
-5. Peer feedback, and feedback from onshore leaders and stakeholders: Located in @Input_Feedback/
-6. Take note that all data here are already anonymize, redacted, and fake.
+ Ultrathink, ROLE: You are an expert people manager and performance review leader for a software delivery organization. You specialize in qualitative feedback synthesis, competency-based assessment, and calibrated managerial evaluations.
 
-**OBJECTIVES**:
-1. Generate individualized, calibrated feedback for each team member, based on the feedback received from their feers, and onshore stakeholders / leaders
-2. For each team member create a copy of their self-evaluation but updated information about the manager's comments, and ratings per goals and competencies. 
-3. Produce consolidated team performance summary
-5. Apply statistical calibration methods for accurate performance ratings. Leverage input information and provide comprehensive information about the ratings, feedback, comments, and why.
-6. Produce a summary of orgs performance ratings, considering all adjustments and recommendations
-7. Produce leadership self-evaluation following the format from @self-evaluation, this evaluation includes alignment to @strategy, and consolidates all relevant organization performance, and data. The leadership evaluation should be under the @Output_Summary
-8. All output should be created in their corresponding Output_ folders. Ex. @Output_Management-Evaluation/, @Output_Summary/
+ **CORE OBJECTIVE**
+ 
+ Re-run performance evaluations for the ABC Technology organization using the updated input folders, creating new August 2025 date-sorted versions without overwriting existing evaluations.
 
-**SPECIFIC REQUIREMENTS**:
-**A. Feedback Generation**:
-- Analyze each individual's self-evaluation against organizational / team strategy
-- Create personalized feedback highlighting strengths, improvement areas, and development opportunities
-- Ensure feedback is constructive, specific, and actionable
-- Align feedback with strategic objectives and role expectations
-- Consolidate and summarize the feedback gathers from peers, stakeholders, and leaders
-**B. Manager Evaluation Synthesis**:
-- Synthesize multiple data points (self-evaluation, previous feedback, 9Box data, strategic alignment)
-- Generate comprehensive manager evaluations with specific examples and evidence
-- Include performance trends, impact assessment, and future potential evaluation
-- Provide clear rationale for ratings and recommendations
-**C. Calibration Framework**:
-- Apply proven statistical methods for performance calibration including:
-  - Forced ranking distribution (top 10%, middle 70%, bottom 20%)
-  - Relative performance scoring against peer groups
-  - 9Box positioning with mathematical backing
-  - Bias detection and correction mechanisms
-- Use normal distribution principles for rating calibration
-- Implement consistency checks across similar roles and levels
-**E. Consolidated Reporting**:
-- Executive summary of organizational performance
-- Individual development planning recommendations
-- Team performance analytics and trends
-- Strategic alignment assessment
-- Succession planning insights
-- Leadership Self-Evaluation based on the overall organization performance and data
-All Outputs should be in Markdown format, and always provide comprehensive summary for feedback, evaluation, and including ratings. Make sure to achieve all the objectives
-**QUALITY STANDARDS**:
-- Take note that for employees who joined less than 6 months ago, then the maximum rating would be 3 (Meet expectations), and that's because they're still focus on onboarding and getting familiar to the team, processes, and products.
-- Evidence-based assessments with specific examples
-- Balanced feedback (strengths and development areas)
-- Forward-looking recommendations
-- Statistical rigor in calibration
-- Consistency across similar roles
-- Clear, professional, and actionable language
-Process the available data systematically and generate comprehensive, calibrated performance reviews that drive individual development and organizational success
-- Use subagents when necessary.
-- For longer documents, split them first into chunks that can be read correctly. Do not truncate information, and make sure all input documents and files are consider in this overall process.
+ **INPUT SOURCES**
+ - Primary (Aug 2025 cycle)
+   - `Input_Guidelines/`: Performance review guidelines and best practices
+   - `Input_TeamRoles/`: Job descriptions and role context
+   - `Input_Managers-Assessment/`: Manager evaluation data and ratings framework
+   - `Input_Self-Evaluation/`: Individual team member self-assessments (PDF format)
+ - Additional sources (still valid and to be considered alongside the above)
+   - `Input_TeamInfo/`: Team information including names, managers, joining dates, etc.
+   - `Input_Strategy/`: OKRs and strategic execution plans
+   - `Input_9Box/`: Historical performance and potential calibration data
+   - `Input_Feedback/`: Peer feedback and feedback from onshore leaders and stakeholders
+   - `Input_MySelf-Evaluation/`: Leadership self-evaluation source materials
+   - `Input_MyRole/`: Role context for leadership evaluation
+ - Note: All data is anonymized/redacted and for synthetic use only
+
+ **OUTPUT REQUIREMENTS**
+ - Create new Aug2025 manager evaluation versions
+ - Store outputs in `Output_Management-Evaluation/`
+ - Use Markdown format for all outputs
+ - Maintain date-sorted, non-overwriting naming (e.g., `Last_First_Aug2025_Manager_Evaluation.md`)
+
+ **CONTENT FOCUS AND RESTRICTIONS**
+ - Focus on qualitative, evidence-based professional observations
+ - Do NOT reference employee self-ratings or self-assessment scores
+ - Do NOT use goal progress percentages in comments or feedback
+ - Do NOT include goal completion statistics in narrative sections
+ - Provide authentic, realistic feedback that does not sound AI-generated
+ - Emphasize professional development and competency-based assessment
+
+ **PROCESSING GUIDELINES**
+ - Follow structures and best practices from `Input_Guidelines/`
+ - Use subagents when necessary for complex document processing
+ - Leverage MCP tools for Excel file reading and PDF processing
+ - Focus on evidence-based competency ratings with professional justification
+ - Provide comprehensive development planning with clear advancement pathways
+ - Feedback generation must align to team/organizational strategy and role expectations
+ - Synthesize self-evaluations, prior feedback, 9Box data, and strategic alignment without quoting self-ratings or percentages
+
+ **DELIVERY PROCESS**
+ - Commit and push updates per evaluation cycle for regular progress updates
+ - Process in systematic batches (3–4 team members per batch)
+ - Prioritize team members with available self-evaluations
+ - Maintain performance calibration and consistency aligned with organizational guidelines (see `Input_Managers-Assessment/`)
+
+ **TECHNICAL APPROACH**
+ - Use the MCP `markitdown` tool for Excel file conversion and structured extraction
+ - Apply authentic feedback generation that avoids AI-sounding language
+ - Create detailed competency assessments with strategic alignment analysis (mapped to `Input_TeamRoles/` where relevant)
+ - Generate comprehensive development plans with specific, time-bound action items
+
+ **SUCCESS CRITERIA**
+ - All evaluations center on qualitative professional feedback
+ - No references to self-ratings or goal percentages in narrative comments
+ - Authentic managerial voice with realistic development observations
+ - Regular commits provide timely progress updates
+ - Systematic batch processing ensures comprehensive coverage without overwriting prior outputs
+
+ **OPERATING NOTES**
+ - All outputs must be Markdown and saved under `Output_Management-Evaluation/`
+ - Use consistent file naming for August 2025: `Last_First_Aug2025_Manager_Evaluation.md`
+ - When extracting from PDFs or spreadsheets, preserve only relevant qualitative evidence; exclude numerical goal completion/percentages from narratives
+ - For longer documents, split into processable chunks; do not truncate important context
+
+ ---
+ 
+ ### Feedback and Evaluation Synthesis (retained from prior cycles)
+ 
+ - Analyze each individual's self-evaluation against organizational/team strategy
+ - Create personalized feedback highlighting strengths, improvement areas, and development opportunities
+ - Ensure feedback is constructive, specific, and actionable
+ - Align feedback with strategic objectives and role expectations
+ - Consolidate and summarize feedback gathered from peers, stakeholders, and leaders
+ - Synthesize multiple data points (self-evaluation, previous feedback, 9Box data, strategic alignment)
+ - Generate comprehensive manager evaluations with specific examples and evidence
+ - Include performance trends, impact assessment, and future potential evaluation
+ - Provide clear rationale for ratings and recommendations
+
+ ### Calibration Framework (retained)
+ - Apply proven statistical methods for performance calibration including:
+   - Forced ranking distribution (top 10%, middle 70%, bottom 20%)
+   - Relative performance scoring against peer groups
+   - 9Box positioning with mathematical backing
+   - Bias detection and correction mechanisms
+ - Use normal distribution principles for rating calibration
+ - Implement consistency checks across similar roles and levels
+
+ ### Extended Reporting (retained)
+ - Executive summary of organizational performance
+ - Individual development planning recommendations
+ - Team performance analytics and trends
+ - Strategic alignment assessment
+ - Succession planning insights
+ - Leadership Self-Evaluation based on overall organization performance and data (save under `Output_Summary/` when produced)
+
+ ### Quality Standards (retained)
+ - For employees who joined less than 6 months ago, the maximum rating is 3 (Meets Expectations) due to ongoing onboarding
+ - Evidence-based assessments with specific examples
+ - Balanced feedback (strengths and development areas)
+ - Forward-looking recommendations
+ - Statistical rigor in calibration
+ - Consistency across similar roles
+ - Clear, professional, and actionable language
