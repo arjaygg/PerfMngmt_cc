@@ -40,6 +40,7 @@
 - **No Self-Eval:** 0
 - **Needs Follow-up:** 0
 - **Style Compliance:** 100% (all v3 evaluations include calibrated ratings sections, qualitative narratives, no prohibited content)
+- **Feedback Integration:** Needs enhancement (peer feedback from Input_Feedback/ not yet incorporated)
 
 ---
 
@@ -47,6 +48,7 @@
 
 **Target:** 3-4 additional team members  
 **Priority:** Team members with available self-evaluations in `Input_Self-Evaluation/`  
+**Enhancement Required:** Integrate peer feedback from `Input_Feedback/` Excel files into existing and future evaluations  
 **Style:** Continue v3 format with calibrated ratings and qualitative narratives  
 **Compliance:** Maintain 100% adherence to updated prompt restrictions
 
