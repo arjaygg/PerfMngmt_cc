@@ -1,8 +1,8 @@
 # August 2025 Performance Evaluations Index
 
-**Last Updated:** 2025-08-12  
-**Total Evaluations:** 3  
-**Style Version:** v3 (calibrated ratings + qualitative narrative)
+**Last Updated:** 2025-08-13  
+**Total Evaluations:** 6  
+**Style Version:** v4 (calibrated ratings + qualitative narrative + integrated peer feedback)
 
 ---
 
@@ -10,21 +10,25 @@
 
 | Employee Name | Role | Ratings Section | File Path | Status |
 |---------------|------|-----------------|-----------|---------|
-| Jay Mark Lagmay | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Lagmay_JayMark_Aug2025_Manager_Evaluation_v3.md` | ✅ Completed |
-| Verlin Grace Cabalhug | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Cabalhug_VerlinGrace_Aug2025_Manager_Evaluation_v3.md` | ✅ Completed |
-| Joshua Asi | Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Asi_Joshua_Aug2025_Manager_Evaluation_v3.md` | ✅ Completed |
+| Jay Mark Lagmay | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Lagmay_JayMark_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
+| Verlin Grace Cabalhug | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Cabalhug_VerlinGrace_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
+| Joshua Asi | Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Asi_Joshua_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
+| Jay Mark Lagmay | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Lagmay_JayMark_Aug2025_Manager_Evaluation_v3.md` | ✅ Previous Version |
+| Verlin Grace Cabalhug | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Cabalhug_VerlinGrace_Aug2025_Manager_Evaluation_v3.md` | ✅ Previous Version |
+| Joshua Asi | Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Asi_Joshua_Aug2025_Manager_Evaluation_v3.md` | ✅ Previous Version |
 
 ---
 
 ## Style Compliance Summary
 
-**v3 Format Features:**
+**v4 Format Features:**
 - ✅ Calibrated Ratings section (Goals + Competencies)
 - ✅ Qualitative narrative (no self-ratings or goal percentages)
 - ✅ Impact Areas assessment
 - ✅ Strategic alignment analysis
 - ✅ Development focus (3-6, 6-12 months)
 - ✅ Recognition and manager assessment summary
+ - ✅ Integrated peer feedback synthesis (qualitative)
 
 **Content Restrictions Applied:**
 - ✅ No self-ratings or self-assessment scores
@@ -37,8 +41,8 @@
 
 ## Batch Processing Status
 
-- **Batch 1:** ✅ Completed (3 members)
-- **Batch 2:** 🔄 Pending
+- **Batch 1:** ✅ Completed (3 members; v3 baseline)
+- **Batch 2:** ✅ Completed (3 members; v4 with peer feedback integration)
 - **Batch 3:** 🔄 Pending
 - **Batch 4:** 🔄 Pending
 
@@ -48,9 +52,9 @@
 
 ## File Naming Convention
 
-**Format:** `Last_First_Aug2025_Manager_Evaluation_v3.md`  
+**Format:** `Last_First_Aug2025_Manager_Evaluation_v4.md`  
 **Location:** `Output_Management-Evaluation/`  
-**Version:** v3 (current standard with calibrated ratings)
+**Version:** v4 (current standard with calibrated ratings + peer feedback synthesis)
 
 ---
 
