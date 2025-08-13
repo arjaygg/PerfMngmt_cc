@@ -20,22 +20,36 @@ Joshua continues to be a steady, high-upside contributor. He strengthens quality
 ### Goals Ratings
 - **Accelerating Banking & Financial Services Mastery & AI Innovation:** M (Meets Expectations)
   - Proactively explored and applied AI-assisted techniques to improve day-to-day development effectiveness
+  - Evidence (qualitative):
+    - Shared working scripts and explained complex use cases clearly, enabling teammates to learn faster (peer feedback)
+    - Applied practical AI-assisted approaches in automation tasks to improve effectiveness
 - **Achieve Engineering Excellence:** M (Meets Expectations)
   - Delivered durable automation with attention to maintainability, validation, and clear documentation
+  - Evidence (qualitative):
+    - Produced reusable automation and notes that support smooth handoffs and reduce rework
+    - Communicated status and risks early, supporting predictable delivery and issue prevention
 - **Empowered & Accountable Teams:** M (Meets Expectations)
   - Shared working examples and provided timely assistance that unblocked peers
+  - Evidence (qualitative):
+    - Approachable and responsive when support is requested during automation work (peer feedback)
+    - Provided short, focused KTs and examples that others could immediately reuse
 
 ### Competencies Ratings
 - **Dependability:** M (Meets Expectations)
   - Communicates progress early, follows through on commitments, and closes the loop on issues
+  - Observed behaviors: early risk surfacing; clear, timely updates to maintain team flow
 - **Problem Solving and Analysis:** M (Meets Expectations)
   - Breaks down work, validates assumptions, and proposes practical solutions
+  - Observed behaviors: decomposes scenarios; explains reasoning plainly when sharing solutions
 - **Productivity:** M (Meets Expectations)
   - Maintains a consistent cadence of meaningful contributions with low rework
+  - Observed behaviors: focuses on maintainable automation; documents patterns and edge cases
 - **Results Orientation:** M (Meets Expectations)
   - Connects tasks to stakeholder outcomes; addresses root causes with corrective actions
+  - Observed behaviors: closes issues with corrective actions and verifies outcomes before handoff
 - **Leadership (IC Scope):** M (Meets Expectations)
   - Models helpful behaviors and enables others through examples and short, focused KTs
+  - Observed behaviors: shares scripts on request; answers questions with clear, reusable examples
 
 ---
 

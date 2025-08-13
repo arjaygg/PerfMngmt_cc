@@ -20,22 +20,36 @@ Jay Mark lifts both systems and people. He embedded durable testing practices, r
 ### Goals Ratings
 - **Accelerating Banking & Financial Services Mastery & AI Innovation:** EE (Exceeds Expectations)
   - Introduced useful AI-assisted workflows in development and research contexts
+  - Evidence (qualitative):
+    - Prepared for cross-functional discussions and supported API-related topics with clear materials (peer input)
+    - Shared findings from research that teammates could apply directly
 - **Achieve Engineering Excellence:** SE (Substantially Exceeds Expectations)
   - Established repeatable testing approaches that improved reliability and maintainability
+  - Evidence (qualitative):
+    - Testing standards and review rigor improved maintainability; patterns adopted by adjacent services
+    - Produced reusable artifacts and examples that accelerated onboarding and execution
 - **Empowered & Accountable Teams:** EE (Exceeds Expectations)
   - Provided hands-on guidance, enabling faster onboarding and consistent standards
+  - Evidence (qualitative):
+    - Peers cite approachable mentoring and thorough investigation notes that transfer knowledge
+    - Consistent, dependable support during cross-team efforts
 
 ### Competencies Ratings
 - **Dependability:** EE (Exceeds Expectations)
   - Communicates risk early and meets commitments with steady delivery
+  - Observed behaviors: transparent risk surfacing; consistent follow-through on commitments
 - **Problem Solving and Analysis:** EE (Exceeds Expectations)
   - Sequences complex work into low-risk steps; validates assumptions with data and peer input
+  - Observed behaviors: frames trade-offs; uses data and peer review to validate direction
 - **Productivity:** EE (Exceeds Expectations)
   - Maintains a durable pace of production-grade contributions while reducing unplanned work through prevention
+  - Observed behaviors: emphasizes prevention; embeds checks that reduce rework
 - **Results Orientation:** EE (Exceeds Expectations)
   - Connects technical work to stakeholder outcomes; implements corrective actions that stick
+  - Observed behaviors: ties fixes to stakeholder value; verifies durability post-change
 - **Leadership (IC Scope):** EE (Exceeds Expectations)
   - Influences through clarity and example; improves team processes without creating dependencies
+  - Observed behaviors: shares standards and artifacts; mentors through example-driven guidance
 
 ---
 

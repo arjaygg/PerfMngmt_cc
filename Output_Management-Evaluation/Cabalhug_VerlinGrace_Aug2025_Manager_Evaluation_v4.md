@@ -20,22 +20,36 @@ Verlin Grace is a steady contributor who improves clarity and maintainability th
 ### Goals Ratings
 - **Accelerating Banking & Financial Services Mastery & AI Innovation:** M (Meets Expectations)
   - Demonstrated learning and selective adoption of modern practices to improve day-to-day effectiveness
+  - Evidence (qualitative):
+    - Investigations and API notes shared with teammates for clarity during cross-functional work (peer input)
+    - Participated in knowledge-sharing, contributing practical ideas for effectiveness
 - **Achieve Engineering Excellence:** M (Meets Expectations)
   - Maintained comprehensive API documentation and consistent testing/quality practices
+  - Evidence (qualitative):
+    - API references and change logs used across teams; disciplined reviews stabilized changes
+    - Proposed improvements to validation and error handling increased consistency
 - **Empowered & Accountable Teams:** M (Meets Expectations)
   - Supported peer learning through routine participation in knowledge sharing and reviews
+  - Evidence (qualitative):
+    - Provides dependable assistance and clear write-ups that teammates reuse
+    - Recognized as responsive and helpful, with room to be more proactive across teams
 
 ### Competencies Ratings
 - **Dependability:** M (Meets Expectations)
   - Meets commitments with punctual delivery and clear handoffs
+  - Observed behaviors: reliable updates; thorough handoffs with supporting documentation
 - **Problem Solving and Analysis:** M (Meets Expectations)
   - Breaks down tasks methodically; identifies practical improvements
+  - Observed behaviors: structured investigation notes; proposes incremental, useful fixes
 - **Productivity:** M (Meets Expectations)
   - Maintains a stable delivery cadence and reduces ambiguity via documentation
+  - Observed behaviors: produces references that reduce back-and-forth and speed handoffs
 - **Results Orientation:** M (Meets Expectations)
   - Connects work to system clarity and operational reliability; follows issues to resolution
+  - Observed behaviors: maintains traceability and change visibility for operational clarity
 - **Team Leadership (IC Scope):** M (Meets Expectations)
   - Shows emerging leadership through documentation, knowledge transfer, and mentoring moments
+  - Observed behaviors: supports juniors with structured notes; contributes to shared practices
 
 ---
 

@@ -33,6 +33,8 @@
  - Provide authentic, realistic feedback that does not sound AI-generated
  - Emphasize professional development and competency-based assessment
  - Calibrated ratings are allowed only as label-based summaries (per-goal and per-competency) in a discrete Ratings section; keep narratives qualitative
+  - Under each rated Goal, include an “Evidence (qualitative)” sub-list (1–3 bullets) referencing behaviors, artifacts, and peer/stakeholder observations drawn strictly from provided inputs (no numbers)
+  - Under each Competency, include 1–2 “Observed behaviors” bullets to ground the label in specific qualitative observations
  
  **PROCESSING GUIDELINES**
  - Follow structures and best practices from `Input_Guidelines/`
@@ -40,6 +42,7 @@
  - Leverage MCP tools for Excel file reading and PDF processing
  - Focus on evidence-based competency ratings with professional justification
  - Provide comprehensive development planning with clear advancement pathways
+  - Development Focus must explicitly include: Current strengths to leverage; Growth opportunities; Specific development actions split into 3–6 months and 6–12 months
  - Feedback generation must align to team/organizational strategy and role expectations
  - Synthesize self-evaluations, peer feedback from `Input_Feedback/`, prior feedback, 9Box data, and strategic alignment without quoting self-ratings or percentages
  
@@ -49,6 +52,7 @@
  - Prioritize team members with available self-evaluations
  - Maintain performance calibration and consistency aligned with organizational guidelines (see `Input_Managers-Assessment/`)
  - Track prompt version and batch runs; update a run log after each batch with member status and commit references (see Versioning and Run Tracking)
+  - Ratings labels are applied only in the Calibrated Ratings section; narratives remain qualitative and free of self-ratings, percentages, and numeric calibration figures
  
  **TECHNICAL APPROACH**
  - Use the MCP `markitdown` tool for Excel file conversion and structured extraction

@@ -39,6 +39,17 @@ This is a performance management analysis workspace for processing employee perf
 - Maintain professional, constructive, and actionable language
 - Provide clear rationale for ratings and recommendations
 
+### Evidence and Ratings Placement (Aug 2025 v4+)
+- Ratings must use labels only (SE/EE/M) and appear exclusively in the Calibrated Ratings section. Do not embed ratings inside narrative paragraphs.
+- Narrative content must remain qualitative and evidence-based. Do not include self-ratings, numeric scores, goal percentages, bands, or distribution math.
+- Under each Goal in the Calibrated Ratings section, add a short “Evidence (qualitative)” sub-list (1–3 bullets) referencing behaviors, artifacts, and peer/stakeholder observations from provided inputs.
+- For each Competency, add 1–2 “Observed behaviors” bullets that ground the label in specific qualitative observations.
+- Development Focus must include:
+  - Current strengths to leverage
+  - Growth opportunities
+  - Specific development actions split into 3–6 months and 6–12 months
+- Include a brief Calibration Context section clarifying that labels are applied only in the Ratings section and narratives are qualitative.
+
 ## Processing Instructions
 
 When working with this workspace:
