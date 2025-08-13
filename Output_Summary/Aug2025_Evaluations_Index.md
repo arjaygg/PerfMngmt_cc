@@ -1,8 +1,8 @@
 # August 2025 Performance Evaluations Index
 
 **Last Updated:** 2025-08-13  
-**Total Evaluations:** 6  
-**Style Version:** v4 (calibrated ratings + qualitative narrative + integrated peer feedback)
+**Total Evaluations:** 9  
+**Style Version:** v5 (calibrated ratings + qualitative narrative + peer/evidence + manager-voice)
 
 ---
 
@@ -10,6 +10,9 @@
 
 | Employee Name | Role | Ratings Section | File Path | Status |
 |---------------|------|-----------------|-----------|---------|
+| Jay Mark Lagmay | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Lagmay_JayMark_Aug2025_Manager_Evaluation_v5.md` | ✅ Completed |
+| Verlin Grace Cabalhug | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Cabalhug_VerlinGrace_Aug2025_Manager_Evaluation_v5.md` | ✅ Completed |
+| Joshua Asi | Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Asi_Joshua_Aug2025_Manager_Evaluation_v5.md` | ✅ Completed |
 | Jay Mark Lagmay | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Lagmay_JayMark_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
 | Verlin Grace Cabalhug | Sr. Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Cabalhug_VerlinGrace_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
 | Joshua Asi | Software Engineer | [Calibrated Ratings](#calibrated-ratings) | `Output_Management-Evaluation/Asi_Joshua_Aug2025_Manager_Evaluation_v4.md` | ✅ Completed |
@@ -21,7 +24,7 @@
 
 ## Style Compliance Summary
 
-**v4 Format Features:**
+**v5 Format Features:**
 - ✅ Calibrated Ratings section (Goals + Competencies)
 - ✅ Qualitative narrative (no self-ratings or goal percentages)
 - ✅ Impact Areas assessment
@@ -29,6 +32,7 @@
 - ✅ Development focus (3-6, 6-12 months)
 - ✅ Recognition and manager assessment summary
  - ✅ Integrated peer feedback synthesis (qualitative)
+ - ✅ Manager-voice multi-sentence comments per goal/competency grounded in evidence
 
 **Content Restrictions Applied:**
 - ✅ No self-ratings or self-assessment scores

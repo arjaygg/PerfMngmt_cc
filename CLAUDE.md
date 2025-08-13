@@ -50,6 +50,15 @@ This is a performance management analysis workspace for processing employee perf
   - Specific development actions split into 3–6 months and 6–12 months
 - Include a brief Calibration Context section clarifying that labels are applied only in the Ratings section and narratives are qualitative.
 
+### Tone and Manager-only Notes (v5+)
+- Use an authentic leader/coach voice in manager comments: 2–3 sentence paragraphs per Goal and per Competency that are artifact- and peer/stakeholder-grounded; avoid meta-comments about missing validation; keep claims scoped and qualitative.
+- Maintain ratings strictly as labels in the Calibrated Ratings section; do not embed labels in narrative.
+- Append a manager-only notes block at the end of each evaluation file, clearly marked and not employee-visible:
+  - Section title: "Manager Notes (Internal)"
+  - Wrap with markers: `<!-- MANAGER_NOTES_START -->` and `<!-- MANAGER_NOTES_END -->`
+  - Contents: Recommended actions (1–3), Evidence sources (file/sheet/row pointers), Follow-ups to collect next cycle, Risk/attention flags
+  - When sharing externally, strip this block
+
 ## Processing Instructions
 
 When working with this workspace:

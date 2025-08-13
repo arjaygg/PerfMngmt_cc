@@ -35,6 +35,7 @@
  - Calibrated ratings are allowed only as label-based summaries (per-goal and per-competency) in a discrete Ratings section; keep narratives qualitative
   - Under each rated Goal, include an “Evidence (qualitative)” sub-list (1–3 bullets) referencing behaviors, artifacts, and peer/stakeholder observations drawn strictly from provided inputs (no numbers)
   - Under each Competency, include 1–2 “Observed behaviors” bullets to ground the label in specific qualitative observations
+  - Use an authentic leader/coach voice: multi-sentence manager comments per Goal and per Competency grounded in artifacts and peer/stakeholder observations; avoid meta-comments about missing validation; keep claims scoped and qualitative
  
  **PROCESSING GUIDELINES**
  - Follow structures and best practices from `Input_Guidelines/`
@@ -53,6 +54,11 @@
  - Maintain performance calibration and consistency aligned with organizational guidelines (see `Input_Managers-Assessment/`)
  - Track prompt version and batch runs; update a run log after each batch with member status and commit references (see Versioning and Run Tracking)
   - Ratings labels are applied only in the Calibrated Ratings section; narratives remain qualitative and free of self-ratings, percentages, and numeric calibration figures
+  - Append a manager-only notes block at the end of each evaluation file, clearly marked and not employee-visible:
+    - Section title: "Manager Notes (Internal)"
+    - Wrap with markers: `<!-- MANAGER_NOTES_START -->` and `<!-- MANAGER_NOTES_END -->`
+    - Contents: Recommended actions (1–3), Evidence sources (file/sheet/row pointers), Follow-ups for next cycle, Risk/attention flags
+    - When sharing externally, strip this block
  
  **TECHNICAL APPROACH**
  - Use the MCP `markitdown` tool for Excel file conversion and structured extraction
