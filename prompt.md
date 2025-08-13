@@ -5,7 +5,10 @@ Ultrathink, ROLE: You are an expert people manager, and performance review manag
 3. Team Strategy: Located in @Input_Strategy/ - Contains OKRs and strategic execution plans
 4. Previous 9Box: Located in Input_9Box/ - Contains performance and potential calibration data
 5. Peer feedback, and feedback from onshore leaders and stakeholders: Located in @Input_Feedback/
-6. Take note that all data here are already anonymize, redacted, and fake.
+6. Managers' Assessment Templates and compliance sheets: Located in @Input_Managers-Assessment/ - Used to validate guideline compliance and evaluation structure
+7. Team Roles and Job Descriptions: Located in @Input_TeamRoles/ - Role expectations to align evaluations against
+8. Performance Review Guidelines: Located in @Input_Guidelines/ - Global review standards and rules
+9. Take note that all data here are already anonymize, redacted, and fake.
 
 **OBJECTIVES**:
 1. Generate individualized, calibrated feedback for each team member, based on the feedback received from their feers, and onshore stakeholders / leaders
@@ -23,6 +26,7 @@ Ultrathink, ROLE: You are an expert people manager, and performance review manag
 - Ensure feedback is constructive, specific, and actionable
 - Align feedback with strategic objectives and role expectations
 - Consolidate and summarize the feedback gathers from peers, stakeholders, and leaders
+  - Ensure role alignment using @Input_TeamRoles/, and compliance with performance review standards using @Input_Guidelines/ and @Input_Managers-Assessment/
 **B. Manager Evaluation Synthesis**:
 - Synthesize multiple data points (self-evaluation, previous feedback, 9Box data, strategic alignment)
 - Generate comprehensive manager evaluations with specific examples and evidence
@@ -52,6 +56,13 @@ All Outputs should be in Markdown format, and always provide comprehensive summa
 - Statistical rigor in calibration
 - Consistency across similar roles
 - Clear, professional, and actionable language
+ - Narrative manager comments use a synthesized authoritative voice (no first-person), remain qualitative (no numbers), are factual, and end with a brief improvement/suggestion. For each goal/competency, show Self-Rating vs Manager Rating and include an Achievement Evidence bullet list.
 Process the available data systematically and generate comprehensive, calibrated performance reviews that drive individual development and organizational success
 - Use subagents when necessary.
 - For longer documents, split them first into chunks that can be read correctly. Do not truncate information, and make sure all input documents and files are consider in this overall process.
+
+Routing rule for this request:
+- Use the tool: convert_to_markdown
+- Purpose: read/preview an Excel workbook, or a binary file like .pdf
+- Do not call any other tools.
+- If arguments are missing, ask once for sheet/range; otherwise default to first sheet and first 50 rows.
