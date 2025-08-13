@@ -22,7 +22,7 @@
 #### Batch 1 (Completed)
 
 #### Batch 2
-5. Cabalhug, Verlin Grace - Software Engineer
+5. Cabalhug, Verlin Grace - Software Engineer — v6 completed (August 13, 2025)
 6. Chingtoco, Paul Eugene - Software Engineer
 7. Constantino, James Aaron - Sr Software Engineer
 8. Dimapilis, Ariel - Data Architect Technical Lead
