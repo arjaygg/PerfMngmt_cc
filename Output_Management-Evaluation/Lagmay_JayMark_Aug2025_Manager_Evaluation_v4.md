@@ -73,14 +73,25 @@ Jay Mark lifts both systems and people. He embedded durable testing practices, r
 
 ---
 
-## Development Focus
+## Development Focus Areas
 
-### Next 3–6 Months
+### Current strengths to leverage
+- Clear testing leadership and quality standards
+- Practical peer enablement and reusable artifacts
+- Calm, credible delivery with strong follow-through
+
+### Growth opportunities
+- Increase proactive collaboration with product/business stakeholders
+- Expand architectural framing and cross-team quality leadership
+
+### Specific development actions
+
+#### Next 3–6 months
 - Extend testing strategies to include performance/security where relevant
 - Increase architectural framing in design reviews (trade-offs, long-term implications)
 - Systematize mentoring artifacts for broader reuse
 
-### Next 6–12 Months
+#### Next 6–12 months
 - Lead cross-service quality initiatives that reduce rework across the platform
 - Grow influence in design reviews; mentor senior peers on testing strategy adoption
 - Contribute to shared engineering standards and steward adoption across squads
@@ -94,8 +105,18 @@ Jay Mark lifts both systems and people. He embedded durable testing practices, r
 
 ---
 
+## Calibration Context (qualitative)
+- Ratings are applied as labels in the Calibrated Ratings section only. Narrative remains qualitative and evidence-based.
+
+---
+
 ## Manager's Assessment Summary
-Jay Mark exemplifies a senior engineer who improves both systems and people. With deeper engagement in architectural framing and cross-team quality leadership, he is on track for broader scope and impact.
+Jay Mark exemplifies a senior engineer who improves systems and people. With deeper engagement in architectural framing and cross-team quality leadership, he is on track for broader scope and impact.
+
+Key evidence observed:
+- Testing patterns adopted beyond the immediate service scope
+- Consistent uplift in code review rigor and maintainability
+- Reusable examples and documentation that speed onboarding
 
 **Manager Signature:** Arjay Gallentes  
 **Date:** August 13, 2025  

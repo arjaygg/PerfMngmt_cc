@@ -50,6 +50,10 @@ Joshua continues to be a steady, high-upside contributor. He strengthens quality
 - Shares scripts and approaches on request; explains choices in plain language
 - Communicates status and blockers early to maintain flow
 - Provides targeted help that accelerates teammates without creating dependencies
+ 
+Evidence observed (qualitative):
+- Peers highlight that Joshua readily shares working scripts and explains complex use cases clearly, which speeds others’ learning (team feedback inputs).
+- Colleagues note his approachability and consistent responsiveness when support is requested during automation work.
 
 ### Growth Toward Backend Development
 - Demonstrates readiness to own backend tasks end-to-end as priorities allow
@@ -76,12 +80,24 @@ Joshua continues to be a steady, high-upside contributor. He strengthens quality
 
 ## Development Focus
 
-### Next 3–6 Months
+### Current strengths to leverage
+- Steady, prevention-focused delivery with clear documentation
+- Practical enablement of peers through reusable examples
+- Calm execution with early risk surfacing
+
+### Growth opportunities
+- Increase proactive participation in discussions to share reasoning earlier
+- Expand backend ownership to build depth and confidence in service work
+- Scale knowledge-sharing through structured, lightweight artifacts
+
+### Specific development actions
+
+#### Next 3–6 months
 - Own a small stream of backend tickets end-to-end (design → build → validate)
 - Lead a lightweight improvement that removes recurring manual steps for the team
 - Publish short “reference snippets” for common patterns to scale reuse
 
-### Next 6–12 Months
+#### Next 6–12 months
 - Participate regularly in design reviews; articulate trade-offs and options
 - Strengthen cross-boundary diagnosis (service/data/infra) with structured runbooks
 - Contribute to shared engineering standards and onboarding aids
@@ -95,8 +111,18 @@ Joshua continues to be a steady, high-upside contributor. He strengthens quality
 
 ---
 
+## Calibration Context (qualitative)
+- Ratings reflect organizational policy for newer hires and are applied as labels in the Calibrated Ratings section only. Narrative focuses on behaviors, artifacts, and outcomes without numeric scoring.
+
+---
+
 ## Manager's Assessment Summary
-Joshua’s work raises both quality and confidence across the team. With expanded backend scope and continued focus on durable automation, he is positioned for sustained, broader impact. Ratings reflect tenure policy; day-to-day performance and growth trajectory remain strong.
+Joshua’s work raises quality and confidence across the team. With expanded backend scope and continued focus on durable automation, he is positioned for sustained, broader impact. Day-to-day performance and growth trajectory remain strong.
+
+Key evidence observed:
+- Reusable automation and clear notes that enable smooth handoffs
+- Early communication of status/risks that prevents rework
+- Helpful examples and explanations that unblock peers
 
 **Manager Signature:** Arjay Gallentes  
 **Date:** August 13, 2025  

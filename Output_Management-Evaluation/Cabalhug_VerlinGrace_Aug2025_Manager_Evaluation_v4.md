@@ -74,14 +74,26 @@ Verlin Grace is a steady contributor who improves clarity and maintainability th
 
 ---
 
-## Development Focus
+## Development Focus Areas
 
-### Next 3–6 Months
+### Current strengths to leverage
+- Thorough documentation and clear investigation notes
+- Consistent testing discipline and quality gates
+- Steady delivery with reliable handoffs
+
+### Growth opportunities
+- Earlier and more proactive stakeholder engagement
+- Visible mentoring and facilitation across teams
+- Stronger presence surfacing trade-offs and alternatives in design reviews
+
+### Specific development actions
+
+#### Next 3–6 months
 - Proactively drive discussions with product/business on scope and trade-offs
 - Lead one cross-functional initiative (small but visible) to expand ownership
 - Continue raising documentation standards with concise patterns and checklists
 
-### Next 6–12 Months
+#### Next 6–12 months
 - Champion consistency in validation and error handling patterns across services
 - Mentor juniors using short, structured session plans and examples
 - Strengthen presence in design reviews (clarity, alternatives, and implications)
@@ -95,8 +107,18 @@ Verlin Grace is a steady contributor who improves clarity and maintainability th
 
 ---
 
+## Calibration Context (qualitative)
+- Ratings are applied as labels in the Calibrated Ratings section only. Narrative remains qualitative and evidence-based.
+
+---
+
 ## Manager's Assessment Summary
 Verlin Grace strengthens team clarity and quality through disciplined execution and thorough documentation. With more proactive stakeholder engagement and expansion into cross-functional leadership moments, she can translate strong fundamentals into larger organizational impact.
+
+Key evidence observed:
+- API references and investigation notes reused across teams
+- Clear change logs and traceability that support operations
+- Practical proposals that improve validation and error handling patterns
 
 **Manager Signature:** Arjay Gallentes  
 **Date:** August 13, 2025  
