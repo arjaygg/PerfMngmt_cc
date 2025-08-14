@@ -43,7 +43,7 @@ Rating aligns with peer group for DevOps Engineer with tenure ≥ 6 months. Cons
 
 ## Goals Assessment
 
-### Goal 1: Production Stability and Operational Excellence
+### Goal 1: Accelerating Banking & Financial Services Mastery & AI Innovation
 **Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)  
 **Calibrated Rating:** Exceeds Expectations (EE)
@@ -56,7 +56,7 @@ Rating aligns with peer group for DevOps Engineer with tenure ≥ 6 months. Cons
 **Manager Comments:**
 Demonstrates high ownership for production stability. Rapid remediation, consistent updates, and strong cross-team coordination materially improved service reliability.
 
-### Goal 2: Containerization and Kubernetes Migration
+### Goal 2: Empowered & Accountable Teams
 **Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)  
 **Calibrated Rating:** Exceeds Expectations (EE)
@@ -69,7 +69,7 @@ Demonstrates high ownership for production stability. Rapid remediation, consist
 **Manager Comments:**
 Continues to accelerate the team’s container adoption. Practical guidance and clear documentation improved developer experience and throughput.
 
-### Goal 3: Knowledge Sharing and Team Enablement
+### Goal 3: Empowered & Accountable Teams — Knowledge Sharing and Team Enablement
 **Self-Rating:** Exceeds Expectations (EE)  
 **Manager Rating:** Exceeds Expectations (EE)  
 **Calibrated Rating:** Exceeds Expectations (EE)
