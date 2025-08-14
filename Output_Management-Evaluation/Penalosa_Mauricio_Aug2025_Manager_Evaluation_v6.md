@@ -1,3 +1,60 @@
+## Manager Evaluation v6 — Mauricio Penalosa (Developer)
+
+### Summary of Ratings
+- **Self Overall**: 2.99 (Needs Development)
+- **Manager Overall (pre-calibration)**: 3.0 (Meets)
+- **Calibrated Final Rating**: 3.0 (Meets)
+- **Calibration Date**: 2025-08-12
+
+### Calibration Reconciliation
+- Mixed self-ratings (several ND despite positive narratives). Cross-source feedback indicates responsible and supportive behavior with status reporting gaps.
+- Forced distribution sustained in middle cohort. Tenure > 6 months → not tenure-capped.
+- 9-Box: Performance 3.0, Potential 2.2 → Box 4 (Core Contributor; stabilize performance).
+
+### 360 Feedback Themes
+- Strengths: takes ownership, stretches for deadlines, reliable support.
+- Opportunities: proactive communication (status cadence), clarity in updates, earlier escalation.
+
+### Goals Assessment (selected)
+1) Zenith Legacy/Modernization & Roadmap
+   - **Self**: ND (for multiple roadmap items)
+   - **Manager**: Meets (3.0)
+   - Evidence: Delivered portions of modernization and quality gates; narratives reflect effort but lack quantifiable outcomes.
+   - Manager Comments: Solid intent and work ethic. Next: convert intention into measurable delivery; baseline and track throughput and quality per sprint.
+
+2) Operations—Productivity & Quality
+   - **Self**: EE (multiple)
+   - **Manager**: Meets (3.0)
+   - Evidence: Claims of high ownership; corroborated by some peers on reliability, but communication latency noted by stakeholders.
+   - Manager Comments: Improve signal-to-noise in updates; share blockers early. Next: adopt end-of-day status and weekly summary.
+
+3) Compliance/Risk
+   - **Self**: ND
+   - **Manager**: Meets (3.0)
+   - Evidence: No major adverse events; limited documented preventative actions.
+   - Manager Comments: Add routine compliance checks into workflow; document remediation when applicable.
+
+### Competencies
+- Dependability — **Self**: EE | **Manager**: M
+- Problem Solving — **Self**: M | **Manager**: M
+- Productivity — **Self**: EE | **Manager**: M
+- Results Focus — **Self**: EE | **Manager**: M
+
+Manager Comments (Competencies): Good intent and perseverance. Convert to outcomes by scoping, estimating, and sharing progress visibly. Next: use SMART tasking and mid-sprint demos.
+
+### Strategic Alignment
+- Contributes to modernization stream. To better align with Engineering Excellence, adopt unit test baselines and PR templates with metrics.
+
+### Development Focus and Actions
+- Communication: daily EOD post + Monday plan; use concise template (Done/Doing/Risks/Help).
+- Planning: break work into ≤2-day chunks with acceptance criteria.
+- Quality: add basic unit tests; run lint/coverage; share results in PR.
+
+### Recognition/Retention
+- Recognition not advised yet; focus on stabilization over 2 sprints; reassess.
+
+### Manager’s Assessment Summary
+Meeting baseline expectations with opportunities in communication, planning, and measurable outcomes. With structure and cadence, performance can rise to strong meets.
 # Manager Evaluation v6 — Penalosa, Mauricio
 
 - Employee: Mauricio Penalosa (Software Engineer)
