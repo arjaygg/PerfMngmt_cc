@@ -1,4 +1,19 @@
 ## Manager Notes v6 — Verlin Grace Cabalhug (Confidential)
+
+Evidence
+- Self-eval; peer notes on responsiveness, documentation, and fast growth.
+
+Risks
+- Low. Growth linked to stakeholder-facing comms and facilitation.
+
+Actions (2 sprints)
+- Weekly Product status note; early blocker signals.
+- Co-facilitate refinement; run a 15-min demo.
+- Publish investigation template; sample 3 uses.
+
+9-Box
+- Perf 3.4, Pot 2.6 → Box 5. Aim Box 6 via facilitation + standards.
+## Manager Notes v6 — Verlin Grace Cabalhug (Confidential)
 Date: Aug 2025
 
 Key Evidence Sources

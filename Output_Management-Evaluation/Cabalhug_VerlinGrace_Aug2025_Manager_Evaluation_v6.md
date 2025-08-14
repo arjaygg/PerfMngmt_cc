@@ -1,3 +1,59 @@
+## Manager Evaluation v6 — Verlin Grace Cabalhug (Sr. Software Engineer)
+
+### Summary of Ratings
+- **Self Overall**: 3.0 (Meets)
+- **Manager Overall (pre-calibration)**: 3.4 (High Meets)
+- **Calibrated Final Rating**: 3.4 (High Meets)
+- **Calibration Date**: 2025-08-13
+
+### Calibration Reconciliation
+- Cohort middle band placement; role parity confirmed.
+- 9-Box: Performance 3.4, Potential 2.6 → Box 5 (Solid Performer with growth runway).
+
+### 360 Themes
+- Strengths: responsiveness, thorough investigations, clear PRs, willingness to mentor/support; fast technical growth.
+- Opportunities: increase proactive comms with product/business; develop leadership presence.
+
+### Goals Assessment
+1) BFS/AI & Knowledge Management
+   - **Self**: Meets
+   - **Manager**: Meets–High (3.5)
+   - Evidence: AI/tooling adoption; repo usage monitoring; documentation contributions.
+   - Manager Comments: Meaningful contributions to knowledge hygiene. Next: publish a standard investigation template.
+
+2) Engineering Excellence (quality, docs, deployment)
+   - **Self**: Meets
+   - **Manager**: Meets–High (3.5)
+   - Evidence: PR documentation quality; involvement in unit testing and standards; timely collaboration.
+   - Manager Comments: Good craft signals. Next: run one brown-bag on an area of strength.
+
+3) Empowered & Accountable Teams
+   - **Self**: Meets
+   - **Manager**: Meets (3.2)
+   - Evidence: Pairing; API investigations; cross-functional assistance.
+   - Manager Comments: Helpful collaborator. Next: co-facilitate a refinement to build confidence with business stakeholders.
+
+### Competencies
+- Dependability — **Self**: M | **Manager**: M+
+- Problem Solving — **Self**: M | **Manager**: M+
+- Productivity — **Self**: M | **Manager**: M+
+- Results Focus — **Self**: M | **Manager**: M+
+
+Manager Comments: Reliable, steadily growing contributor; elevated impact when communications are timely and audience-aware.
+
+### Strategic Alignment
+- Supports strategy in engineering excellence and stakeholder visibility.
+
+### Development Focus and Actions
+- Communication: adopt weekly status to Product; clarify blockers early.
+- Leadership: co-facilitate one ceremony/month; run one 15-min demo/quarter.
+- Standards: author an investigation template and share.
+
+### Recognition/Retention
+- Recognition once ceremony facilitation and template are delivered/adopted.
+
+### Manager’s Assessment Summary
+High meets with visible trajectory. With proactive comms and small leadership steps, influence and velocity will increase.
 ## Version: v6
 ### Employee: Verlin Grace Cabalhug
 ### Role: Software Engineer
