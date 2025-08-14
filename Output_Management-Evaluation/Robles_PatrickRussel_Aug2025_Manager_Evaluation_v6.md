@@ -1,3 +1,53 @@
+## Manager Evaluation v6 — Patrick Russel Robles (OutSystems Software Developer)
+
+### Summary of Ratings
+- **Self Overall**: 3.0 (Meets)
+- **Manager Overall (pre-calibration)**: 2.93 (Needs Development)
+- **Calibrated Final Rating**: 3.0 (Meets)
+- **Calibration Date**: 2025-08-13
+
+### Calibration Reconciliation
+- Given mixed signals (ND manager section vs consistent peer positives on collaboration/technical), calibrated to 3.0 with a structured improvement plan.
+- 9-Box: Performance 3.0, Potential 2.4 → Box 4 (Core Contributor; stabilization focus).
+
+### 360 Themes
+- Strengths: helpfulness, reusable components, timely deliveries, willingness to learn and explore AI.
+- Opportunities: increase consistency in collaboration and proactive communication; raise visibility and ownership.
+
+### Goals Assessment
+1) BFS/AI Initiative
+   - **Self**: M
+   - **Manager**: M (3.0)
+   - Evidence: AI exploration (Windsurf), support for team efficiency.
+   - Manager Comments: Continue with targeted AI POCs tied to team use-cases; document outcomes.
+
+2) Empowered & Accountable Teams
+   - **Self**: M
+   - **Manager**: M (3.0)
+   - Evidence: Supports team via components and suggestions; room to elevate proactive comms.
+   - Manager Comments: Adopt weekly updates and offer assistance proactively when bandwidth allows.
+
+### Competencies
+- Dependability — **Self**: M | **Manager**: ND→M (with plan)
+- Problem Solving — **Self**: M | **Manager**: M
+- Productivity — **Self**: M | **Manager**: M
+- Results Focus — **Self**: M | **Manager**: M
+
+Manager Comments: Baseline met with upside in proactive engagement and ownership. With cadence and consistent collaboration, performance should stabilize at meets.
+
+### Strategic Alignment
+- Aligned to engineering excellence and AI experimentation; formalize results for reuse.
+
+### Development Focus and Actions (60–90 days)
+- Communication: weekly status and EOD blocker notes; attend and contribute in ceremonies.
+- Ownership: deliver one component or feature end-to-end with demo.
+- AI/Standards: produce a brief on an AI-assisted workflow and proposed standard.
+
+### Recognition/Retention
+- Recognition deferred; reassess after ownership and cadence targets are met.
+
+### Manager’s Assessment Summary
+Calibrated to Meets with a structured plan. Focus on visible ownership and proactive communication to sustain and grow impact.
 # Manager Performance Evaluation (v6)
 
 **Version:** v6  

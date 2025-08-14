@@ -1,3 +1,21 @@
+## Manager Notes v6 — Patrick Russel Robles (Confidential)
+
+Evidence
+- Self-eval; peers cite helpfulness and component work; manager section previously incomplete/ND.
+
+Risks
+- Medium if communication cadence and consistency are not addressed.
+
+Actions (8 weeks)
+- Weekly status + EOD blockers; confirm visibility in ceremonies.
+- Own and demo 1 component/feature; collect feedback.
+- Publish 1 AI-assisted workflow brief.
+
+Follow-up
+- Review 2 consecutive weekly plans vs outcomes; sample PR and demo.
+
+9-Box
+- Perf 3.0, Pot 2.4 → Box 4. Stabilize; target Box 5 next cycle.
 # Manager Notes (Confidential) – v6
 
 **Employee:** Patrick Russel Robles  
