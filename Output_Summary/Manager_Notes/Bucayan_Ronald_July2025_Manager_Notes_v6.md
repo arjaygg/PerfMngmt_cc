@@ -28,3 +28,4 @@ Manager: Arjay Gallentes
 - Tenure cap applied; forced distribution checked; peer themes corroborate EE signals in problem solving and stakeholder engagement, but breadth/duration align to M overall.
 
 (Manager-only. Not employee-visible.)
+
