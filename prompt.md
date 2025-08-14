@@ -114,5 +114,5 @@ Process the available data systematically and generate comprehensive, calibrated
 Routing rule for this request:
 - Use the tool: convert_to_markdown
 - Purpose: read/preview an Excel workbook, or a binary file like .pdf
-- Do not call any other tools.
-- If arguments are missing, ask once for sheet/range; otherwise default to first sheet and first 50 rows.
+
+Make sure not to miss any team members. Be compliant with the rules and instructions. Make sure to use all relevant context and information available to used. Please refer to both @V6_Completion_Report.md and @V6_Evaluation_Tracking_Master.md to understand the remaining team members who needs to be processed.
