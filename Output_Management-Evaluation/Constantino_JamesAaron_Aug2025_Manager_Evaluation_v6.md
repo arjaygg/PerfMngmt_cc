@@ -1,3 +1,59 @@
+## Manager Evaluation v6 — James Aaron Constantino (Sr. Software Engineer)
+
+### Summary of Ratings
+- **Self Overall**: 4.0 (Exceeds)
+- **Manager Overall (pre-calibration)**: 4.0 (Exceeds)
+- **Calibrated Final Rating**: 4.0 (Exceeds)
+- **Calibration Date**: 2025-08-13
+
+### Calibration Reconciliation
+- Cohort high-performer placement consistent with peer/stakeholder feedback.
+- 9-Box: Performance 4.0, Potential 2.9 → Box 6–7 boundary.
+
+### 360 Themes
+- Strengths: reliable delivery, strong technical growth, knowledge sharing, sprint planning clarity.
+- Opportunities: broaden leadership moments; increase cross-team influence.
+
+### Goals Assessment
+1) BFS/AI Mastery
+   - **Self**: Exceeds
+   - **Manager**: Exceeds (4.0)
+   - Evidence: high PBI completion; documentation and demos; alignment to OKRs.
+   - Manager Comments: Strong role-model behavior; continue sharing repeatable patterns.
+
+2) Engineering Excellence
+   - **Self**: Exceeds
+   - **Manager**: Exceeds (4.1)
+   - Evidence: quality standards, optimization, sprint velocity improvement, team documentation.
+   - Manager Comments: Raises the bar; next step is system-level improvements.
+
+3) Empowered & Accountable Teams
+   - **Self**: Exceeds
+   - **Manager**: Exceeds (3.9)
+   - Evidence: clarified AC with QA/PM; contributed to ceremonies; retrospective adaptation.
+   - Manager Comments: Ownership mindset; scale via mentoring.
+
+### Competencies
+- Dependability — **Self**: EE | **Manager**: EE
+- Problem Solving — **Self**: EE | **Manager**: EE
+- Productivity — **Self**: EE | **Manager**: EE− (3.9)
+- Results Focus — **Self**: EE | **Manager**: EE− (3.9)
+
+Manager Comments: Consistent high-quality output with growth in complexity handling. Create space to mentor and influence standards.
+
+### Strategic Alignment
+- Directly advances engineering excellence, AI augmentation, and throughput.
+
+### Development Focus and Actions
+- Mentor a junior on a complex PBI set (2 sprints); set goals and review outcomes.
+- Document one optimization pattern and convert to a guideline.
+- Lead one cross-team tech discussion this quarter.
+
+### Recognition/Retention
+- Recommend recognition; explore next-scope responsibilities.
+
+### Manager’s Assessment Summary
+Exceeds expectations; growing into a broader influence role. With mentoring and cross-team leadership, impact will scale further.
 # Manager Performance Evaluation (v6)
 
 **Version:** v6  

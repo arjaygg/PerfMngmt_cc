@@ -1,3 +1,18 @@
+## Manager Notes v6 — James Aaron Constantino (Confidential)
+
+Evidence
+- Self-eval; peer notes on reliability and knowledge sharing.
+
+Risks
+- Low. Ensure time for mentoring without impacting throughput.
+
+Actions
+- Assign mentee; review plan and outcomes after 2 sprints.
+- Publish an optimization guideline.
+- Facilitate one cross-team tech session.
+
+9-Box
+- Perf 4.0, Pot 2.9 → Box 6–7. Track readiness for larger scope.
 # Manager Notes (Confidential) – v6
 
 **Employee:** James Aaron Constantino  
