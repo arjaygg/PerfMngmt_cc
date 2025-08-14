@@ -1,3 +1,60 @@
+## Manager Evaluation v6 — Ariel Dimapilis (Data Architect, Technical Lead)
+
+### Summary of Ratings
+- **Self Overall**: 3.59 (Meets)
+- **Manager Overall (pre-calibration)**: 4.1 (Exceeds)
+- **Calibrated Final Rating**: 4.1 (Exceeds)
+- **Calibration Date**: 2025-08-12
+
+### Calibration Reconciliation
+- Strong cross-source evidence of leadership impact (AI adoption, architectural rigor, stakeholder alignment).
+- Distribution check: within 4.0–4.4 band for senior IC/lead cohort; satisfies forced distribution.
+- 9-Box: Performance 4.1, Potential 3.0 → Box 8 (High Performer/High Potential trajectory).
+
+### 360 Feedback Themes
+- Strengths: creative, persistent, strong collaboration, proactive stakeholder comms; streamlined MV reverse engineering from ~8–9 hrs to ~2.5 hrs.
+- Opportunities: tighten verbal brevity to reduce repetition.
+
+### Goals Assessment
+1) BFS Mastery & AI Innovation
+   - **Self**: Meets
+   - **Manager**: Exceeds (4.2)
+   - Evidence: AI-assisted modeling and documentation with 90%+ quality threshold; 100% coverage of targeted tables; substantial documentation turnaround reduction.
+   - Manager Comments: Demonstrated durable systemization using AI; continue formalizing templates for repeatability across pods.
+
+2) Engineering Excellence
+   - **Self**: Exceeds
+   - **Manager**: Exceeds (4.3)
+   - Evidence: Led transformation/conversion design; peer-review gates reduced rework; added user-facing visibility via dashboards.
+   - Manager Comments: Strong architecture-first delivery. Next: codify acceptance gates as checklists integrated with ADO.
+
+3) Empowered & Accountable Teams
+   - **Self**: Exceeds
+   - **Manager**: Exceeds (4.0)
+   - Evidence: Daily visibility, 24h blocker resolution, leadership briefings with artifacts.
+   - Manager Comments: Healthy cadence and clarity. Next: delegate presentation slots to emerging leads to scale influence.
+
+### Competencies
+- Dependability — **Self**: M | **Manager**: EE (4.2)
+  - Evidence: Sustained delivery under pressure; reliable comms.
+- Problem Solving — **Self**: M | **Manager**: EE (4.2)
+  - Evidence: Fact-based analysis; performance gains in pipelines.
+- Productivity — **Self**: M | **Manager**: EE (4.1)
+- Results Focus — **Self**: EE | **Manager**: EE (4.2)
+
+### Strategic Alignment
+Directly advances pillars: AI-Augmented Delivery, Engineering Excellence, Stakeholder Visibility.
+
+### Development Focus and Actions
+- Communication brevity: adopt “TL;DR + details” pattern for verbal updates.
+- Standardize AI templates and quality bars; publish in repo wiki.
+- Rotate senior team members into stakeholder briefings.
+
+### Recognition/Retention
+- High-impact multiplier; recommend formal recognition and leadership scope expansion.
+
+### Manager’s Assessment Summary
+Architectural leadership with measurable acceleration via AI and rigorous reviews. Scaling through delegation and communication brevity will amplify org impact.
 # Manager Performance Evaluation (v6)
 
 **Version:** v6  
