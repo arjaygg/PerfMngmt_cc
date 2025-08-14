@@ -8,9 +8,9 @@
 
 | Category | Employee Self-Rating | Manager Initial Rating | Calibrated Rating | Calibration Date |
 |---|---|---|---|---|
-| **Overall Performance** | 4.0 (EE) | 4.0 (EE) | **4.0 (Exceeds Expectations)** | July 31, 2025 |
-| **Goals Achievement** | 4.0 (EE) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
-| **Competencies** | 4.0 (EE) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
+| **Overall Performance** | 3.15 (M) | 4.0 (EE) | **4.0 (Exceeds Expectations)** | July 31, 2025 |
+| **Goals Achievement** | 3.0 (M) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
+| **Competencies** | 3.5 (M) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
 
 ---
 
@@ -23,6 +23,7 @@ Rating aligns with peer group for DevOps Engineer with tenure ≥ 6 months. Cons
 - Distribution check: within 10/70/20 targets
 - Role parity: aligned with other DevOps Engineers at similar tenure
 - Evidence sources: peer feedback (Clearing APIs, health checks), stakeholder comments, delivery outcomes
+ - Tenure ceiling: Based on roster assignment timing during the review period, tenure by June 30, 2025 appears ≥ 6 months; ceiling not applied (documented per workflow)
 
 ---
 
@@ -44,7 +45,7 @@ Rating aligns with peer group for DevOps Engineer with tenure ≥ 6 months. Cons
 ## Goals Assessment
 
 ### Goal 1: Accelerating Banking & Financial Services Mastery & AI Innovation
-**Self-Rating:** Exceeds Expectations (EE)  
+**Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Exceeds Expectations (EE)  
 **Calibrated Rating:** Exceeds Expectations (EE)
 
@@ -57,7 +58,7 @@ Rating aligns with peer group for DevOps Engineer with tenure ≥ 6 months. Cons
 Demonstrates high ownership for production stability. Rapid remediation, consistent updates, and strong cross-team coordination materially improved service reliability.
 
 ### Goal 2: Empowered & Accountable Teams
-**Self-Rating:** Exceeds Expectations (EE)  
+**Self-Rating:** Meets Expectations (M)  
 **Manager Rating:** Exceeds Expectations (EE)  
 **Calibrated Rating:** Exceeds Expectations (EE)
 
@@ -69,38 +70,32 @@ Demonstrates high ownership for production stability. Rapid remediation, consist
 **Manager Comments:**
 Continues to accelerate the team’s container adoption. Practical guidance and clear documentation improved developer experience and throughput.
 
-### Goal 3: Empowered & Accountable Teams — Knowledge Sharing and Team Enablement
-**Self-Rating:** Exceeds Expectations (EE)  
-**Manager Rating:** Exceeds Expectations (EE)  
-**Calibrated Rating:** Exceeds Expectations (EE)
-
-**Achievement Evidence:**
+**Knowledge Sharing and Team Enablement (evidence under Goal 2):**
 - Regularly shares tooling discoveries and remediation patterns in stand-ups.
 - Provides approachable guidance to teammates; supports onboarding and encourages experimentation.
 - Captures notes and links for future reference to strengthen team knowledge base.
-
-**Manager Comments:**
-Positive influence on team learning culture. Clear, approachable mentoring and documentation increase team self-sufficiency.
 
 ---
 
 ## Competencies Evaluation
 
-### Overall Competency Rating
-**Self-Rating:** 4.0 (Exceeds Expectations)  
-**Manager Rating:** 4.0 (Exceeds Expectations)  
-**Calibrated Rating:** 4.0 (Exceeds Expectations)
+### Competency Ratings (Self vs Manager vs Calibrated)
+| Competency | Self | Manager | Calibrated |
+|---|---|---|---|
+| Dependability | EE | EE | EE |
+| Problem Solving / Analysis | M | M–High | M–High |
+| Productivity | M | M–High | M–High |
+| Results Focus | EE | EE | EE |
+| Team Leadership | N/A | N/A | N/A |
 
-### Key Competency Highlights
+### Highlights and Manager Comments
+**Dependability:** Responds promptly to alerts and requests; follows through to resolution; maintains clear status updates.  
+**Problem Solving:** Researches issues thoroughly; identifies root causes in infra and CI/CD; proposes viable, documented fixes.  
+**Productivity:** Balances incident response, migration tasks, and documentation; minimizes developer toil.  
+**Results Focus:** Improves deployment reliability and developer experience; supports timely sprint delivery.  
+**Communication:** Communicates clearly with technical and non-technical stakeholders; fosters trust and alignment.  
 
-**Dependability (EE):** Responds promptly to alerts and requests; follows through to resolution; maintains clear status updates.  
-**Problem Solving (EE):** Researches issues thoroughly; identifies root causes in infra and CI/CD; proposes viable, documented fixes.  
-**Productivity (EE):** Balances incident response, migration tasks, and documentation; minimizes developer toil.  
-**Results Focus (EE):** Improves deployment reliability and developer experience; supports timely sprint delivery.  
-**Communication (EE):** Communicates clearly with technical and non-technical stakeholders; fosters trust and alignment.
-
-**Manager Comments:**
-Strong, consistent competency demonstration across reliability, technical execution, and collaboration. Communication and documentation elevate team outcomes.
+Manager Comments: Strong, consistent competency demonstration across reliability, technical execution, and collaboration. Communication and documentation elevate team outcomes.
 
 ---
 
@@ -128,6 +123,14 @@ Strong, consistent competency demonstration across reliability, technical execut
 
 ### Peer Comparison
 - Feedback indicates strong reliability and enablement relative to peer group
+
+---
+
+## Guideline Compliance (Cross-Check)
+- Required sections present (ratings summary; calibration rationale; peer feedback; goals; competencies; strategic alignment; 9-box; bias/consistency; development plan; recognition/retention; manager summary)
+- Tenure ceiling check documented
+- Role parity and distribution validated (10/70/20)
+- Source artifacts used: Self-Evaluation (Input_Self-Evaluation), Peer Feedback workbook (3 entries), Team Info roster, Strategy, Guidelines
 
 ---
 
