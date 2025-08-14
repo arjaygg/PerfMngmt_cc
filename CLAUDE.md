@@ -122,3 +122,13 @@ When working with this workspace:
 
 - Use subagents when necessary.
 - For longer documents, split them first into chunks that can be read correctly. Do not truncate information, and make sure all input documents and files are consider in this overall process.
+
+## Manager Confidence Suggestions
+
+Include concise, actionable guidance in every Manager Evaluation (within the relevant Goal sections or in the **Development Focus and Specific Actions** / **Manager Comments**) that helps strengthen the manager’s confidence through improved visibility:
+
+- Maintain up-to-date documentation of work and share it with the team and stakeholders.
+- Present progress and key achievements in sprint reviews or stakeholder demos.
+- Proactively schedule regular 1-on-1s with the manager to surface wins, learnings, and challenges.
+
+These suggestions must be present in future evaluations and in any corrective minor versions (e.g., v6.1) generated during re-processing.

@@ -1,0 +1,3 @@
+- Maintain up-to-date documentation and share with team and stakeholders.
+- Present progress and achievements in sprint reviews or demos for stakeholder visibility.
+- Schedule regular 1-on-1s with your manager to discuss wins, learnings, and challenges.
