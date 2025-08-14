@@ -41,9 +41,9 @@
 
 #### Batch 5
 17. Robles, Patrick Russel - OutSystems Software Developer — v6 completed (August 13, 2025)
-18. Rosales, Joebert - Software Engineer
+18. Rosales, Joebert - Software Engineer — v6 completed (August 13, 2025)
 19. Santos, Rex Nino - Software Engineer — v6 completed (August 13, 2025)
-20. Saylon, Diego - Software Engineer
+20. Saylon, Diego - Software Engineer — v6 completed (August 13, 2025)
 
 #### Batch 6
 21. Selda, Myra - Software Engineer
