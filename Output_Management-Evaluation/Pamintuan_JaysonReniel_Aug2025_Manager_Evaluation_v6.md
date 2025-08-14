@@ -36,16 +36,15 @@ None required - performance aligns with onboarding expectations.
 ## Peer Feedback and 360 Evidence
 
 ### Key Themes from Feedback
-1. **Team Collaboration:** Recognized as supportive and approachable
-2. **Technical Development:** Adequate skills with guidance needed
-3. **Communication:** Could improve clarity and engagement
-4. **Work Ethic:** Reliable and punctual
+1. **Team Collaboration:** Strong collaboration and proactive knowledge sharing
+2. **Technical Development:** Developing skills with occasional guidance needed
+3. **Communication:** Could improve mentoring and engagement skills
+4. **Work Ethic:** Reliable and follows direction well
 
 ### Specific Examples
-- Ronald Bucayan: "Willing to learn and shows strong learning agility"
-- Raynan Asuncion: "Proactive in collaborating with colleagues"
-- Dietrich Taladiar: "Demonstrates a proactive approach to collaboration"
-- John Mark Arguilles: "Sets a great example of punctuality"
+- Ronald Bucayan: "Jayson collaborates well with the team and communicates clearly. He proactively shares knowledge and supports others"
+- Ronald Bucayan: "His strengths lie in his ability to follow direction and perform reliably within his current role"
+- Note: Limited peer feedback available (only 1 response) - additional 360 feedback should be gathered in next cycle
 
 ---
 

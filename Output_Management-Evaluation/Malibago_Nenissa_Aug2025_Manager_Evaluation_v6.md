@@ -45,7 +45,7 @@ Employee undervalued own contributions - manager to provide regular feedback on 
 - Ariel Dimapilis: "She exceed expectation for this period and help other team member achieve goals"
 - Peter Helli (External): "Contributions were timely and well-documented, helping move processes forward efficiently"
 - Christopher Jan Riños: "Leadership/Influence - naturally steps into leadership role within Data team"
-- Patrick Oniel Bernardo: "Consistently provided data-related support and went beyond scheduled work hours"
+- Jegs Saylon: "Demonstrated support whenever her colleagues struggle with a specific task"
 
 ---
 
