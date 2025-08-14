@@ -51,11 +51,12 @@ This is a performance management analysis workspace for processing employee perf
 ## Processing Instructions
 
 When working with this workspace:
-1. Use subagents for complex document processing tasks
-2. Split longer documents into readable chunks to avoid truncation
-3. Ensure all input documents are fully considered in evaluations
-4. Apply consistent calibration methods across similar roles and levels
-5. Generate both individual assessments and organizational summaries
+1. **Follow the detailed execution plan in `prompt.md`, Section D (Systematic Workflow per Team Member), for every employee**
+2. Use subagents for complex document processing tasks
+3. Split longer documents into readable chunks to avoid truncation
+4. Ensure all input documents are fully considered in evaluations
+5. Apply consistent calibration methods across similar roles and levels
+6. Generate both individual assessments and organizational summaries
 
 ## Execution Checklist (Must pass for every evaluation)
 
