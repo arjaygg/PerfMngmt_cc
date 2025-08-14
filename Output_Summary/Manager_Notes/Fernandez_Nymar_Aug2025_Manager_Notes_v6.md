@@ -1,3 +1,18 @@
+## Manager Notes v6 — Nymar Fernandez (Confidential)
+
+Evidence
+- Self-eval; peers cite UI/UX expertise, reusable components, and helpfulness.
+
+Risks
+- Low. Ensure cross-functional exposure to avoid narrow specialization.
+
+Actions
+- Contribute 2 components to shared library; track adoption.
+- Pair on backend feature; publish notes.
+- 10-min talk on component design.
+
+9-Box
+- Perf 3.6, Pot 2.7 → Box 5–6. Move toward 6 via cross-functional scope.
 # Manager Notes (Confidential) – v6
 
 **Employee:** Nymar Fernandez  

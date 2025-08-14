@@ -1,3 +1,59 @@
+## Manager Evaluation v6 — Nymar Fernandez (Software Engineer)
+
+### Summary of Ratings
+- **Self Overall**: 3.0 (Meets)
+- **Manager Overall (pre-calibration)**: 3.6 (High Meets)
+- **Calibrated Final Rating**: 3.6 (High Meets)
+- **Calibration Date**: 2025-08-13
+
+### Calibration Reconciliation
+- Cohort middle-upper band; role parity consistent; tenure > 6 months.
+- 9-Box: Performance 3.6, Potential 2.7 → Box 5–6 boundary.
+
+### 360 Themes
+- Strengths: UI/UX expertise, reusable components, proactive knowledge sharing, collaboration.
+- Opportunities: increase involvement in backend/cross-functional tasks; amplify voice in discussions.
+
+### Goals Assessment
+1) BFS/AI Mastery
+   - **Self**: Meets
+   - **Manager**: Meets–High (3.6)
+   - Evidence: AI-enabled efficiency; reusable UI patterns; steady delivery.
+   - Manager Comments: Good leverage from reusability. Next: contribute to shared component library.
+
+2) Engineering Excellence
+   - **Self**: Meets
+   - **Manager**: Meets–High (3.6)
+   - Evidence: defect prevention via componentization; time management; peer support.
+   - Manager Comments: Quality improving; extend reach to backend areas.
+
+3) Empowered & Accountable Teams
+   - **Self**: Meets
+   - **Manager**: Meets–High (3.5)
+   - Evidence: regular collaboration; mentoring moments; documentation.
+   - Manager Comments: Positive team citizen. Next: co-lead a small cross-functional initiative.
+
+### Competencies
+- Dependability — **Self**: M | **Manager**: M+
+- Problem Solving — **Self**: M | **Manager**: M+
+- Productivity — **Self**: M | **Manager**: M+
+- Results Focus — **Self**: M | **Manager**: M+
+
+Manager Comments: Reliable contributor with strong front-end craft. Increasing cross-functional depth will grow impact.
+
+### Strategic Alignment
+- Supports engineering excellence; contributes to AI adoption via efficiency and standards.
+
+### Development Focus and Actions
+- Publish 2 reusable UI components with docs and usage examples.
+- Pair with backend engineer on a cross-cutting feature; document learnings.
+- Present a 10-min talk on component design decisions.
+
+### Recognition/Retention
+- Recognition after shared library contributions are adopted.
+
+### Manager’s Assessment Summary
+High meets with strong reusability mindset. Extending influence across stack and teams will elevate profile.
 # Manager Performance Evaluation (v6)
 
 **Version:** v6  
