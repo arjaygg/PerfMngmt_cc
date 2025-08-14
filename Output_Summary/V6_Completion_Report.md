@@ -48,7 +48,7 @@ This report confirms the completion status and plan for v6 evaluations for all 3
 1. Cabalhug, Verlin Grace - Software Engineer
 2. Constantino, James Aaron - Sr Software Engineer
 3. Fernandez, Nymar - Software Engineer
-4. Lagmay, Jay Mark - Sr Software Engineer
+4. **Lagmay, Jay Mark - Sr Software Engineer** - **v6.1 artifacts created** ✅
 5. Malibago, Nenissa - Database Developer
 6. Nailat, Christian - Software Engineer
 7. Riños, Christopher Jan - Software Engineer
