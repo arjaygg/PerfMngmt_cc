@@ -37,14 +37,16 @@ None required - performance aligns with onboarding expectations.
 
 ### Key Themes from Feedback
 1. **Team Collaboration:** Strong collaboration and proactive knowledge sharing
-2. **Technical Development:** Developing skills with occasional guidance needed
-3. **Communication:** Could improve mentoring and engagement skills
-4. **Work Ethic:** Reliable and follows direction well
+2. **Technical Development:** Good technical skills with continued growth potential
+3. **Communication:** Could improve clarity and comfort in discussions
+4. **Work Ethic:** Reliable, punctual, and dependable
 
 ### Specific Examples
 - Ronald Bucayan: "Jayson collaborates well with the team and communicates clearly. He proactively shares knowledge and supports others"
-- Ronald Bucayan: "His strengths lie in his ability to follow direction and perform reliably within his current role"
-- Note: Limited peer feedback available (only 1 response) - additional 360 feedback should be gathered in next cycle
+- Dietrich Taladiar: "Jayson consistently brings a thoughtful and proactive presence to team collaboration"
+- Dietrich Taladiar: "Highly skilled in development and consistently brings valuable technical expertise"
+- Raynan Asuncion: "He's proactive in collaborating with colleagues within the team or outside (Backend/Product/QA)"
+- Raynan Asuncion: "Has good skills and knowledge in implementing requirements"
 
 ---
 
