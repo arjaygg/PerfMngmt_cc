@@ -1,71 +1,231 @@
-# Manager Evaluation v6 — Pamintuan, Jayson Reniel
+# Manager Performance Evaluation - v6
+## Jayson Reniel Pamintuan - Software Engineer
+### Review Period: January 1, 2025 - June 30, 2025
 
-- Employee: Jayson Reniel Pamintuan (Sr. Software Engineer)
-- Manager: Arjay Gallentes
-- Period: Jan 1 – Jun 30, 2025
-- Version: v6 (Calibrated)
-- Date: Aug 13, 2025
-- Confidence: High
+---
 
 ## Summary of Ratings
-- Manager proposed rating: 3.0 — Meets Expectations (M)
-- Calibrated rating (Final Statistical Calibration Report — Jul 31, 2025): 3.0 — Meets Expectations (M)
-- 9-Box position: 5 — Develop (Moderate Potential, Meets Performance)
+
+| Category | Employee Self-Rating | Manager Initial Rating | Calibrated Rating | Calibration Date |
+|---|---|---|---|---|
+| **Overall Performance** | 3.31 (M) | 3.0 (M) | **3.0 (Meets Expectations)** | July 31, 2025 |
+| **Goals Achievement** | 3.33 (M) | 3.0 (M) | **3.0 (M)** | July 31, 2025 |
+| **Competencies** | 3.25 (M) | 3.0 (M) | **3.0 (M)** | July 31, 2025 |
+
+---
 
 ## Calibration Reconciliation
-Final rating aligns with evidence and tenure context (>6 months). Distribution check passes (10/70/20). No reconciliation actions required.
 
-## Peer Feedback and 360 Evidence (themes + examples)
-- Collaboration and responsiveness: partners well with API/QA; timely updates during stand-ups.
-- Ownership and accountability: resolves bugs within SLA; proactively seeks work during low-load periods.
-- Quality and maintainability: deployment checklists and reusable components reduced rework.
+### Calibration Rationale
+Jayson's rating of 3.0 is constrained by tenure policy:
+- 4-month tenure (joined March 6, 2025) limits maximum rating to 3.0
+- Solid performance within onboarding period expectations
+- Mixed peer feedback indicating development potential
+- Appropriate rating for learning phase
 
-Examples:
-- Coordinated with API to pre-empt backend issues; provided clear demo handoffs to QA.
-- Contributed OS standards and deployment checklist POC to improve predictability.
+### Distribution Compliance
+- Aligns with bottom 20% segment due to tenure constraints
+- Consistent with other new hires (<6 months)
+- No performance issues, rating purely tenure-based
 
-## Goals Assessment
-1) Accelerating BFS Mastery & AI Innovation
-- Self: M; Manager: M
-- Achievement evidence:
-  - Pragmatic AI use with observable efficiency gains; aligned to team learning.
-- Manager comments: Appropriate adoption pace; continue selective, outcome-focused use of AI. Suggestion: deepen BFS domain scenarios and capture before/after cycle-time notes when applying AI.
+### Performance-Rating Gap Actions
+None required - performance aligns with onboarding expectations.
 
-2) Achieve Engineering Excellence
-- Self: M; Manager: M
-- Achievement evidence:
-  - Pair reviews and demos; contributed to reusable components and clear QA handoffs.
-- Manager comments: Solid execution with reduced clarification churn. Suggestion: expand unit/integration coverage on complex flows to lower rework.
+---
 
-3) Empowered & Accountable Teams
-- Self: EE; Manager: EE
-- Achievement evidence:
-  - Proactive collaboration across API/QA; unblocked discussions and documented outcomes.
-- Manager comments: Positive influence on cadence. Suggestion: lead a short OS pattern/best-practice share per sprint.
+## Peer Feedback and 360 Evidence
 
-## Competencies Evaluation
-- Dependability: M — reliable delivery; punctual; adapts under pressure.
-- Problem Solving/Analysis: M — breaks down issues; fact-based decisions.
-- Productivity: EE — volunteers for additional work; supports others during low-load periods.
-- Results Focus: M — meets deadlines; owns outcomes and fixes.
-- Team Leadership: N/A — emerging behaviors via facilitation and support.
+### Key Themes from Feedback
+1. **Team Collaboration:** Recognized as supportive and approachable
+2. **Technical Development:** Adequate skills with guidance needed
+3. **Communication:** Could improve clarity and engagement
+4. **Work Ethic:** Reliable and punctual
 
-## Strategic Alignment and 9-Box
-Aligned to Engineering Excellence and AI enablement; contributions improve maintainability and predictability. 9-Box: 5 — Develop.
+### Specific Examples
+- Ronald Bucayan: "Willing to learn and shows strong learning agility"
+- Raynan Asuncion: "Proactive in collaborating with colleagues"
+- Dietrich Taladiar: "Demonstrates a proactive approach to collaboration"
+- John Mark Arguilles: "Sets a great example of punctuality"
+
+---
+
+## Goals Assessment [[memory:6103162]]
+
+### Goal 1: Accelerating BFS Mastery & AI Innovation
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Delivered quality work on time consistently
+• Collaborated effectively with team members
+• Improved efficiency using AI tools
+• In progress toward 30% improvement target
+
+**Manager Comments:** Solid foundation in adopting AI tools and BFS concepts during initial months. Jayson demonstrates appropriate progress for his tenure, effectively using available resources to enhance productivity. The learning curve is on track with expectations. Focus on deepening BFS domain knowledge through structured learning and peer shadowing in upcoming quarters.
+
+### Goal 2: Achieve Engineering Excellence
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Contributed to improved code quality
+• Collaborated on deployment checklists
+• Created reusable components for OutSystems POC
+• Reduced redundancy in development
+
+**Manager Comments:** Good contribution to engineering standards despite being new to the team. Jayson's focus on reusable components shows understanding of maintainability principles. His collaboration on deployment processes demonstrates commitment to quality. Continue building technical depth through code reviews and pair programming sessions.
+
+### Goal 3: Empowered & Accountable Teams
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Meets Expectations (M) *[Adjusted for tenure]*
+
+**Achievement Evidence:**
+• Proactive collaboration with API team
+• Prevented backend issues through coordination
+• Supported QA with detailed responses
+• Improved testing accuracy
+
+**Manager Comments:** Strong collaborative instincts demonstrated through cross-team support. While Jayson shows excellent initiative in team collaboration, the rating remains at Meets Expectations due to tenure constraints. This proactive approach to QA support and API coordination is commendable for someone still onboarding. Maintain this collaborative spirit as you grow into the role.
+
+---
+
+## Competencies Evaluation [[memory:6103678]]
+
+### Dependability
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Completes tasks within deadlines
+• Works independently with minimal supervision
+• Maintains quality and efficiency
+• Punctual and consistent attendance
+
+**Manager Comments:** Reliable performance appropriate for onboarding phase. Jayson demonstrates the foundational dependability expected of new team members. His punctuality and work ethic set a positive example. As comfort with systems grows, we expect increased autonomy and initiative in the coming months.
+
+### Problem Solving/Analysis
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Breaks down tasks effectively
+• Makes fact-based decisions
+• Collaborates to leverage team strengths
+• Identifies key issues appropriately
+
+**Manager Comments:** Developing analytical skills show promise for future growth. Jayson approaches problems methodically, though still building context for complex decisions. His willingness to collaborate when facing challenges demonstrates good judgment. Continue developing domain expertise to enhance problem-solving capabilities.
+
+### Productivity
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Meets Expectations (M) *[Adjusted for tenure]*
+
+**Achievement Evidence:**
+• Proactively seeks tasks during low workload
+• Checks with team for support opportunities
+• Maintains continuous productivity
+• Volunteers for additional work
+
+**Manager Comments:** Excellent initiative in seeking productive work during slower periods. While the proactive approach is commendable, rating remains at Meets Expectations due to tenure policy. This self-motivation and willingness to help others bodes well for future performance. Channel this energy into deepening technical skills and domain knowledge.
+
+### Results Focus
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Completes tasks within deadlines
+• Resolves bugs within 1-2 day SLA
+• Takes responsibility for errors
+• Coordinates resolution promptly
+
+**Manager Comments:** Appropriate results delivery for current experience level. Jayson shows accountability and ownership of work, addressing issues promptly when they arise. Meeting SLA requirements consistently demonstrates reliability. As technical proficiency grows, we expect to see increased complexity in deliverables.
+
+---
+
+## Strategic Alignment and 9-Box Positioning
+
+### Current 9-Box Position: Box 5 (Medium Performance, Medium Potential)
+- Performance Rating: 3.0 (Medium - tenure constrained)
+- Potential Rating: 2.4 (Medium)
+
+### Strategic Contributions
+- Supporting team productivity through collaboration
+- Contributing to code quality improvements
+- Building OutSystems capability
+
+### Future Positioning Strategy
+Jayson shows promise for growth post-probation:
+1. Complete onboarding milestones
+2. Deepen technical expertise
+3. Build domain knowledge
+
+---
 
 ## Bias and Consistency Checks
-Tenure > 6 months; cap not applicable. Role parity consistent with peers; evidence corroborated across sources.
+
+### Tenure Consideration
+- 4 months tenure: Maximum rating of 3.0 applied
+- Performance trajectory appears positive
+- No performance concerns identified
+
+### Role Parity Analysis
+- Rating consistent with other new hires
+- Appropriate for Software Engineer onboarding
+- Potential exceeds current rating constraints
+
+### Cross-Team Calibration
+- Feedback from multiple teams positive
+- Collaboration recognized across boundaries
+- Communication area for development noted
+
+---
 
 ## Development Focus and Specific Actions
-- Testing depth: add measurable coverage for complex OS flows.
-- Domain fluency: schedule 2 BFS deep-dives/month; document takeaways.
-- Visibility: 1x/sprint micro-session on OS pattern or deployment checklist improvement.
 
-## Recognition/Retention Actions
-Recognize dependable delivery and proactive collaboration; assign ownership of a small feature module next quarter.
+### Priority Development Areas
+1. **Communication Skills**
+   - Action: Participate in team presentations monthly
+   - Support: Presentation skills resources and practice sessions
 
-## Manager’s Assessment Summary
-Reliable contributor with growing impact on collaboration and maintainability. Next step is deeper ownership of complex scenarios and measurable quality gains.
+2. **Technical Depth**
+   - Action: Complete OutSystems certification by Q4
+   - Support: Dedicated learning time and mentorship
 
-## Review Status
-Final — Calibrated = 3.0 (Meets Expectations)
+3. **BFS Domain Knowledge**
+   - Action: Shadow senior engineers on domain-specific tasks
+   - Support: BFS training materials and documentation
+
+### Career Progression Plan
+- **Next 3 months:** Complete onboarding, establish technical foundation
+- **3-6 months:** Take on independent projects
+- **6-12 months:** Full performance rating eligibility, consider advancement
+
+---
+
+## Recognition and Retention Actions
+
+### Immediate Recognition
+- Acknowledge proactive collaboration in team meeting
+- Highlight QA support contributions
+- Recognize punctuality and reliability
+
+### Retention Strategy
+- Clear development path post-probation
+- Regular feedback on progress
+- Gradual increase in responsibility
+
+---
+
+## Manager's Assessment Summary
+
+Jayson Reniel Pamintuan demonstrates solid performance appropriate for his 4-month tenure at ABC. While his self-ratings show ambition and some areas exceed current expectations, the tenure policy appropriately caps his rating at 3.0 to reflect his onboarding status.
+
+His proactive approach to seeking work, strong collaboration with API and QA teams, and consistent reliability indicate potential for growth. The enthusiasm to contribute beyond assigned tasks, while maintaining quality and meeting deadlines, suggests he will excel as he gains experience.
+
+Areas for development include enhancing communication clarity and building technical depth. With continued mentorship and gradual responsibility increases, Jayson is on track to achieve higher performance ratings once tenure constraints lift.
+
+**Final Calibrated Rating: 3.0 - Meets Expectations**
+*Note: Rating constrained by <6 month tenure policy*
+
+*Evaluation Date: August 13, 2025*  
+*Manager: Arjay Gallentes*  
+*Next Review: January 2026*

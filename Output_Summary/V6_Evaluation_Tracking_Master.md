@@ -34,7 +34,7 @@
 12. Nailat, Christian - Software Engineer — v6 completed (August 13, 2025)
 
 #### Batch 4
-13. Pamintuan, Jayson Reniel - Software Engineer
+13. Pamintuan, Jayson Reniel - Software Engineer — v6 completed (August 13, 2025)
 14. Penalosa, Mauricio - Software Engineer — v6 completed (August 13, 2025)
 15. Reyes, Christopher - Software Engineer — v6 completed (August 13, 2025)
 16. Riños, Christopher Jan - Software Engineer — v6 completed (August 13, 2025)
