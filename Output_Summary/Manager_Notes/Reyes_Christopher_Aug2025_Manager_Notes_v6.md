@@ -1,3 +1,18 @@
+## Manager Notes v6 — Christopher Reyes (Confidential)
+
+Evidence
+- Self-eval; peer endorsements of leadership tendencies, documentation, responsiveness.
+
+Risks
+- Low. Watch delivery time on complex legacy items.
+
+Actions (60 days)
+- Promote Confluence playbooks; assign owners.
+- Co-facilitate sprint ceremonies with a mentee.
+- Weekly pairing on difficult tickets; track MTTR trends.
+
+9-Box
+- Perf 3.8, Pot 2.8 → Box 6–7. Growth via complexity depth.
 # Manager Notes v6 — Reyes, Christopher (Confidential)
 
 - Key risks: Narrow backend exposure; ensure breadth to reduce single-threading.
