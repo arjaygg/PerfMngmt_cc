@@ -1,4 +1,4 @@
-.PHONY: ingest validate:preflight validate:outputs batch hooks
+.PHONY: ingest validate-preflight validate-outputs batch hooks
 
 PY := python3
 CACHE := .cache
@@ -13,10 +13,10 @@ ingest: $(CACHE)
 	$(PY) $(TOOLS)/ingest_nine_box.py --manifest inputs.manifest.yaml --out $(CACHE)/nine_box/nine_box.json
 	$(PY) $(TOOLS)/convert_to_markdown.py --manifest inputs.manifest.yaml --out $(CACHE)/markdown
 
-validate:preflight:
+validate-preflight:
 	$(PY) $(TOOLS)/validate_preflight.py --roster $(CACHE)/roster/roster.json --feedback_dir $(CACHE)/feedback --nine_box $(CACHE)/nine_box/nine_box.json
 
-validate:outputs:
+validate-outputs:
 	$(PY) $(TOOLS)/validate_outputs.py --outputs Output_Management-Evaluation --notes Output_Summary/Manager_Notes --roster $(CACHE)/roster/roster.json
 
 batch:
