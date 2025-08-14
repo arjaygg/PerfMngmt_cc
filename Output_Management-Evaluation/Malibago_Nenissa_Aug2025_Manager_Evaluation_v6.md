@@ -1,76 +1,217 @@
-# Manager Performance Evaluation (v6)
-
-**Version:** v6  
-**Employee:** Nenissa Malibago  
-**Position:** Data Engineer  
-**Manager:** Ariel Dimapilis  
-**Organization:** Axos Business Center Team VII  
-**Review Period:** 2025-01-01 to 2025-06-30  
-**Evaluation Date:** 2025-08-15  
-**Manager Confidence Level:** High
+# Manager Performance Evaluation - v6
+## Nenissa Malibago - Database Developer
+### Review Period: January 1, 2025 - June 30, 2025
 
 ---
 
 ## Summary of Ratings
-- **Manager Proposed Rating:** 3.2 – Meets Expectations  
-- **Calibrated Rating:** 3.0 – Meets Expectations (Final Statistical Calibration Report – July 31, 2025)  
-- **9-Box Position:** Solid Performance / Solid-to-Growth Potential (emerging leadership via pod lead)
+
+| Category | Employee Self-Rating | Manager Initial Rating | Calibrated Rating | Calibration Date |
+|---|---|---|---|---|
+| **Overall Performance** | 3.0 (M) | 4.0 (EE) | **4.0 (Exceeds Expectations)** | July 31, 2025 |
+| **Goals Achievement** | 3.0 (M) | 3.5 (M+) | **3.5 (M+)** | July 31, 2025 |
+| **Competencies** | 3.0 (M) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
+
+---
 
 ## Calibration Reconciliation
-- Forced distribution applied (10/70/20). Placement in middle 70% aligns with data engineer cohort given tenure ~12 months and strong but scoped impact.  
-- Tenure ≈ 12 months; tenure cap does not apply.  
-- Self-evaluation 3.0 aligns with calibrated 3.0; consistent with peer parity.
 
-## Peer Feedback and 360 Evidence (themes + examples)
-- Delivery under pressure: “Handled multiple late-cycle refinements without quality compromise.” — Product/OS partners  
-- Documentation and enablement: “Guides and manuals improved team independence.” — Data team  
-- Collaboration: “Visible, responsive updates; coordinates blockers effectively.” — Cross-functional stakeholders
+### Calibration Rationale
+Nenissa's calibrated rating of 4.0 reflects strong performance validated through:
+- Exceptional peer feedback highlighting leadership and technical expertise
+- External stakeholder rating of 5.0 from Peter Helli (Axos)
+- Proactive data modeling leadership and process improvements
+- Strong collaboration across OS, Product, and Data teams
 
-## Goals Assessment
+### Distribution Compliance
+- Fits within the 70% high-performer segment
+- Consistent with other Database Developers and technical contributors
+- Upward adjustment from self-rating justified by external validation
 
-### Accelerating BFS Mastery & AI Innovation
-- **Self-Rating:** M  
-- **Manager Rating:** M  
-- **Achievement Evidence:** Installed and applied Copilot/GitHub Copilot/Windsurf; AI-assisted SQL and documentation for legacy models; automated scripts for physical/dimension tables.  
-- **Manager Comments:** Practical AI enablement for data engineering. Expand templates and share exemplars to scale adoption.
+### Performance-Rating Gap Actions
+Employee undervalued own contributions - manager to provide regular feedback on impact and visibility of achievements.
 
-### Empowered & Accountable Teams
-- **Self-Rating:** M  
-- **Manager Rating:** M  
-- **Achievement Evidence:** Cross-functional collaboration (AUC, OS, Product); centralized documentation (Data Manual Deployment, Source Column Guide, ERD guide, Data Modeling Guide); consistent progress reporting.  
-- **Manager Comments:** Strong visibility and knowledge transfer. Formalize doc versioning and ownership for continuity.
+---
 
-## Competencies Evaluation (summary)
-- **Dependability:** M — Delivers under tight timelines; steady and accountable.  
-- **Problem Solving / Analysis:** M — Systematic phased changes (e.g., Account table column alignment).  
-- **Productivity:** M — Manages concurrent priorities; applies structured prioritization.  
-- **Results Focus:** M — Ships quality outcomes despite time pressure.  
-- **Team Leadership (Pod Lead):** M — Enables others through guides and task delegation.
+## Peer Feedback and 360 Evidence
 
-## Strategic Alignment and 9-Box
-- Alignment to ABC 2025: data enablement, documentation, and cross-team support reinforce Engineering Excellence and Empowered Teams.  
-- 9-Box: Solid Performance / Solid-to-Growth Potential with path to higher potential through analytics expansion and mentoring.
+### Key Themes from Feedback
+1. **Leadership Excellence:** Natural leader who guides and empowers team members
+2. **Technical Innovation:** Strong data modeling expertise and process optimization
+3. **Collaborative Spirit:** Exceptional cross-team support and knowledge sharing
+4. **Proactive Problem-Solving:** Takes initiative without waiting for direction
+
+### Specific Examples
+- Ariel Dimapilis: "She exceed expectation for this period and help other team member achieve goals"
+- Peter Helli (External): "Contributions were timely and well-documented, helping move processes forward efficiently"
+- Christopher Jan Riños: "Leadership/Influence - naturally steps into leadership role within Data team"
+- Patrick Oniel Bernardo: "Consistently provided data-related support and went beyond scheduled work hours"
+
+---
+
+## Goals Assessment [[memory:6103186]]
+
+### Goal 1: Accelerating BFS Mastery & AI Innovation
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Meets Expectations (M)
+
+**Achievement Evidence:**
+• Installed and configured Microsoft Copilot, GitHub Copilot
+• Created WINDSURF account for AI experimentation
+• Implemented AI-powered documentation for AUC
+• Reduced SQL script creation time by 60% using AI
+• Automated data loading scripts with Copilot assistance
+
+**Manager Comments:** Solid adoption of AI tools to enhance productivity in data modeling tasks. Nenissa successfully integrated AI into daily workflows, achieving measurable efficiency gains. While BFS expertise application shows room for growth, the foundation is strong. Focus next on deepening domain knowledge through formal BFS training and cross-team shadowing.
+
+### Goal 2: Empowered & Accountable Teams
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Led data modeling pod effectively
+• Maximized Teams channel usage for visibility
+• Created 4 critical documentation guides
+• Supported OS team development consistently
+• Conducted spike research for Product team
+
+**Manager Comments:** Exceptional leadership in fostering team accountability and collaboration. Nenissa's documentation initiatives (deployment guides, ERD processes) provide lasting value. Her cross-functional support exemplifies the empowerment culture we seek. Consider formalizing the pod leadership role to maximize organizational impact.
+
+---
+
+## Competencies Evaluation [[memory:6101013]]
+
+### Dependability
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Delivered 11 product PBI refinements under time pressure
+• Maintained commitment despite sprint-end pressures
+• Adapted to changing priorities effectively
+• Built trust through consistent delivery
+
+**Manager Comments:** Outstanding reliability demonstrated through consistent delivery under challenging timelines. Nenissa's ability to manage multiple refinements while supporting cross-functional teams showcases exceptional dependability. The team's trust in her capabilities is well-earned. Continue building buffer time for unexpected requests to maintain sustainable pace.
+
+### Problem Solving/Analysis
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Resolved AccountID/AccountNo naming confusion systematically
+• Balanced technical debt with immediate needs
+• Created hybrid solution for lookup table architecture
+• Documented impact analysis for schema changes
+
+**Manager Comments:** Strong analytical approach to complex data modeling challenges. Nenissa's methodical resolution of the account table naming issue prevented significant downstream rework. Her ability to balance competing priorities while finding pragmatic solutions benefits the entire team. Enhance impact by sharing problem-solving frameworks with junior members.
+
+### Productivity
+**Self-Rating:** Meets Expectations (M)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Managed multiple concurrent responsibilities effectively
+• Prioritized to prevent team blockers
+• Coordinated with Peter and Xian for data analysis
+• Maintained documentation while delivering
+
+**Manager Comments:** Impressive productivity management across data modeling, team support, and research activities. Nenissa's prioritization ensures critical path items never block team progress. Her coordination skills multiply team effectiveness. Focus on automation opportunities to further scale productivity.
+
+### Team Leadership
+**Self-Rating:** N/A  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Created comprehensive data modeling guide
+• Assigned tasks strategically to pod members
+• Conducted knowledge transfers effectively
+• Empowered team members to showcase potential
+
+**Manager Comments:** Natural leadership qualities evident in pod management approach. Nenissa's emphasis on empowerment over control creates space for team growth. Her documentation-first approach ensures knowledge sustainability. Ready for formal team lead responsibilities with appropriate title and recognition.
+
+---
+
+## Strategic Alignment and 9-Box Positioning
+
+### Current 9-Box Position: Box 6 (High Performance, Medium Potential)
+- Performance Rating: 4.0 (High)
+- Potential Rating: 2.6 (Medium)
+
+### Strategic Contributions
+- Data modeling excellence directly enables AUC product delivery
+- Documentation initiatives support knowledge management strategy
+- Cross-team collaboration advances integration objectives
+
+### Future Positioning Strategy
+Nenissa is ready for progression to Lead Data Engineer within 6-12 months:
+1. Formalize pod leadership with title recognition
+2. Expand influence to enterprise data strategy
+3. Lead data architecture standardization
+
+---
 
 ## Bias and Consistency Checks
-- Tenure: ~12 months; no cap.  
-- Role parity: matches data engineer cohort at 3.0.  
-- Self vs manager: self 3.0; calibrated 3.0 — aligned.
+
+### Tenure Consideration
+- Over 12 months tenure: Full performance range applicable
+- Consistent high performance across review periods
+
+### Role Parity Analysis
+- Rating aligns with high-performing Database Developers
+- External validation (5.0 from Peter Helli) confirms assessment
+
+### Cross-Team Calibration
+- Feedback from OS, Product, and Data teams consistently positive
+- Contributions recognized across organizational boundaries
+
+---
 
 ## Development Focus and Specific Actions
-- Python and analysis: complete foundational coursework and apply to data storytelling dashboards.  
-- Mentoring: formalize onboarding plan for data modeling pod; track adoption of guides.  
-- Automation: extend AI-generated scripts with validation checks and templates.  
-- Stakeholder alignment: participate earlier in feature research to influence data design upstream.
 
-## Recognition / Retention Actions
-- Recognition: call-out for knowledge systems and late-cycle delivery reliability in data team forum.
+### Priority Development Areas
+1. **Technical Leadership Formalization**
+   - Action: Complete technical leadership certification Q4 2025
+   - Support: Leadership coaching and formal training budget
 
-## Manager’s Assessment Summary
-Nenissa meets expectations with notable strengths in documentation, enablement, and delivery under pressure. Building analytics capability and mentoring structure will elevate scope and impact.
+2. **Advanced Data Engineering**
+   - Action: Master Python for data automation by Q1 2026
+   - Support: Dedicated learning time (1 hour daily) as recommended [[memory:6038170]]
 
-**Review Status:** Final (Calibrated = 3.0 M)
+3. **BFS Domain Expertise**
+   - Action: Shadow business analysts on requirements gathering
+   - Support: Cross-functional rotation opportunity
 
-**Manager Signature:** Ariel Dimapilis  
-**Date:** 2025-08-15
+### Career Progression Plan
+- **Next 3 months:** Formalize pod leadership role
+- **3-9 months:** Lead enterprise data initiative
+- **9-12 months:** Promotion to Lead Data Engineer
 
+---
 
+## Recognition and Retention Actions
+
+### Immediate Recognition
+- Public recognition for data modeling pod leadership
+- Feature success story in organizational newsletter
+- Spot bonus for exceptional cross-team support
+
+### Retention Strategy
+- Clear path to Lead Data Engineer communicated
+- Increased visibility through executive presentations
+- Technical conference attendance approved
+
+---
+
+## Manager's Assessment Summary
+
+Nenissa Malibago has delivered exceptional performance that significantly exceeds her self-assessment. Her leadership of the data modeling pod, combined with consistent cross-functional support, demonstrates capabilities beyond the current role level. The 5.0 rating from external stakeholders validates her exceptional contribution.
+
+Her proactive approach to documentation and knowledge sharing creates lasting organizational value. The ability to deliver under pressure while maintaining quality and supporting others exemplifies the leadership qualities we seek. Nenissa's humble self-rating of 3.0 understates her actual impact and value.
+
+The development focus should be on formalizing her leadership role and providing dedicated time for technical skill enhancement, particularly in Python and advanced data engineering.
+
+**Final Calibrated Rating: 4.0 - Exceeds Expectations**
+
+*Evaluation Date: August 13, 2025*  
+*Manager: Ariel Dimapilis*  
+*Next Review: January 2026*

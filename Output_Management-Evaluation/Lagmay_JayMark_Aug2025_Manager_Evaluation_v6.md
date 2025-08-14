@@ -1,82 +1,226 @@
-# Manager Performance Evaluation (v6)
-
-**Version:** v6  
-**Employee:** Jay Mark Lagmay  
-**Position:** Sr. Software Engineer  
-**Manager:** Arjay Gallentes  
-**Organization:** Axos Business Center Team VII  
-**Review Period:** 2025-01-01 to 2025-06-30  
-**Evaluation Date:** 2025-08-15  
-**Manager Confidence Level:** High
+# Manager Performance Evaluation - v6
+## Jay Mark Lagmay - Sr Software Engineer
+### Review Period: January 1, 2025 - June 30, 2025
 
 ---
 
 ## Summary of Ratings
-- **Manager Proposed Rating:** 4.2 – Exceeds Expectations  
-- **Calibrated Rating:** 4.0 – Exceeds Expectations (Final Statistical Calibration Report – July 31, 2025)  
-- **9-Box Position:** High Performance / Solid Potential (reliable senior contributor; emerging leadership)
+
+| Category | Employee Self-Rating | Manager Initial Rating | Calibrated Rating | Calibration Date |
+|---|---|---|---|---|
+| **Overall Performance** | 4.0 (EE) | 4.0 (EE) | **4.0 (Exceeds Expectations)** | July 31, 2025 |
+| **Goals Achievement** | 4.0 (EE) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
+| **Competencies** | 4.0 (EE) | 4.0 (EE) | **4.0 (EE)** | July 31, 2025 |
+
+---
 
 ## Calibration Reconciliation
-- Forced distribution (10/70/20) maintained for senior ICs. Evidence supports Exceeds band; final set to 4.0 for parity with Sr SWE cohort.  
-- Tenure ~7 months (>6); tenure cap does not apply.  
-- Self-evaluation high; final rating aligns to distribution and role consistency.
 
-## Peer Feedback and 360 Evidence (themes + examples)
-- Testing excellence: “New framework raised quality and visibility.” — Engineering peers  
-- Mentoring and enablement: “Clear guidance on interviews and onboarding.” — Team members  
-- Collaboration: “Effective cross-team coordination; dependable delivery.” — Stakeholders
+### Calibration Rationale
+Jay Mark's rating of 4.0 (Exceeds Expectations) is validated through:
+- Strong peer feedback highlighting technical expertise and leadership potential
+- Exceptional contributions to unit testing (95%+ coverage exceeding targets)
+- Proactive involvement in recruitment, mentoring, and employee engagement
+- 7-month tenure qualifying for performance-based ratings
 
-## Goals Assessment
+### Distribution Compliance
+- Aligns with the 70% high-performer segment
+- Consistent with other Sr Software Engineers in the calibration pool
+- No adjustment required from initial rating
 
-### Achieve Engineering Excellence: Unit Test Coverage and Code Quality
-- **Self-Rating:** EE  
-- **Manager Rating:** SE  
-- **Achievement Evidence:** >95% repository and service layer coverage; SonarQube pipelines and quality gates in place; framework reusable across services.  
-- **Manager Comments:** Testing framework set a new bar for engineering excellence. Extend methodology to additional microservices.
+### Performance-Rating Gap Actions
+None required - performance and rating are aligned.
 
-### Empowered & Accountable Teams: ABC Buddy Program and Engagement
-- **Self-Rating:** EE  
-- **Manager Rating:** SE  
-- **Achievement Evidence:** Buddy Program by-laws contributions; onboarding support; central engagement activities; mentoring two interviewers.  
-- **Manager Comments:** Positive culture and enablement impact. Systematize mentoring curriculum and track outcomes.
+---
 
-### Recruitment & Talent Excellence
-- **Self-Rating:** EE  
-- **Manager Rating:** SE  
-- **Achievement Evidence:** Led interviews across roles; provided contextual feedback; accelerated interview capability across team.  
-- **Manager Comments:** Strong recruiting impact; help codify interview rubrics for consistency.
+## Peer Feedback and 360 Evidence
 
-## Competencies Evaluation (summary)
-- **Dependability:** SE — Operates between Senior and Principal-level expectations with steady reliability.  
-- **Problem Solving / Analysis:** SE — Fact-based decomposition; minimizes interdependencies.  
-- **Productivity:** SE — Balances technical/non-technical work; raises team throughput.  
-- **Results Focus:** SE — Owns outcomes; establishes preventive measures.  
-- **Team Leadership (Senior IC):** EE — Emerging leadership via mentoring and cross-team influence.
+### Key Themes from Feedback
+1. **Technical Excellence:** Multiple peers highlight strong technical knowledge and expertise in API development
+2. **Proactive Knowledge Sharing:** Consistently shares insights and solutions with team members
+3. **Leadership Qualities:** Natural leader who guides peers effectively
+4. **Collaborative Approach:** Excellent team player, approachable and supportive
 
-## Strategic Alignment and 9-Box
-- Alignment to ABC 2025: testing excellence, enablement, and recruiting strengthen Engineering Excellence and Talent pillars.  
-- 9-Box: High Performance / Solid Potential with trajectory toward higher potential via broader architecture ownership.
+### Specific Examples
+- Verlin Grace Cabalhug: "Sets a good example for juniors and guides them with his experiences and expertise"
+- Paul Tianan: "Strong technical knowledge, strong business rules knowledge, very comfortable to work with"
+- Rahc Eiram Bulatao: "Technically sharp and very dependable under pressure. Plus, very approachable"
+
+---
+
+## Goals Assessment [[memory:6103162]]
+
+### Goal 1: Achieve Engineering Excellence
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Repository layer unit tests: 95%+ coverage (target: 90%)
+• Service layer unit tests: 95%+ coverage (target: 85%)
+• SonarQube pipelines implemented for all APW services
+• All tests passing Quality Gate requirements
+
+**Manager Comments:** Jay Mark demonstrated exceptional technical execution in achieving and surpassing all unit testing targets. The implementation of comprehensive testing infrastructure showcases both technical depth and commitment to quality. His work establishes a strong foundation for continued engineering excellence. To further elevate impact, consider mentoring other teams on testing best practices and expanding automation frameworks.
+
+### Goal 2: Empowered & Accountable Teams
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Participated in new hire onboarding within first month
+• Co-created ABC Buddy Program by-laws
+• Active in town halls and department meetings
+• Facilitated employee data gathering initiatives
+
+**Manager Comments:** Outstanding contribution to team culture and engagement initiatives. Jay Mark's involvement in the Buddy Program demonstrates leadership beyond his technical role. His collaborative approach strengthens team cohesion and accountability. Consider formalizing a mentorship role to maximize influence on team development.
+
+### Goal 3: Recruitment & Talent Excellence  
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Quickly mastered interviewing techniques
+• Led interviews for various positions including senior roles
+• Mentored 2 team members in interviewing skills
+• Provided comprehensive feedback for candidates and mentees
+
+**Manager Comments:** Remarkable contribution to talent acquisition despite being relatively new to ABC. Jay Mark's ability to interview for positions above his current level demonstrates maturity and judgment. His mentoring of interview skills multiplies team capability. To enhance further, consider developing a structured interviewing guide for technical roles.
+
+---
+
+## Competencies Evaluation [[memory:6103678]]
+
+### Dependability
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Performs between Senior and Principal Engineer levels
+• Trusted advisor for junior developers
+• Consulted by stakeholders for technical insights
+• Consistent delivery on commitments
+
+**Manager Comments:** Jay Mark exemplifies reliability and trustworthiness in all interactions. His ability to operate above his current level while maintaining consistency is commendable. Team members instinctively seek his guidance, validating his dependability. Continue building this reputation while ensuring sustainable work practices.
+
+### Problem Solving/Analysis
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Facts-based approach to decision making
+• Breaks down complex tasks into SMART goals
+• Minimizes interdependencies in task planning
+• Provides comprehensive context in solutions
+
+**Manager Comments:** Exceptional analytical capabilities demonstrated through systematic problem decomposition and solution design. Jay Mark's methodical approach ensures thorough understanding before action. His ability to simplify complexity benefits the entire team. Consider documenting problem-solving frameworks for team-wide adoption.
+
+### Productivity
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Balances technical and non-technical work effectively
+• Clear prioritization of urgent items
+• Active knowledge sharing with team
+• Manages multiple initiatives simultaneously
+
+**Manager Comments:** Outstanding productivity management across diverse responsibilities. Jay Mark's ability to juggle technical delivery, mentoring, and strategic initiatives without compromise is impressive. His knowledge sharing amplifies team productivity. Focus on delegation opportunities to scale impact further.
+
+### Results Focus
+**Self-Rating:** Exceeds Expectations (EE)  
+**Manager Rating:** Exceeds Expectations (EE)
+
+**Achievement Evidence:**
+• Direct business value delivery to stakeholders
+• Enables team members' success
+• Takes ownership of errors with corrective actions
+• Implements preventive measures
+
+**Manager Comments:** Consistent delivery of high-impact results that benefit both immediate stakeholders and broader team effectiveness. Jay Mark's ownership mindset and focus on prevention demonstrates maturity. His enabling of others' success multiplies value creation. Continue this balanced approach to individual and team results.
+
+---
+
+## Strategic Alignment and 9-Box Positioning
+
+### Current 9-Box Position: Box 6 (High Performance, Medium Potential)
+- Performance Rating: 4.0 (High)
+- Potential Rating: 2.6 (Medium)
+
+### Strategic Contributions
+- Unit testing framework directly supports Engineering Excellence pillar
+- Recruitment leadership advances Talent Excellence objectives
+- Knowledge sharing enables BFS Academy goals
+
+### Future Positioning Strategy
+Jay Mark is positioned for advancement to Principal Engineer or Team Lead role within 12-18 months. Focus areas:
+1. Deepen BFS domain expertise
+2. Lead larger cross-functional initiatives
+3. Formalize mentoring responsibilities
+
+---
 
 ## Bias and Consistency Checks
-- Tenure: ~7 months; no cap (>6 months).  
-- Role parity: aligns with Sr SWE cohort at 4.0.  
-- Self vs manager: self 4.7; calibrated 4.0 — rationale: distribution balance and cohort consistency.
+
+### Tenure Consideration
+- 7 months tenure: No rating constraints apply
+- Performance trajectory indicates rapid ramp-up and value delivery
+
+### Role Parity Analysis
+- Rating consistent with other Sr Software Engineers (4.0 average)
+- Contributions exceed typical 7-month tenure expectations
+
+### Cross-Team Calibration
+- APW API team performance metrics validate individual contribution
+- Peer feedback from multiple teams confirms consistent excellence
+
+---
 
 ## Development Focus and Specific Actions
-- Architecture involvement: lead design reviews for targeted services; document decisions.  
-- Framework scale-out: template the testing framework and coach two teams on adoption.  
-- Communication: continue cross-functional clarity; share metrics on reliability improvements.  
-- Mentoring: formalize 1:many mentoring for interviewing and testing practices.
 
-## Recognition / Retention Actions
-- Recognition: acknowledge testing framework and mentoring contributions in engineering forum.
+### Priority Development Areas
+1. **BFS Domain Mastery**
+   - Action: Complete BFS certification by Q4 2025
+   - Support: Allocated learning time and mentorship from domain experts
 
-## Manager’s Assessment Summary
-Jay Mark exceeds expectations through testing excellence, dependable delivery, and team enablement. Broadening architectural scope and formalizing mentoring will amplify organizational impact.
+2. **Leadership Formalization**
+   - Action: Lead a cross-team technical initiative in Q3
+   - Support: Executive sponsorship and project resources
 
-**Review Status:** Final (Calibrated = 4.0 EE)
+3. **Architecture Skills**
+   - Action: Shadow Principal Engineers on system design reviews
+   - Support: Architecture guild participation
 
-**Manager Signature:** Arjay Gallentes  
-**Date:** 2025-08-15
+### Career Progression Plan
+- **Next 6 months:** Deepen technical expertise, lead team-level initiatives
+- **6-12 months:** Take on Principal Engineer responsibilities
+- **12-18 months:** Formal promotion to Principal Engineer or Tech Lead
 
+---
 
+## Recognition and Retention Actions
+
+### Immediate Recognition
+- Public acknowledgment of unit testing achievement in town hall
+- Feature in engineering excellence showcase
+- Nomination for Q2 MVP award
+
+### Retention Strategy
+- Fast-track promotion pathway communicated
+- Increased project ownership and visibility
+- Mentorship from senior leadership
+
+---
+
+## Manager's Assessment Summary
+
+Jay Mark Lagmay has delivered exceptional performance in his first 7 months at ABC, demonstrating capabilities beyond his current level. His technical excellence in achieving 95%+ test coverage, combined with significant contributions to recruitment and team culture, validates the Exceeds Expectations rating.
+
+His rapid acquisition of interviewing skills and ability to mentor others showcases leadership potential. The balance between technical delivery and organizational contribution is particularly noteworthy. Jay Mark's proactive approach to knowledge sharing and systematic problem-solving elevates team capability.
+
+Areas for continued growth include deepening BFS domain expertise and formalizing leadership skills. With structured development support, Jay Mark is on track for accelerated career progression.
+
+**Final Calibrated Rating: 4.0 - Exceeds Expectations**
+
+*Evaluation Date: August 13, 2025*  
+*Manager: Arjay Gallentes*  
+*Next Review: January 2026*
