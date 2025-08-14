@@ -1,3 +1,85 @@
+## Manager Evaluation v6 — Paul Eugene Chingtoco (Sr. Developer)
+
+### Summary of Ratings
+- **Cycle**: Jan 1–Jun 30, 2025
+- **Self Overall**: 3.46 (Meets Expectations)
+- **Manager Overall (pre-calibration)**: 3.6 (High Meets)
+- **Calibrated Final Rating**: 3.6 (High Meets)
+- **Calibration Date**: 2025-08-12
+
+### Calibration Reconciliation
+- Forced distribution upheld within the broader org. Profile placed in upper-middle cohort (not top 10%).
+- Role parity check vs. Software Engineers at similar tenure shows consistent positioning.
+- 9-Box: Performance 3.6, Potential 2.5 → Box 5 (Solid Performer).
+- Tenure policy: Not capped (<6 months cap not applicable).
+
+### Peer/Stakeholder Themes (360)
+- Strengths: responsiveness, collaboration, fast issue resolution, quality-focused changes.
+- Opportunities: increase proactive communication cadence and knowledge-sharing visibility.
+
+### Goals Assessment
+1) Development of key engineering deliverables (Strategic Initiative)
+   - **Self**: Exceeds Expectations (EE)
+   - **Manager**: Meets–High (3.5)
+   - Achievement Evidence:
+     - Introduced implementation improvements reducing defects and rework.
+     - Resolved UAT bugs with coordinated peer support (APW/APW-like items).
+   - Manager Comments: Delivers maintainable changes with low defect rates. Increasing early alignment with QA/PO will reduce iteration overhead. Next: initiate short async design nudges before coding to surface edge cases.
+
+2) Ensure development teams are productive (Operational Initiative)
+   - **Self**: Meets (M)
+   - **Manager**: Meets (3.0)
+   - Achievement Evidence:
+     - Met activity and hours targets; used ADO routinely.
+     - Addressed bugs quickly post-discovery.
+   - Manager Comments: Baseline productivity met. Elevate consistency by documenting tricky flows and sharing reusable snippets during sprint huddles. Next: commit one knowledge post per sprint.
+
+3) Execute continuous improvement (Operational Initiative)
+   - **Self**: Meets (M)
+   - **Manager**: Meets–High (3.3)
+   - Achievement Evidence:
+     - Applied refactors and small performance optimizations.
+     - Kept changes well-scoped; reduced regression risk.
+   - Manager Comments: Adds incremental value without churn. Next: propose one measurable CI improvement per release train.
+
+4) Compliance & Risk (two objectives)
+   - **Self**: Meets (M)
+   - **Manager**: Meets (3.0)
+   - Achievement Evidence:
+     - No material findings; adhered to software audit standards.
+   - Manager Comments: Sustained compliance. Next: include brief privacy/security checklist in PR descriptions.
+
+### Competencies
+- Dependability — **Self**: M | **Manager**: M
+  - Evidence: One missed standup due to unavoidable issue; overall reliable with follow-through.
+  - Manager Comments: Reliable execution. Next: set backup comms for standup conflicts.
+
+- Problem Solving — **Self**: EE | **Manager**: EE
+  - Evidence: Fact-based fixes; broke down issues into actionable parts; accelerated bug resolution.
+  - Manager Comments: Strong analysis and remediation. Next: capture root-cause notes in ADO for pattern tracking.
+
+- Productivity — **Self**: EE | **Manager**: EE− (3.7)
+  - Evidence: Time management, targeted refactors, concise implementations.
+  - Manager Comments: Effective throughput. Next: convert recurring tweaks into team standards.
+
+- Results Focus — **Self**: EE | **Manager**: EE− (3.7)
+  - Evidence: On-time deliveries with minimal rework.
+  - Manager Comments: Maintains velocity with quality. Next: front-load risk checks for edge cases.
+
+### Strategic Alignment
+- Aligns with ABC Tech Strategy: engineering excellence, AI-assisted efficiency (beginning adoption), stakeholder transparency.
+- Recommend increased participation in sprint-level demos to amplify visibility and cross-team reusability.
+
+### Development Focus and Actions
+- Communication cadence: share WIP design notes weekly.
+- Knowledge sharing: one short write-up per sprint; rotate a 10-min demo monthly.
+- Proactive risk surfacing: add acceptance risks in PRs.
+
+### Recognition/Retention
+- Recognition: reliable contributor who uplifts quality. Retention action not required.
+
+### Manager’s Assessment Summary
+Consistent, quality delivery with strong problem-solving. Increasing proactive communication and reusable documentation will compound team effect. Recommendation: maintain current scope with targeted leadership moments (micro-demos, design nudges) to build influence.
 # Manager Performance Evaluation (v6)
 
 **Version:** v6  

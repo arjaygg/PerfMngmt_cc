@@ -1,3 +1,24 @@
+## Manager Notes v6 — Paul Eugene Chingtoco (Confidential)
+
+Evidence Sources
+- Self-evaluation (07/16/2025) — goals, competencies, examples
+- Peer/stakeholder feedback — APW/APW-like collaboration notes (quick bug turnaround, helpfulness)
+- Strategy doc — Engineering excellence, AI augmentation
+
+Risk/Retention
+- Low risk. Positive peer sentiment; dependable delivery.
+
+Recommendations (Next 2 sprints)
+- Publish 1 short design note/week; 1 sprint knowledge post.
+- Add “risk/edge-cases” paragraph to PRs; tag QA.
+- Pilot lightweight test checklist for complex flows.
+
+Follow-ups
+- Review knowledge posts after 2 sprints; check reuse rate.
+- Scan PRs for risk sections; sample 5 PRs.
+
+9-Box Position Rationale
+- Perf ~3.6, Potential ~2.5 → Box 5 (Solid). Strength in execution; influence growth via comms.
 # Manager Notes (Confidential) – v6
 
 **Employee:** Paul Eugene Chingtoco  
