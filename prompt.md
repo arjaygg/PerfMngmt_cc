@@ -40,6 +40,56 @@ Ultrathink, ROLE: You are an expert people manager, and performance review manag
   - Bias detection and correction mechanisms
 - Use normal distribution principles for rating calibration
 - Implement consistency checks across similar roles and levels
+
+**D. Systematic Workflow per Team Member**:
+Follow this 9-step process for EVERY employee evaluation to ensure consistency and completeness:
+
+1. **Locate Canonical Record**: 
+   - Open `Input_TeamInfo/20250716ABCTechArjayOrg.pdf` and extract:
+     * Exact full name and email alias
+     * Title and manager
+     * Hire Date (critical for tenure calculation)
+
+2. **Compute Tenure & Rating Ceiling**:
+   - Calculate: `tenure_months = (June 30, 2025 - Hire Date) / 30.44`
+   - If `tenure_months < 6`: Set `rating_ceiling = 3.0 (Meets)` and document in "Calibration Rationale"
+
+3. **Collect Employee Artifacts**:
+   - Self-evaluation PDF + impact statement (`Input_Self-Evaluation/`)
+   - All peer/stakeholder feedback where "Name of colleague reviewing" = employee
+   - Previous 9-Box data (`Input_9Box/`)
+   - Role description (`Input_TeamRoles/`)
+
+4. **Extract Decision Inputs**:
+   - Self-ratings for Goals and Competencies
+   - Peer feedback themes and specific quotes
+   - External stakeholder ratings
+   - Previous performance history
+
+5. **Draft Artifacts**:
+   - Manager Evaluation (v6 format) in `Output_Management-Evaluation/`
+   - Manager Notes (confidential) in `Output_Summary/Manager_Notes/`
+
+6. **Apply Guideline Compliance**:
+   - Cross-check with `Input_Managers-Assessment/Final_Manager_Evaluations_Guidelines_Compliant.xlsx`
+   - Verify all required sections present
+   - Ensure rating consistency with tenure and role level
+
+7. **Validate Calibration**:
+   - Compare with peer group in similar roles
+   - Apply statistical distribution checks
+   - Document any rating adjustments with rationale
+
+8. **Quality Review**:
+   - Verify peer feedback attribution is accurate
+   - Ensure goals/competencies follow memory guidelines
+   - Check for balanced strengths and development areas
+
+9. **Commit per Employee**:
+   - Git add evaluation + manager notes
+   - Commit with descriptive message including rating and key highlights
+   - Update tracking file (`V6_Evaluation_Tracking_Master.md`)
+
 **E. Consolidated Reporting**:
 - Executive summary of organizational performance
 - Individual development planning recommendations
