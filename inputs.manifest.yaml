@@ -1,0 +1,19 @@
+# Canonical list of input sources for ingestion and validation
+self_evaluations:
+  - Input_Self-Evaluation/**/*.pdf
+feedback:
+  - Input_Feedback/*.xlsx
+nine_box:
+  - Input_9Box/*.xlsx
+  - Input_9Box/*.pptx
+strategy:
+  - Input_Strategy/*.pdf
+team_info:
+  - Input_TeamInfo/*.pdf
+managers_assessment:
+  - Input_Managers-Assessment/*.xlsx
+team_roles:
+  - Input_TeamRoles/*.pdf
+guidelines:
+  - Input_Guidelines/*.pdf
+cache_dir: .cache
