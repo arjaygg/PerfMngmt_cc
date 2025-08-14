@@ -18,7 +18,7 @@
 - Task completion rate: 100% within deadlines
 - Bug resolution SLA: 100% compliance (1-2 days)
 - Attendance: Perfect record
-- Tenure: ~5.8 months as of June 30, 2025 (hired January 6, 2025)
+- Tenure: ~5.1 months as of June 30, 2025 (hired January 28, 2025)
 
 ### Qualitative Feedback
 - Peer reviews: Generally positive with development areas noted
@@ -259,4 +259,4 @@
 
 *Document Classification: Confidential - Manager Only*
 *Last Updated: August 13, 2025*
-*Next Review: October 1, 2025 (Q3 full evaluation)*
+*Next Review: August/September 2025 (post-cap review planning; Q3 full evaluation remains Oct 1)*

@@ -18,7 +18,7 @@
 
 ### Calibration Rationale
 Jayson's rating of 3.0 is constrained by tenure policy:
-- ~5.8-month tenure as of June 30, 2025 (joined January 6, 2025) keeps maximum rating at 3.0 per <6 months policy
+- ~5.1-month tenure as of June 30, 2025 (joined January 28, 2025) keeps maximum rating at 3.0 per <6 months policy
 - Solid performance within onboarding period expectations
 - Mixed peer feedback indicating development potential
 - Appropriate rating for learning phase
@@ -164,7 +164,7 @@ Jayson shows promise for growth post-probation:
 ## Bias and Consistency Checks
 
 ### Tenure Consideration
-- ~5.8 months tenure as of June 30, 2025: Maximum rating of 3.0 applied
+- ~5.1 months tenure as of June 30, 2025: Maximum rating of 3.0 applied
 - Performance trajectory appears positive
 - No performance concerns identified
 
@@ -218,7 +218,7 @@ Jayson shows promise for growth post-probation:
 
 ## Manager's Assessment Summary
 
-Jayson Reniel Pamintuan demonstrates solid performance appropriate for his ~5.8-month tenure at ABC (as of June 30, 2025). While his self-ratings show ambition and some areas exceed current expectations, the tenure policy appropriately caps his rating at 3.0 to reflect his onboarding status during the review period.
+Jayson Reniel Pamintuan demonstrates solid performance appropriate for his ~5.1-month tenure at ABC (as of June 30, 2025). While his self-ratings show ambition and some areas exceed current expectations, the tenure policy appropriately caps his rating at 3.0 to reflect his onboarding status during the review period.
 
 His proactive approach to seeking work, strong collaboration with API and QA teams, and consistent reliability indicate potential for growth. The enthusiasm to contribute beyond assigned tasks, while maintaining quality and meeting deadlines, suggests he will excel as he gains experience.
 
