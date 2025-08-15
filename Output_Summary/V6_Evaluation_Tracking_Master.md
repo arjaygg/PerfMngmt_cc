@@ -12,7 +12,7 @@
 8. Barro, Prince Joedymar Jud - v6 completed
 9. Bayot, Jude Marco - v6 completed
 10. Belmonte, Ian - v6 completed
-11. Bernardo, Patrick Oniel - v6 completed
+11. Bernardo, Patrick Oniel - v6.1 completed (August 15, 2025)
 12. Biglang-Awa, Erwin - v6 completed (August 12, 2025)
 13. Bisquera, Antonio Florencio - v6 completed (August 12, 2025)
 14. Bodiongan, Janiel Apollo - v6 completed (August 12, 2025)
