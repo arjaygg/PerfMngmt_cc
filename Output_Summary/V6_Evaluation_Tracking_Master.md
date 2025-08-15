@@ -17,7 +17,12 @@
 13. Bisquera, Antonio Florencio - v6 completed (August 12, 2025)
 14. Bodiongan, Janiel Apollo - v6 completed (August 12, 2025)
 15. Bucayan, Ronald - v6 completed (August 12, 2025)
+16. Dimapilis, Ariel - v6.1 completed (August 15, 2025)
+17. Nailat, Christian - v6.1 completed (August 15, 2025)
+18. Santos, Rex Nino - v6.1 completed (August 15, 2025)
+19. Taladiar, Dietrich - v6.1 completed (August 15, 2025)
 
 ### ⏳ PENDING V6 EVALUATIONS (0 employees)
 
+None
 None
