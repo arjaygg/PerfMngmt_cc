@@ -1,4 +1,11 @@
-# Manager Notes v6.1 — Rex Nino Santos (Confidential)
+# Manager Notes v6.1 — Rex Nino Santos (Lead Software Engineer) (Confidential)
+
+## Employee Information
+- **Employee**: Rex Nino Santos (Lead Software Engineer)
+- **Manager**: Arjay Gallentes
+- **Period**: January 1 – June 30, 2025
+- **Version**: v6.1 (Updated)
+- **Date**: August 15, 2025
 
 ## Evidence Summary
 - **Self-evaluation**: 07/16/2025 - Shows strong self-awareness with 3.77 overall rating

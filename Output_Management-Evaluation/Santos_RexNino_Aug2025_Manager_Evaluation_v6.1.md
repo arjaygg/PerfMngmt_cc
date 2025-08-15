@@ -1,7 +1,7 @@
-# Manager Evaluation v6.1 — Rex Nino Santos (Sr. Developer)
+# Manager Evaluation v6.1 — Rex Nino Santos (Lead Software Engineer)
 
 ## Employee Information
-- **Employee**: Rex Nino Santos (Sr. Developer)
+- **Employee**: Rex Nino Santos (Lead Software Engineer)
 - **Manager**: Arjay Gallentes
 - **Period**: January 1 – June 30, 2025
 - **Version**: v6.1 (Calibrated)
@@ -86,12 +86,12 @@ Employee self-rates as "Substantially Exceeds Expectations (SE)" but manager rat
 4. **Mentorship Scale-Up**: Formalize mentoring relationships with 3+ team members, including structured learning plans and progress tracking
 5. **Strategic Initiative Ownership**: Lead at least one strategic initiative (e.g., standards rollout, tool adoption) from conception to implementation
 
-**Role-Specific Requirements (Software Engineer):**
-1. **Code Quality Advocacy**: Establish and maintain team-wide coding standards that exceed ABC Standards, including automated quality gates
-2. **Technical Debt Management**: Proactively identify and propose solutions for technical debt, leading the team in debt reduction initiatives
-3. **Knowledge Sharing Leadership**: Create and maintain comprehensive technical documentation that becomes the team's knowledge base
-4. **Performance Optimization**: Lead initiatives to improve application performance, database efficiency, or deployment processes
-5. **Security Best Practices**: Champion security-first development practices and ensure team compliance with security standards
+**Role-Specific Requirements (Lead Software Engineer):**
+1. **Code Quality Advocacy**: Establish and maintain team-wide coding standards that exceed ABC Standards, including automated quality gates and code review processes
+2. **Technical Debt Management**: Lead team initiatives to identify and resolve technical debt, creating systematic approaches for debt reduction
+3. **Knowledge Sharing Leadership**: Create and maintain comprehensive technical documentation and lead knowledge sharing sessions that become team standards
+4. **Performance Optimization**: Lead initiatives to improve application performance, database efficiency, and deployment processes across the team
+5. **Security Best Practices**: Champion security-first development practices and ensure team compliance with security standards through training and enforcement
 
 **Concrete Examples of "Substantially Exceeds Expectations":**
 - **Before**: Following ABC Standards and ensuring team compliance
@@ -145,12 +145,12 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Preventive Problem Solving**: Implement systems and processes that prevent problems from occurring in the first place
 5. **Knowledge Transfer**: Document and share problem-solving methodologies that other team members can adopt
 
-**Role-Specific Requirements (Software Engineer):**
-1. **Architectural Problem Solving**: Identify and resolve complex technical architecture issues that impact system performance or scalability
-2. **Performance Optimization**: Lead initiatives to solve performance bottlenecks and implement monitoring solutions
-3. **Security Problem Resolution**: Proactively identify security vulnerabilities and implement comprehensive solutions
-4. **Integration Challenges**: Solve complex integration problems between different systems or third-party services
-5. **Technical Debt Solutions**: Develop systematic approaches to reduce technical debt and improve code quality
+**Role-Specific Requirements (Lead Software Engineer):**
+1. **Architectural Problem Solving**: Lead team efforts to identify and resolve complex technical architecture issues that impact system performance or scalability
+2. **Performance Optimization**: Lead initiatives to solve performance bottlenecks and implement monitoring solutions across multiple systems
+3. **Security Problem Resolution**: Lead team efforts to proactively identify security vulnerabilities and implement comprehensive solutions
+4. **Integration Challenges**: Lead complex integration problem-solving between different systems or third-party services
+5. **Technical Debt Solutions**: Lead team initiatives to develop systematic approaches to reduce technical debt and improve code quality
 
 **Concrete Examples of "Exceeds Expectations":**
 - **Before**: Addressing systemic issues and improving team practices
@@ -204,12 +204,12 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Quality at Speed**: Maintain high code quality while increasing delivery velocity
 5. **Knowledge Sharing**: Create and maintain productivity tools and templates for team adoption
 
-**Role-Specific Requirements (Software Engineer):**
-1. **Code Generation Tools**: Develop or implement tools that accelerate development (e.g., code generators, scaffolding tools)
-2. **Testing Automation**: Lead initiatives to automate testing processes and reduce manual testing time
-3. **Deployment Optimization**: Streamline deployment processes to reduce time-to-production
-4. **Performance Monitoring**: Implement automated performance monitoring that prevents productivity bottlenecks
-5. **Technical Documentation**: Create comprehensive documentation that reduces onboarding time for new team members
+**Role-Specific Requirements (Lead Software Engineer):**
+1. **Code Generation Tools**: Lead team initiatives to develop or implement tools that accelerate development (e.g., code generators, scaffolding tools)
+2. **Testing Automation**: Lead team efforts to automate testing processes and reduce manual testing time across multiple projects
+3. **Deployment Optimization**: Lead initiatives to streamline deployment processes and reduce time-to-production for the entire team
+4. **Performance Monitoring**: Lead implementation of automated performance monitoring that prevents productivity bottlenecks across systems
+5. **Technical Documentation**: Lead creation of comprehensive documentation that reduces onboarding time and improves team productivity
 
 **Concrete Examples of "Exceeds Expectations":**
 - **Before**: Leveraging automation and standards to increase velocity
@@ -269,12 +269,12 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Decision-Making Framework**: Develop and implement decision-making frameworks that other team members can adopt
 5. **Team Performance Optimization**: Lead initiatives that result in measurable improvements in team performance metrics
 
-**Role-Specific Requirements (Software Engineer):**
-1. **Technical Leadership**: Lead technical architecture decisions and guide team on best practices
-2. **Code Review Leadership**: Establish and maintain team-wide code review standards and processes
-3. **Knowledge Sharing Leadership**: Create comprehensive technical documentation and lead knowledge sharing sessions
-4. **Process Improvement**: Identify and implement improvements to development processes that benefit the entire team
-5. **Team Collaboration**: Facilitate effective collaboration between team members and external stakeholders
+**Role-Specific Requirements (Lead Software Engineer):**
+1. **Technical Leadership**: Lead technical architecture decisions and guide team on best practices, establishing technical direction
+2. **Code Review Leadership**: Establish and maintain team-wide code review standards and processes, mentoring team members on review techniques
+3. **Knowledge Sharing Leadership**: Lead comprehensive technical documentation creation and facilitate knowledge sharing sessions across the team
+4. **Process Improvement**: Lead identification and implementation of improvements to development processes that benefit the entire team
+5. **Team Collaboration**: Lead facilitation of effective collaboration between team members and external stakeholders
 
 **Concrete Examples of "Exceeds Expectations":**
 - **Before**: Mentoring and guiding peers informally
