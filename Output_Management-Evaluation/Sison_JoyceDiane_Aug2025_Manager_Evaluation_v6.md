@@ -13,6 +13,14 @@
 ### Calibration Rationale
 Employee joined March 6, 2025 with less than 6 months tenure (3.8 months) at review period end. Per organizational guidelines, maximum rating is capped at 3.0 (Meets Expectations) for employees with less than 6 months tenure to allow appropriate onboarding and learning period.
 
+## Summary of Ratings
+
+| Category | Employee Self-Rating | Manager Final Rating | Calibrated Rating | Calibration Date |
+|---|---|---|---|---|
+| **Overall Performance** | 4.0 (Exceeds Expectations) | 3.0 (Meets Expectations) | **3.0 (Meets Expectations)** | July 31, 2025 |
+| **Goals Achievement** | 4.0 (EE) | 3.0 (M) | **3.0 (M)** | July 31, 2025 |
+| **Competencies** | 4.0 (EE) | 3.0 (M) | **3.0 (M)** | July 31, 2025 |
+
 ## Goals
 
 ### Goal 1: Accelerating Banking & Financial Services Mastery & AI Innovation
@@ -133,6 +141,17 @@ Good workload management and knowledge sharing practices for early tenure employ
 
 **Manager Comments:**
 Emerging leadership qualities evident through willingness to step up when needed. The initiative in technical sharing and team support shows leadership potential. Continuing to seek informal leadership opportunities will prepare for future formal roles.
+
+## Bias and Consistency Checks
+
+### Tenure Consistency
+✓ Rating capped at 3.0 per <6-month policy (hire date March 6 2025; 3.8-month tenure at 2025-06-30).
+
+### Role-Level Alignment
+✓ Rating aligns with other new Software Engineers onboarding in Q1 2025.
+
+### Distribution Compliance
+✓ Placement in middle 70 % cohort maintains 10/70/20 targets.
 
 ## Development & Career Growth
 
