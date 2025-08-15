@@ -14,6 +14,19 @@ This update summarizes v6 evaluation progress, calibrated outcomes, and trends a
 - 9-Box positioning validated; tenure and role parity checks performed.
 - Bias reviews conducted (recency/halo/similarity) using multi-source evidence (self, peer/stakeholder, strategy, role).
 
+### Critical Rule Compliance Status
+- **Total Evaluations**: 25 completed
+- **Critical Rule Applied**: 1 (Rex Santos - Dependability competency)
+- **Compliance Rate**: 100% (all rating discrepancies properly addressed)
+- **Next Review**: Rex Santos - September 15, 2025 (30-day check-in on improvement plan)
+
+**Critical Rule Details (Rex Santos)**:
+- **Competency**: Dependability
+- **Employee Self-Rating**: Substantially Exceeds Expectations (SE = 5.0)
+- **Manager Rating**: Exceeds (4.1)
+- **Action Taken**: Comprehensive development plan with measurable milestones, 90-day timeline, weekly check-ins
+- **Risk Level**: Medium - Requires active monitoring and support
+
 ### Performance Distribution (25 completed)
 - Top Performers (5.0): 2 (8.0%)
 - High Performers (4.0–4.9): 13 (52.0%)

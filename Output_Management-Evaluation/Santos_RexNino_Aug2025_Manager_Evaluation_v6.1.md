@@ -71,10 +71,63 @@ Rex Santos demonstrates exceptional leadership impact across team collaboration,
 ## Competencies Evaluation
 
 ### Dependability
-- **Self**: Substantially Exceeds (SE)
+- **Self**: Substantially Exceeds Expectations (SE)
 - **Manager**: Exceeds (4.1)
 - **Evidence**: Accountable for team outcomes, reliable standards compliance, consistent follow-through
 - **Manager Comments**: Demonstrates strong lead behaviors with consistent accountability. Maintains high reliability in technical standards enforcement.
+
+**CRITICAL RULE COMPLIANCE - Rating Discrepancy Identified:**
+Employee self-rates as "Substantially Exceeds Expectations (SE)" but manager rates as "Exceeds (4.1)". To achieve the higher "Substantially Exceeds Expectations" rating, the following specific actions and behaviors are required:
+
+**Specific Actions/Behaviors Needed:**
+1. **Proactive Risk Mitigation**: Anticipate and address potential blockers before they impact team delivery, demonstrating foresight beyond immediate tasks
+2. **Cross-Team Dependencies Management**: Take ownership of external dependencies and proactively coordinate with other teams to prevent delays
+3. **Process Innovation Leadership**: Identify and implement improvements to ABC Standards that benefit the entire organization, not just immediate team
+4. **Mentorship Scale-Up**: Formalize mentoring relationships with 3+ team members, including structured learning plans and progress tracking
+5. **Strategic Initiative Ownership**: Lead at least one strategic initiative (e.g., standards rollout, tool adoption) from conception to implementation
+
+**Role-Specific Requirements (Software Engineer):**
+1. **Code Quality Advocacy**: Establish and maintain team-wide coding standards that exceed ABC Standards, including automated quality gates
+2. **Technical Debt Management**: Proactively identify and propose solutions for technical debt, leading the team in debt reduction initiatives
+3. **Knowledge Sharing Leadership**: Create and maintain comprehensive technical documentation that becomes the team's knowledge base
+4. **Performance Optimization**: Lead initiatives to improve application performance, database efficiency, or deployment processes
+5. **Security Best Practices**: Champion security-first development practices and ensure team compliance with security standards
+
+**Concrete Examples of "Substantially Exceeds Expectations":**
+- **Before**: Following ABC Standards and ensuring team compliance
+- **Substantially Exceeds**: Creating enhanced standards that become the new ABC benchmark, training other teams on implementation
+- **Before**: Working independently and under pressure
+- **Substantially Exceeds**: Proactively identifying pressure points and implementing solutions that prevent future pressure situations
+- **Before**: Taking accountability for team actions
+- **Substantially Exceeds**: Creating accountability frameworks that other teams adopt, leading to measurable improvements in delivery reliability
+
+**Measurable Milestones and Success Criteria:**
+1. **Month 1**: Implement automated quality gates that reduce bug reports by 25%
+2. **Month 2**: Create and deliver technical standards training to 2+ other teams
+3. **Month 3**: Lead one strategic initiative with measurable outcomes (e.g., 30% reduction in deployment time)
+4. **Month 4**: Establish formal mentoring relationships with 3 team members, with documented progress
+5. **Month 5**: Propose and implement one process improvement that becomes organizational standard
+
+**Timeline Expectations:**
+- **Immediate (Next 2 weeks)**: Identify and document 3 specific areas for process improvement
+- **Short-term (Next 30 days)**: Begin implementation of at least one improvement initiative
+- **Medium-term (Next 60 days)**: Demonstrate measurable impact from implemented improvements
+- **Long-term (Next 90 days)**: Achieve "Substantially Exceeds Expectations" level across all criteria
+
+**Resources and Support Available:**
+1. **Technical Resources**: Access to advanced development tools, performance monitoring platforms, and security scanning tools
+2. **Training Support**: Leadership development programs, technical certification courses, and process improvement workshops
+3. **Mentorship**: Senior technical leaders available for guidance on strategic thinking and organizational impact
+4. **Time Allocation**: 20% of work time dedicated to strategic initiatives and process improvements
+5. **Cross-Team Collaboration**: Opportunities to work with other teams to implement organization-wide improvements
+
+**Regular Check-in Schedule:**
+- **Weekly**: 1:1 meetings to review progress on improvement initiatives
+- **Bi-weekly**: Progress review on measurable milestones and success criteria
+- **Monthly**: Formal assessment of advancement toward "Substantially Exceeds Expectations" rating
+- **Quarterly**: Comprehensive review of strategic impact and organizational contribution
+
+**Next Review Date**: September 15, 2025 (30-day check-in on improvement progress)
 
 ### Problem Solving/Analysis
 - **Self**: Exceeds (EE)
