@@ -16,37 +16,55 @@
 ## Key Observations
 
 ### Strengths
-- **Technical Excellence**: Strong problem-solving skills and technical leadership
-- **Team Collaboration**: Effective mentoring and knowledge sharing with team members
-- **Project Delivery**: Consistent delivery of high-quality solutions on time and within scope
+- **Technical Excellence**: Strong problem-solving skills and technical leadership in TDD, testing, and logging standards
+- **Team Collaboration**: Effective mentoring and knowledge sharing with team members through 1:1 coaching
+- **Stakeholder Engagement**: Created comprehensive reporting tools (sprint reports, Power BI metrics, ADO dashboard)
 - **Quality Focus**: Implements best practices and coding standards across development teams
 
 ### Development Areas
-- **Strategic Leadership**: Opportunity to enhance strategic thinking and business acumen
-- **Team Management**: Could strengthen leadership presence and team development capabilities
+- **Strategic Leadership**: Opportunity to enhance strategic thinking and business acumen for broader organizational impact
+- **Team Management**: Could strengthen leadership presence and team development capabilities across multiple teams
 - **Stakeholder Communication**: External stakeholders note gaps in status reporting and updates
-- **Cross-Functional Collaboration**: Room for improvement in broader organizational impact
+- **Cross-Functional Collaboration**: Room for improvement in broader organizational impact beyond immediate team
 
 ## Rating Justification
 - **Overall Rating**: 4.0 (Exceeds Expectations)
-- **Rationale**: Strong technical performance with demonstrated leadership potential
+- **Rationale**: Strong technical performance with demonstrated leadership potential in team enablement
 - **Calibration**: Rating aligns with organizational standards and peer group expectations
 - **Distribution**: Fits within forced distribution requirements for high performers
 
+## Goals Assessment Summary
+- **Achieve Engineering Excellence**: Exceeds Expectations - Strong TDD advocacy and quality standards
+- **Empowered & Accountable Teams**: Exceeds Expectations - Effective team coaching and stakeholder alignment
+- **Stakeholder Engagement & Visibility**: Exceeds Expectations - Comprehensive reporting and metrics creation
+
+## Competencies Assessment Summary
+- **Dependability**: Exceeds Expectations - Strong accountability and standards compliance
+- **Problem Solving/Analysis**: Exceeds Expectations - Effective issue resolution and team performance improvement
+- **Productivity**: Meets Expectations - Good workload management with room for efficiency improvements
+- **Results Focus**: Meets Expectations - Goal alignment with opportunity for strategic impact growth
+- **Team Leadership**: Meets Expectations - Natural leadership qualities with mentoring impact
+
 ## Development Focus
-- **Immediate**: Enhance stakeholder communication and status reporting
-- **Short-term**: Develop team leadership skills and strategic thinking
-- **Medium-term**: Drive cross-functional collaboration and organizational impact
+- **Immediate**: Enhance stakeholder communication and status reporting consistency
+- **Short-term**: Develop team leadership skills and strategic thinking for broader organizational impact
+- **Medium-term**: Drive cross-functional collaboration and scale influence across multiple teams
 
 ## Risk Assessment
 - **Risk Level**: Low to Medium
 - **Mitigation**: Active monitoring of development areas with regular check-ins
-- **Success Criteria**: Improved stakeholder communication and enhanced leadership presence
+- **Success Criteria**: Improved stakeholder communication and enhanced leadership presence across teams
 
 ## Next Steps
 - **30-Day Review**: September 15, 2025 - Progress assessment on development areas
-- **Ongoing Support**: Weekly 1:1 meetings focused on leadership development
-- **Success Metrics**: Measurable improvements in stakeholder satisfaction and team leadership
+- **Ongoing Support**: Weekly 1:1 meetings focused on leadership development and strategic thinking
+- **Success Metrics**: Measurable improvements in stakeholder satisfaction and team leadership scaling
+
+## Role-Specific Considerations (AVP, Software Development Manager)
+- **Technical Leadership**: Continue driving engineering excellence while expanding strategic influence
+- **Team Scaling**: Focus on formalizing mentoring programs and succession planning frameworks
+- **Organizational Impact**: Develop metrics that demonstrate impact beyond immediate team success
+- **Strategic Initiatives**: Contribute to broader organizational strategy and cross-functional collaboration
 
 ---
 *These notes are confidential and intended for management use only.*
