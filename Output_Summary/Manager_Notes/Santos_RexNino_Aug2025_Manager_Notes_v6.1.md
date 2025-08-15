@@ -20,6 +20,14 @@
 - **Next Review**: September 15, 2025 (30-day check-in)
 - **Risk Level**: Medium - Requires active monitoring and support
 
+**Problem Solving/Analysis Competency**: Employee self-rating "EE" (4.0) vs. Manager rating "ME" (3.0)
+- **Status**: Critical Rule Applied ✅
+- **Action Required**: Comprehensive development plan implemented with specific milestones
+- **Next Review**: September 15, 2025 (30-day check-in)
+- **Risk Level**: Medium - Requires active monitoring and support
+
+**Total Critical Rule Applications**: 2 competencies requiring development plans
+
 ## Critical Actions (Next 60 days)
 
 ### 1. Communication Standardization

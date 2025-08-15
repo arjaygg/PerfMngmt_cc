@@ -130,10 +130,63 @@ Employee self-rates as "Substantially Exceeds Expectations (SE)" but manager rat
 **Next Review Date**: September 15, 2025 (30-day check-in on improvement progress)
 
 ### Problem Solving/Analysis
-- **Self**: Exceeds (EE)
-- **Manager**: Exceeds (4.0)
+- **Self**: Exceeds Expectations (EE)
+- **Manager**: Meets (ME)
 - **Evidence**: Addresses systemic issues, improves team practices, logical solution development
 - **Manager Comments**: Strong analytical approach to team challenges and process improvements.
+
+**CRITICAL RULE COMPLIANCE - Rating Discrepancy Identified:**
+Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (ME)". To achieve the higher "Exceeds Expectations" rating, the following specific actions and behaviors are required:
+
+**Specific Actions/Behaviors Needed:**
+1. **Strategic Problem Identification**: Proactively identify root causes of recurring issues before they impact multiple teams or projects
+2. **Innovation in Solution Design**: Develop creative, out-of-the-box solutions that go beyond standard problem-solving approaches
+3. **Cross-Functional Impact**: Solve problems that benefit multiple teams or departments, not just immediate team needs
+4. **Preventive Problem Solving**: Implement systems and processes that prevent problems from occurring in the first place
+5. **Knowledge Transfer**: Document and share problem-solving methodologies that other team members can adopt
+
+**Role-Specific Requirements (Software Engineer):**
+1. **Architectural Problem Solving**: Identify and resolve complex technical architecture issues that impact system performance or scalability
+2. **Performance Optimization**: Lead initiatives to solve performance bottlenecks and implement monitoring solutions
+3. **Security Problem Resolution**: Proactively identify security vulnerabilities and implement comprehensive solutions
+4. **Integration Challenges**: Solve complex integration problems between different systems or third-party services
+5. **Technical Debt Solutions**: Develop systematic approaches to reduce technical debt and improve code quality
+
+**Concrete Examples of "Exceeds Expectations":**
+- **Before**: Addressing systemic issues and improving team practices
+- **Exceeds Expectations**: Creating systematic frameworks that prevent systemic issues from recurring across multiple teams
+- **Before**: Logical solution development
+- **Exceeds Expectations**: Innovative solution design that becomes the standard approach for similar problems
+- **Before**: Improving team practices
+- **Exceeds Expectations**: Developing best practices that are adopted organization-wide
+
+**Measurable Milestones and Success Criteria:**
+1. **Month 1**: Document and implement 3 preventive measures for common team issues
+2. **Month 2**: Lead one cross-functional problem-solving initiative with measurable outcomes
+3. **Month 3**: Create and deliver problem-solving methodology training to team members
+4. **Month 4**: Implement one innovative solution that becomes the standard approach
+5. **Month 5**: Achieve measurable improvement in team efficiency through problem prevention
+
+**Timeline Expectations:**
+- **Immediate (Next 2 weeks)**: Identify and document 3 recurring problems and their root causes
+- **Short-term (Next 30 days)**: Begin implementation of preventive measures and innovative solutions
+- **Medium-term (Next 60 days)**: Demonstrate measurable impact from implemented solutions
+- **Long-term (Next 90 days)**: Achieve "Exceeds Expectations" level across all problem-solving criteria
+
+**Resources and Support Available:**
+1. **Technical Resources**: Access to advanced debugging tools, performance monitoring platforms, and system analysis tools
+2. **Training Support**: Problem-solving methodologies, innovation workshops, and technical training programs
+3. **Mentorship**: Senior technical leaders available for guidance on complex problem-solving approaches
+4. **Time Allocation**: 25% of work time dedicated to strategic problem-solving and innovation initiatives
+5. **Cross-Team Collaboration**: Opportunities to work with other teams to solve organization-wide problems
+
+**Regular Check-in Schedule:**
+- **Weekly**: 1:1 meetings to review progress on problem-solving initiatives
+- **Bi-weekly**: Progress review on measurable milestones and success criteria
+- **Monthly**: Formal assessment of advancement toward "Exceeds Expectations" rating
+- **Quarterly**: Comprehensive review of problem-solving impact and organizational contribution
+
+**Next Review Date**: September 15, 2025 (30-day check-in on improvement progress)
 
 ### Productivity
 - **Self**: Exceeds (EE)
