@@ -1,10 +1,10 @@
-# Manager Notes v6.1 — Rex Nino Santos (Lead Software Engineer) (Confidential)
+# Manager Notes v6.1 — Rex Nino Santos (AVP, Software Development Manager) (Confidential)
 
 ## Employee Information
-- **Employee**: Rex Nino Santos (Lead Software Engineer)
+- **Employee**: Rex Nino Santos (AVP, Software Development Manager)
 - **Manager**: Arjay Gallentes
 - **Period**: January 1 – June 30, 2025
-- **Version**: v6.1 (Updated)
+- **Version**: v6.1 (Updated - August 2025)
 - **Date**: August 15, 2025
 
 ## Evidence Summary

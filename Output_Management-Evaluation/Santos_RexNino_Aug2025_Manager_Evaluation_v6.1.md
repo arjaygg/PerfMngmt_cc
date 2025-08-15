@@ -1,10 +1,10 @@
-# Manager Evaluation v6.1 — Rex Nino Santos (Lead Software Engineer)
+# Manager Evaluation v6.1 — Rex Nino Santos (AVP, Software Development Manager)
 
 ## Employee Information
-- **Employee**: Rex Nino Santos (Lead Software Engineer)
+- **Employee**: Rex Nino Santos (AVP, Software Development Manager)
 - **Manager**: Arjay Gallentes
 - **Period**: January 1 – June 30, 2025
-- **Version**: v6.1 (Calibrated)
+- **Version**: v6.1 (Calibrated & Updated - August 2025)
 - **Date**: August 15, 2025
 - **Confidence**: High
 
@@ -16,11 +16,11 @@
 - **9-Box Position**: Performance 4.0, Potential 3.0 → Box 8 (High Performance, High Potential)
 
 ## Calibration Reconciliation
-Rex Santos demonstrates exceptional leadership impact across team collaboration, technical standards enforcement, and stakeholder engagement. While external stakeholder feedback indicates communication cadence gaps, peer feedback overwhelmingly validates his technical leadership and mentoring capabilities. The 4.0 rating aligns with forced distribution requirements and reflects his substantial contributions to team success and engineering excellence.
+Rex Santos demonstrates exceptional technical leadership and team enablement capabilities, positioning him as a high performer within the forced distribution framework. His 21.6 months tenure exceeds the 12-month threshold, allowing full rating consideration. The 4.0 rating aligns with statistical calibration requirements for high performers while reflecting his substantial contributions to engineering excellence, team development, and strategic project delivery.
 
 **Calibration Source**: Final Statistical Calibration Report July 2025
 **Distribution Rationale**: 4.0 rating fits within forced distribution requirements for high performers (top 10%, middle 70%, bottom 20%)
-**Rating Gap Actions**: No significant gap between self (3.77) and manager (4.0) ratings; minor calibration adjustment maintains consistency with peer group
+**Rating Gap Actions**: Minor calibration adjustment maintains consistency with peer group and organizational standards
 
 ## Peer Feedback and 360 Evidence (Themes + Examples)
 
@@ -86,7 +86,7 @@ Employee self-rates as "Substantially Exceeds Expectations (SE)" but manager rat
 4. **Mentorship Scale-Up**: Formalize mentoring relationships with 3+ team members, including structured learning plans and progress tracking
 5. **Strategic Initiative Ownership**: Lead at least one strategic initiative (e.g., standards rollout, tool adoption) from conception to implementation
 
-**Role-Specific Requirements (Lead Software Engineer):**
+**Role-Specific Requirements (AVP, Software Development Manager):**
 1. **Code Quality Advocacy**: Establish and maintain team-wide coding standards that exceed ABC Standards, including automated quality gates and code review processes
 2. **Technical Debt Management**: Lead team initiatives to identify and resolve technical debt, creating systematic approaches for debt reduction
 3. **Knowledge Sharing Leadership**: Create and maintain comprehensive technical documentation and lead knowledge sharing sessions that become team standards
@@ -145,7 +145,7 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Preventive Problem Solving**: Implement systems and processes that prevent problems from occurring in the first place
 5. **Knowledge Transfer**: Document and share problem-solving methodologies that other team members can adopt
 
-**Role-Specific Requirements (Lead Software Engineer):**
+**Role-Specific Requirements (AVP, Software Development Manager):**
 1. **Architectural Problem Solving**: Lead team efforts to identify and resolve complex technical architecture issues that impact system performance or scalability
 2. **Performance Optimization**: Lead initiatives to solve performance bottlenecks and implement monitoring solutions across multiple systems
 3. **Security Problem Resolution**: Lead team efforts to proactively identify security vulnerabilities and implement comprehensive solutions
@@ -204,7 +204,7 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Quality at Speed**: Maintain high code quality while increasing delivery velocity
 5. **Knowledge Sharing**: Create and maintain productivity tools and templates for team adoption
 
-**Role-Specific Requirements (Lead Software Engineer):**
+**Role-Specific Requirements (AVP, Software Development Manager):**
 1. **Code Generation Tools**: Lead team initiatives to develop or implement tools that accelerate development (e.g., code generators, scaffolding tools)
 2. **Testing Automation**: Lead team efforts to automate testing processes and reduce manual testing time across multiple projects
 3. **Deployment Optimization**: Lead initiatives to streamline deployment processes and reduce time-to-production for the entire team
@@ -269,7 +269,7 @@ Employee self-rates as "Exceeds Expectations (EE)" but manager rates as "Meets (
 4. **Decision-Making Framework**: Develop and implement decision-making frameworks that other team members can adopt
 5. **Team Performance Optimization**: Lead initiatives that result in measurable improvements in team performance metrics
 
-**Role-Specific Requirements (Lead Software Engineer):**
+**Role-Specific Requirements (AVP, Software Development Manager):**
 1. **Technical Leadership**: Lead technical architecture decisions and guide team on best practices, establishing technical direction
 2. **Code Review Leadership**: Establish and maintain team-wide code review standards and processes, mentoring team members on review techniques
 3. **Knowledge Sharing Leadership**: Lead comprehensive technical documentation creation and facilitate knowledge sharing sessions across the team
