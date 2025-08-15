@@ -62,26 +62,31 @@
 - **Self-Rating**: M (Meets)
 - **Manager Rating**: M (Meets)
 - **Evidence**: Manages tasks independently, meets deadlines, stays focused under pressure, adapts well to change, maintains reliable attendance and punctuality
+- **Manager Comments**: Consistently demonstrates reliable performance in core responsibilities. To achieve "Exceeds Expectations" rating, demonstrate exceptional dependability by: 1) Proactively identifying and addressing potential risks before they become issues, 2) Taking ownership of critical team dependencies and ensuring their timely resolution, 3) Establishing backup plans for high-priority deliverables, 4) Mentoring others on time management and reliability best practices. Success criteria: Prevent 2+ potential issues through proactive action, resolve 100% of critical dependencies on time, and receive peer recognition for reliability. Timeline: Next quarter. Resources: Risk management training, dependency tracking tools, and peer feedback mechanisms.
 
 ### Problem Solving
 - **Self-Rating**: M (Meets)
 - **Manager Rating**: M (Meets)
 - **Evidence**: Approaches problems methodically, breaks down complex issues into manageable parts, identifies root causes, seeks team input when appropriate, makes independent decisions to move forward
+- **Manager Comments**: Demonstrates solid problem-solving methodology. To achieve "Exceeds Expectations" rating, demonstrate exceptional problem-solving by: 1) Solving complex technical challenges that have stumped the team for 2+ days, 2) Developing innovative solutions that become team best practices, 3) Proactively identifying systemic issues and proposing comprehensive solutions, 4) Teaching problem-solving techniques to 2+ team members. Success criteria: Resolve 3+ complex technical challenges independently, establish 2+ new best practices, and receive peer feedback on problem-solving mentorship. Timeline: Next quarter. Resources: Access to complex technical challenges, innovation time allocation, and peer mentoring opportunities.
 
 ### Productivity
 - **Self-Rating**: EE (Exceeds)
 - **Manager Rating**: M+ (3.4)
 - **Evidence**: Proactively seeks additional tasks, offers support to team members across departments, volunteers for extra work, maintains high output quality
+- **Manager Comments**: Strong proactive approach to workload management. To achieve "Exceeds Expectations" rating, demonstrate exceptional productivity by: 1) Consistently completing 120%+ of assigned sprint capacity while maintaining quality, 2) Leading knowledge sharing sessions that benefit 5+ team members, 3) Proposing and implementing 2+ process improvements per quarter, 4) Mentoring 1-2 junior developers on productivity best practices. Success criteria: Document 3+ productivity improvements implemented, receive peer feedback on knowledge sharing impact, and demonstrate measurable capacity increase. Timeline: Next quarter. Resources: Access to team productivity metrics, dedicated time for process improvement projects, and mentorship opportunities. Bi-weekly check-ins to review productivity enhancement progress and adjust strategies as needed.
 
 ### Results Focus
 - **Self-Rating**: M (Meets)
 - **Manager Rating**: M (Meets)
 - **Evidence**: Consistently meets deadlines, takes full ownership of work, promptly resolves bugs and issues, holds self-accountable for module problems
+- **Manager Comments**: Consistently delivers on commitments and takes ownership of assigned work. To achieve "Exceeds Expectations" rating, demonstrate exceptional results focus by: 1) Exceeding delivery expectations by 15%+ while maintaining quality standards, 2) Proactively identifying and resolving issues before they impact project timelines, 3) Taking ownership of cross-team deliverables and ensuring their success, 4) Establishing metrics and tracking mechanisms for team performance improvement. Success criteria: Exceed delivery expectations on 3+ key deliverables, prevent 2+ timeline impacts through proactive action, and establish 2+ performance tracking mechanisms. Timeline: Next quarter. Resources: Performance metrics access, cross-team coordination opportunities, and process improvement time allocation.
 
 ### Team Leadership
 - **Self-Rating**: N/A
 - **Manager Rating**: N/A
 - **Evidence**: Not applicable for current role level
+- **Manager Comments**: Not applicable for current role level. Future development focus: Begin developing leadership skills through small team coordination responsibilities and knowledge sharing facilitation.
 
 ## Strategic Alignment
 - **Engineering Excellence Pillar**: Supports through clean code practices and defect reduction

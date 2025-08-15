@@ -128,6 +128,35 @@ Dietrich Taladiar is a solid performer with strong collaborative skills who cons
 - **Timeline**: Next quarter
 - **Resources**: Access to productivity metrics, process improvement time, mentorship opportunities
 
+### Competency Development Roadmaps:
+
+#### Dependability (Target: EE)
+- Proactively identify and address potential risks before they become issues
+- Take ownership of critical team dependencies and ensure timely resolution
+- Establish backup plans for high-priority deliverables
+- Mentor others on time management and reliability best practices
+- **Success Criteria**: Prevent 2+ potential issues through proactive action, resolve 100% of critical dependencies on time, receive peer recognition for reliability
+- **Timeline**: Next quarter
+- **Resources**: Risk management training, dependency tracking tools, peer feedback mechanisms
+
+#### Problem Solving (Target: EE)
+- Solve complex technical challenges that have stumped the team for 2+ days
+- Develop innovative solutions that become team best practices
+- Proactively identify systemic issues and propose comprehensive solutions
+- Teach problem-solving techniques to 2+ team members
+- **Success Criteria**: Resolve 3+ complex technical challenges independently, establish 2+ new best practices, receive peer feedback on problem-solving mentorship
+- **Timeline**: Next quarter
+- **Resources**: Access to complex technical challenges, innovation time allocation, peer mentoring opportunities
+
+#### Results Focus (Target: EE)
+- Exceed delivery expectations by 15%+ while maintaining quality standards
+- Proactively identify and resolve issues before they impact project timelines
+- Take ownership of cross-team deliverables and ensure their success
+- Establish metrics and tracking mechanisms for team performance improvement
+- **Success Criteria**: Exceed delivery expectations on 3+ key deliverables, prevent 2+ timeline impacts through proactive action, establish 2+ performance tracking mechanisms
+- **Timeline**: Next quarter
+- **Resources**: Performance metrics access, cross-team coordination opportunities, process improvement time allocation
+
 ---
 
 *Notes Prepared By: Arjay Gallentes*  
