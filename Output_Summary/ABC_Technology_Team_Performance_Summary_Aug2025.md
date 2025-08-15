@@ -16,7 +16,7 @@ This update summarizes v6 evaluation progress, calibrated outcomes, and trends a
 
 ### Critical Rule Compliance Status
 - **Total Evaluations**: 25 completed
-- **Critical Rule Applied**: 2 competencies (Rex Santos - Dependability & Problem Solving/Analysis)
+- **Critical Rule Applied**: 4 competencies (Rex Santos - Dependability, Problem Solving/Analysis, Productivity & Team Leadership)
 - **Compliance Rate**: 100% (all rating discrepancies properly addressed)
 - **Next Review**: Rex Santos - September 15, 2025 (30-day check-in on improvement plans)
 
@@ -29,7 +29,15 @@ This update summarizes v6 evaluation progress, calibrated outcomes, and trends a
   - **Employee Self-Rating**: Exceeds Expectations (EE = 4.0)
   - **Manager Rating**: Meets (ME = 3.0)
   - **Action Taken**: Comprehensive development plan with measurable milestones, 90-day timeline, weekly check-ins
-- **Risk Level**: Medium - Requires active monitoring and support for both competencies
+- **Competency 3**: Productivity
+  - **Employee Self-Rating**: Exceeds Expectations (EE = 4.0)
+  - **Manager Rating**: Meets (ME = 3.0)
+  - **Action Taken**: Comprehensive development plan with measurable milestones, 90-day timeline, weekly check-ins
+- **Competency 4**: Team Leadership
+  - **Employee Self-Rating**: Exceeds Expectations (EE = 4.0)
+  - **Manager Rating**: Meets (ME = 3.0)
+  - **Action Taken**: Comprehensive development plan with measurable milestones, 90-day timeline, weekly check-ins
+- **Risk Level**: Medium - Requires active monitoring and support for all four competencies
 
 ### Performance Distribution (25 completed)
 - Top Performers (5.0): 2 (8.0%)
