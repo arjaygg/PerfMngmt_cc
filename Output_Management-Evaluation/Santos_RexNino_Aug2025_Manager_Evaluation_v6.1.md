@@ -52,30 +52,43 @@ Rex Santos demonstrates strong technical leadership and team enablement capabili
 ## Goals Assessment
 
 ### Achieve Engineering Excellence
+**Goal Description**: Achieve engineering excellence through faster, high-quality feature delivery, minimizing defects, reducing rework, and strengthening AI/automation-driven development.
+
+**Sample Key Results**:
+- Faster Development: By June 30, reduce lead time for changes by 20%
+- Defect Prevention: By June 30, reduce defect-related rework by 20% by improving early defect detection
+- Failure Reduction: By June 30, reduce change failure by 10%
+
 - **Self-Rating:** Meets Expectations (M)
 - **Manager Rating:** Exceeds Expectations (EE)
 - **Achievement Evidence:**
-  - Required team practice of TDD and unit/integration testing
+  - Required the team to practice TDD and write unit and integration testing
   - Implemented logging for more accurate debugging
-  - Elevated quality culture and standards enforcement
 - **Manager Comments:** Strong technical leadership demonstrated through quality advocacy and standards implementation. As AVP, Software Development Manager, continue driving engineering excellence while expanding strategic influence across teams. Next: Codify test gates and logging standards in shared templates for organization-wide adoption.
 
 ### Empowered & Accountable Teams
+**Goal Description**: Build a culture of engagement, accountability, and collaboration, where every team member actively contributes to the success of ABC Strategy.
+
+**Sample Key Results**:
+- By June 30, ensure that at least 50% of team members drives or take ownership of a specific task or deliverable in an ABC Strategic Initiative
+
 - **Self-Rating:** Exceeds Expectations (EE)
 - **Manager Rating:** Exceeds Expectations (EE)
 - **Achievement Evidence:**
-  - Cascaded expectations for US stakeholder engagement
-  - Consistent 1:1 coaching and team communication
-  - Aligned team on code quality and knowledge sharing importance
+  - Cascading to the team the importance of engagement with US Stakeholders
+  - Constant team communication by doing 1 on 1
+  - Aligning to the team the importance of Code Quality and Knowledge Sharing
 - **Manager Comments:** Effective influence without formal authority, creating positive team ownership culture. As AVP, Software Development Manager, focus on scaling this impact across multiple teams and establishing formal mentoring frameworks. Next: Distribute facilitation responsibilities to emerging contributors to scale impact.
 
 ### Stakeholder Engagement & Visibility
+**Goal Description**: Improve transparency and engagement with Axos leadership.
+
 - **Self-Rating:** Exceeds Expectations (EE)
 - **Manager Rating:** Exceeds Expectations (EE)
 - **Achievement Evidence:**
-  - Generated monthly sprint reports
-  - Created Power BI for team metrics
-  - Created ADO team dashboard
+  - Generate Sprint report per month
+  - Created Power BI for more Team Metrics
+  - Created ADO Team Dashboard
 - **Manager Comments:** Strong enablement of stakeholder decisions through comprehensive reporting. As AVP, Software Development Manager, continue building stakeholder relationships while expanding visibility across the broader organization. Next: Add outcome KPIs (lead time, rework) to dashboards for enhanced impact measurement.
 
 ---
@@ -83,48 +96,55 @@ Rex Santos demonstrates strong technical leadership and team enablement capabili
 ## Competencies Evaluation
 
 ### Dependability
+**Competency Description**: Consistently demonstrates the Five Pillars of Character: trustworthiness, respect, responsibility, fairness, and caring. Meets commitments, works independently, accepts accountability, handles change, sets personal standards, stays focused under pressure, and meets attendance/punctuality requirements. Genuinely emotionally invested in work and creates an uplifting environment for self and others.
+
 - **Self-Rating:** Substantially Exceeds Expectations (SE)
 - **Manager Rating:** Exceeds Expectations (EE)
 - **Achievement Evidence:**
-  - Accountable for team outcomes and reliable standards compliance
-  - Consistent follow-through on commitments and deadlines
-  - Maintains high quality standards under pressure
+  - Always taking the accountability of team actions
+  - Can work independently and can work under pressure
+  - Making sure to comply on the ABC Standard
 - **Manager Comments:** Demonstrates strong lead behaviors with consistent accountability. As AVP, Software Development Manager, maintain high reliability while scaling influence across multiple teams. Continue building trust through predictable delivery and strategic initiative ownership.
 
 ### Problem Solving / Analysis
+**Competency Description**: Makes decisions based on facts. Breaks down problems into smaller components, understands underlying issues, can simplify and process complex issues, and understands the difference between critical details and unimportant facts. Utilizes and builds upon the strengths of team members to optimize problem solving.
+
 - **Self-Rating:** Exceeds Expectations (EE)
 - **Manager Rating:** Exceeds Expectations (EE)
 - **Achievement Evidence:**
-  - Effectively solved problems given by manager and product team
-  - Resolved team engagement and stakeholder collaboration issues
-  - Addressed low team performance through systematic improvements
+  - Always make sure to solve the problem given by manager and by the product
+  - Solved the problem in team engagement and stakeholder collaboration
+  - Solved the problem on low performance of the team
 - **Manager Comments:** Strong analytical approach to team challenges and process improvements. As AVP, Software Development Manager, continue developing strategic problem-solving capabilities that benefit the broader organization. Focus on creating systematic frameworks that prevent recurring issues.
 
 ### Productivity
+**Competency Description**: Manages a fair workload, volunteers for additional work, prioritizes tasks, develops clear and comprehensive work procedures, manages time well, and promotes the sharing of knowledge. Seeks new experiences that expand knowledge in one or more areas of work.
+
 - **Self-Rating:** Exceeds Expectations (EE)
 - **Manager Rating:** Meets Expectations (M)
 - **Achievement Evidence:**
-  - Managed workload effectively across multiple projects
-  - Maintained consistent output quality and quantity
-  - Balanced technical work with team collaboration responsibilities
+  - Making sure to manage workload effectively
+  - Promotes knowledge sharing and team collaboration
 - **Manager Comments:** Good productivity with opportunity for efficiency improvements. As AVP, Software Development Manager, focus on optimizing workflows and leveraging team capabilities to scale impact. Consider implementing productivity tools and processes that benefit the entire organization.
 
 ### Results Focus
+**Competency Description**: Delivers comprehensive work on-time, intelligently, and efficiently directs efforts. Takes responsibility for own actions and individual success or failure.
+
 - **Self-Rating:** Meets Expectations (M)
 - **Manager Rating:** Meets Expectations (M)
 - **Achievement Evidence:**
-  - Aligned with company goals and objectives
-  - Takes responsibility for own actions and team actions
-  - Maintains focus on key deliverables and outcomes
+  - Aligned with the company goals and what it wants to achieve
+  - Taking the responsibility of own action and team action
 - **Manager Comments:** Good results delivery with room for strategic impact growth. As AVP, Software Development Manager, focus on driving broader organizational outcomes and contributing to strategic initiatives. Develop metrics that demonstrate organizational impact beyond immediate team success.
 
 ### Team Leadership
+**Competency Description**: Knowledge of leadership practices and processes; ability to use strategies and skills to enlist others in setting, embracing and achieving objectives while having a long-term perspective of the future state of things and how to get there.
+
 - **Self-Rating:** Exceeds Expectations (EE)
 - **Manager Rating:** Meets Expectations (M)
 - **Achievement Evidence:**
-  - Learned leadership practices from manager
-  - Applied decision-making frameworks effectively
-  - Mentored and guided team members
+  - Learned a lot from manager in terms of leadership and decision making
+  - Applied leadership practices and processes effectively
 - **Manager Comments:** Natural leadership qualities with strong mentoring impact and team enablement. As AVP, Software Development Manager, focus on formalizing leadership development programs and scaling influence across multiple teams. Establish structured mentoring relationships and succession planning frameworks.
 
 ---
