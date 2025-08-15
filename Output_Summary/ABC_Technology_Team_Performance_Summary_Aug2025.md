@@ -5,8 +5,8 @@ This update summarizes v6 evaluation progress, calibrated outcomes, and trends a
 
 ### Completion Status
 - Total employees: 39
-- v6 Completed: 26 (prior: 25; +1 completed in this batch - Rex Santos v6.2)
-- Pending: 13
+- v6 Completed: 27 (prior: 26; +1 completed in this batch - Rae Jordan Alix v6.2)
+- Pending: 12
 
 ### Calibration Compliance
 - Forced distribution applied at team cohort level (10/70/20 guidance). Current completed subset is trending middle-heavy; remaining pipeline will be governed to meet distribution.
@@ -39,14 +39,15 @@ This update summarizes v6 evaluation progress, calibrated outcomes, and trends a
   - **Action Taken**: Comprehensive development plan with measurable milestones, 90-day timeline, weekly check-ins
 - **Risk Level**: Medium - Requires active monitoring and support for all four competencies
 
-### Performance Distribution (26 completed)
-- Top Performers (5.0): 2 (7.7%)
-- High Performers (4.0–4.9): 14 (53.8%)
-- Solid Contributors (3.0–3.9): 10 (38.5%)
+### Performance Distribution (27 completed)
+- Top Performers (5.0): 2 (7.4%)
+- High Performers (4.0–4.9): 14 (51.9%)
+- Solid Contributors (3.0–3.9): 11 (40.7%)
 
-Note: Distribution will rebalance upon completion of remaining 13 to align with 10/70/20 at org level.
+Note: Distribution will rebalance upon completion of remaining 12 to align with 10/70/20 at org level.
 
 ### Highlights from Newly Completed Evaluations (sample)
+- **Raynan Asuncion (v6.2)**: Updated evaluation reflects Box 6 positioning (High Performance, Medium Potential) with focus on technical depth enhancement, leadership initiative development, and proactive problem-solving. Role alignment with Software Engineer expectations fully considered, including development plan for advanced OutSystems certification and mentoring activities.
 - **Rex Santos (v6.2)**: Updated evaluation reflects Box 8 positioning (High Performance, High Potential) with focus on communication cadence improvements, mentoring scale-up, and strategic leadership development. Role alignment with AVP, Software Development Manager expectations fully considered.
 - Architectural/AI Acceleration: Data modeling and transformation standardized via AI templates and peer-review gates; measurable cycle-time reductions.
 - Quality/DevEx Enablement: Expanded unit/integration testing, logging standards, and DevOps playbooks; visibility through dashboards and Confluence playbooks improved onboarding/ramp.
@@ -66,7 +67,7 @@ Note: Distribution will rebalance upon completion of remaining 13 to align with 
 - Predominant clusters: Box 5–8 (solid to high performers). Box 8/9 candidates flagged for scope expansion and succession planning; Box 3–4 stabilized via communication/quality actions.
 
 ### Near-Term Actions
-- Complete remaining 13 v6 evaluations with calibration controls.
+- Complete remaining 12 v6 evaluations with calibration controls.
 - Publish org-wide PR template addendum (risk/edge-cases; test/coverage snapshot).
 - Formalize AI template packs and DevOps playbooks; measure adoption.
 
