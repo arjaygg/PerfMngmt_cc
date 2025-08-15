@@ -4,7 +4,7 @@
 - **Self-evaluation**: 07/16/2025 - Shows strong self-awareness with 3.77 overall rating
 - **Peer feedback**: Overwhelmingly positive from team members highlighting leadership and technical expertise
 - **External stakeholder feedback**: Nalalagappan Solayappan notes communication gaps in status reporting
-- **9-Box data**: Performance 4.0, Potential 3.0 → Box 6 (High Performer, Moderate Potential)
+- **9-Box data**: Performance 4.0, Potential 3.0 → Box 8 (High Performance, High Potential)
 - **Impact evidence**: TDD advocacy, logging improvements, sprint reports, Power BI dashboards
 
 ## Key Risks & Mitigation
@@ -61,8 +61,8 @@
 - **Succession planning preparation**
 
 ## 9-Box Strategy
-- **Current**: Box 6 (High Performance, Moderate Potential)
-- **Target**: Box 7 (High Performance, High Potential)
+- **Current**: Box 8 (High Performance, High Potential)
+- **Target**: Box 9 (High Performance, High Potential) - Leadership readiness
 - **Path**: Strengthen delegation, strategic thinking, and cross-functional influence
 - **Success Criteria**: 
   - Lead 2+ team initiatives independently

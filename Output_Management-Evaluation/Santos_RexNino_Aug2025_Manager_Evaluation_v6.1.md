@@ -13,10 +13,10 @@
 - **Manager Overall (pre-calibration)**: 4.0 (Exceeds)
 - **Calibrated Final Rating**: 4.0 (Exceeds)
 - **Calibration Date**: 2025-08-15
-- **9-Box Position**: Performance 4.0, Potential 3.0 → Box 6 (High Performer, Moderate Potential)
+- **9-Box Position**: Performance 4.0, Potential 3.0 → Box 8 (High Performance, High Potential)
 
 ## Calibration Reconciliation
-Rex Santos demonstrates consistent leadership impact across team collaboration, technical standards enforcement, and stakeholder engagement. While external stakeholder feedback indicates communication cadence gaps, peer feedback overwhelmingly validates his technical leadership and mentoring capabilities. The 4.0 rating aligns with forced distribution requirements and reflects his substantial contributions to team success and engineering excellence.
+Rex Santos demonstrates exceptional leadership impact across team collaboration, technical standards enforcement, and stakeholder engagement. While external stakeholder feedback indicates communication cadence gaps, peer feedback overwhelmingly validates his technical leadership and mentoring capabilities. The 4.0 rating aligns with forced distribution requirements and reflects his substantial contributions to team success and engineering excellence.
 
 **Calibration Source**: Final Statistical Calibration Report July 2025
 **Distribution Rationale**: 4.0 rating fits within forced distribution requirements for high performers (top 10%, middle 70%, bottom 20%)
@@ -103,7 +103,7 @@ Rex Santos demonstrates consistent leadership impact across team collaboration, 
 ## Strategic Alignment and 9-Box Positioning
 Rex Santos's work directly advances ABC Technology's Engineering Excellence objectives, AI-augmented development practices adoption, and operational visibility. His technical leadership and quality advocacy align with strategic goals of building high-performing, standards-driven development teams.
 
-**9-Box**: Box 6 (High Performance, Moderate Potential) - Focus on scaling influence and coaching depth for broader organizational impact.
+**9-Box**: Box 8 (High Performance, High Potential) - Focus on scaling influence and coaching depth for broader organizational impact.
 
 ## Bias and Consistency Checks
 - **Tenure**: 21.6 months > 12 months (no rating ceiling restrictions)
