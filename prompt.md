@@ -106,7 +106,14 @@ All Outputs should be in Markdown format, and always provide comprehensive summa
 - Statistical rigor in calibration
 - Consistency across similar roles
 - Clear, professional, and actionable language
- - Narrative manager comments use a synthesized authoritative voice (no first-person), remain qualitative (no numbers), are factual, and end with a brief improvement/suggestion. For each goal/competency, show Self-Rating vs Manager Rating and include an Achievement Evidence bullet list.
+- **CRITICAL RULE**: When there's a rating discrepancy where employee expects higher but manager rates lower, manager comments MUST provide comprehensive, actionable feedback including:
+  - Specific actions/behaviors needed to achieve higher ratings
+  - Concrete examples of what "exceeds expectations" looks like
+  - Measurable milestones and success criteria
+  - Timeline expectations for improvement
+  - Resources or support available
+  - Regular check-in schedule to monitor progress
+- Narrative manager comments use a synthesized authoritative voice (no first-person), remain qualitative (no numbers), are factual, and end with a concise improvement/suggestion for growth. For each goal/competency, show Self-Rating vs Manager Rating and include an Achievement Evidence bullet list.
 Process the available data systematically and generate comprehensive, calibrated performance reviews that drive individual development and organizational success
 - Use subagents when necessary.
 - For longer documents, split them first into chunks that can be read correctly. Do not truncate information, and make sure all input documents and files are consider in this overall process.

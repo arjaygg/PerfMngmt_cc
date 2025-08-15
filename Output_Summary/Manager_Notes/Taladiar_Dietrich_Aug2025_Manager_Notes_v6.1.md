@@ -96,6 +96,38 @@ Dietrich Taladiar is a solid performer with strong collaborative skills who cons
 - Technical skills solid but could benefit from deeper specialization
 - Good candidate for future leadership development programs
 
+## Rating Discrepancy Resolution
+### Areas of Discrepancy:
+1. **Empowered & Accountable Teams**: Self 4.0 vs Manager 3.6
+2. **Productivity**: Self EE vs Manager M+
+
+### Comprehensive Feedback Provided:
+- **Specific Actions**: Detailed roadmaps for achieving higher ratings
+- **Success Criteria**: Measurable milestones and outcomes
+- **Timeline**: Clear expectations for improvement
+- **Resources**: Available support and coaching
+- **Check-ins**: Regular progress monitoring schedule
+
+### Action Plans for Higher Ratings:
+
+#### Empowered & Accountable Teams (Target: 4.0)
+- Lead complete feature from requirements to deployment (2-3 sprints)
+- Coordinate with 3+ stakeholder teams independently
+- Create and present sprint demos to business stakeholders
+- Document process improvements benefiting entire team
+- **Success Criteria**: Complete initiative within 6 weeks, positive stakeholder feedback, establish new team process
+- **Timeline**: Next 2 sprints
+- **Resources**: Weekly coaching, stakeholder contacts, dedicated initiative time
+
+#### Productivity (Target: EE)
+- Complete 120%+ of assigned sprint capacity while maintaining quality
+- Lead knowledge sharing sessions benefiting 5+ team members
+- Propose and implement 2+ process improvements per quarter
+- Mentor 1-2 junior developers on productivity best practices
+- **Success Criteria**: Document 3+ productivity improvements, peer feedback on knowledge sharing impact, measurable capacity increase
+- **Timeline**: Next quarter
+- **Resources**: Access to productivity metrics, process improvement time, mentorship opportunities
+
 ---
 
 *Notes Prepared By: Arjay Gallentes*  

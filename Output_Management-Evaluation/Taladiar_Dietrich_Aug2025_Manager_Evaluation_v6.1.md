@@ -54,7 +54,7 @@
   - Proactively aligned with business analysts, QAs, and API/backend developers
   - Enhanced communication and resolved blockers proactively
   - Accelerated project delivery with consistent progress tracking
-- **Manager Comments**: Excellent facilitator and team collaborator. Next step: own one cross-functional mini-initiative end-to-end to demonstrate full ownership capabilities.
+- **Manager Comments**: Excellent facilitator and team collaborator. To achieve "Exceeds Expectations" rating, demonstrate end-to-end ownership of cross-functional initiatives by: 1) Leading a complete feature from requirements gathering through deployment (2-3 sprints duration), 2) Coordinating with 3+ stakeholder teams independently, 3) Creating and presenting sprint demos to business stakeholders, 4) Documenting process improvements that benefit the entire team. Success criteria: Complete one full initiative within 6 weeks, receive positive stakeholder feedback, and establish one new team process. Timeline: Next 2 sprints. Resources: Weekly 1-on-1 coaching, access to stakeholder contacts, and dedicated time for initiative ownership. Regular progress reviews every sprint to monitor advancement toward higher rating.
 
 ## Competencies
 
@@ -115,7 +115,11 @@ Dietrich Taladiar represents a reliable, proactive technical contributor who con
 
 Key strengths include proactive collaboration, technical reliability, and strong team support. Development areas focus on taking end-to-end ownership of features and deepening technical expertise. With targeted development actions, Dietrich has clear potential to advance to the next performance level within 6-12 months.
 
+**Rating Discrepancy Resolution**: For areas where Dietrich's self-assessment exceeded the manager rating (Empowered & Accountable Teams: Self 4.0 vs Manager 3.6, Productivity: Self EE vs Manager M+), comprehensive action plans have been provided with specific success criteria, timelines, and resources. These detailed roadmaps clearly outline the path to achieving higher ratings and demonstrate the organization's commitment to employee development.
+
 The peer feedback consistently highlights his value as a team member and his willingness to go beyond assigned responsibilities. His proactive approach to collaboration and problem-solving makes him a valuable asset to the APW development team.
+
+**Development Commitment**: The organization is committed to supporting Dietrich's growth through regular coaching, resource allocation, and clear milestone tracking. Success in the outlined development areas will result in rating adjustments and advancement consideration.
 
 ## Calibration Validation
 - **Peer Group Comparison**: Aligns with similar OutSystems developers in middle performance cohort

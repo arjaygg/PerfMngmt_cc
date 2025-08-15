@@ -111,6 +111,13 @@ When working with this workspace:
 - Statistical rigor in calibration; consistency across similar roles/levels.
 - Tenure rule: employees with <6 months tenure are capped at rating 3.
 - Clear, professional, actionable language.
+- **CRITICAL RULE**: When there's a rating discrepancy where employee expects higher but manager rates lower, manager comments MUST provide comprehensive, actionable feedback including:
+  - Specific actions/behaviors needed to achieve higher ratings
+  - Concrete examples of what "exceeds expectations" looks like
+  - Measurable milestones and success criteria
+  - Timeline expectations for improvement
+  - Resources or support available
+  - Regular check-in schedule to monitor progress
 
 ## File Handling
 
