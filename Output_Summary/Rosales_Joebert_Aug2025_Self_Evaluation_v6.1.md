@@ -78,3 +78,7 @@ Overview
 - Overall, I delivered impactful DevOps outcomes early on, showing a strong technical foundation and collaboration mindset. I will continue to push for formal certifications, leadership exposure, and broader impact across the organization.
 
 
+
+
+
+

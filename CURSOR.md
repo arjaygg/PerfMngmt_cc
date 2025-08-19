@@ -1,8 +1,6 @@
-# CLAUDE.md
+# CURSOR.md
 
-**🟣 Claude Code Guide** - This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-> **Multi-IDE Support**: This repository also supports Cursor users. See [CURSOR.md](./CURSOR.md) for Cursor-specific workflows.
+This file provides guidance when working with code in this repository using Cursor.
 
 ## Canonical Spec and Compliance
 
@@ -22,9 +20,9 @@ This is a performance management analysis workspace for processing employee perf
 - `Input_9Box/` - Excel files with performance and potential calibration data (9-box grid assessments)
 - `Input_Strategy/` - PDF with organizational strategy and OKRs (ABC Tech Strategy & Execution Plan 2025)
 - `Input_TeamInfo/` - PDF with team organizational structure and member information
- - `Input_Managers-Assessment/` - Additional manager's assessment based on manager's confidence coming from amount of feedback, and the manager's amount of interaction to team members.
- - `Input_TeamRoles/` - Role descriptions and expectations used for alignment checks
- - `Input_Guidelines/` - Performance review global guidelines and standards
+- `Input_Managers-Assessment/` - Additional manager's assessment based on manager's confidence
+- `Input_TeamRoles/` - Role descriptions and expectations used for alignment checks
+- `Input_Guidelines/` - Performance review global guidelines and standards
 
 ### Output Directories
 - `Output_Management-Evaluation/` - Generated manager evaluations and individual feedback
@@ -39,7 +37,7 @@ This is a performance management analysis workspace for processing employee perf
 - Apply statistical calibration using forced ranking distribution (top 10%, middle 70%, bottom 20%)
 
 ### Document Analysis Tasks
-- Extract structured data from PDF performance reviews
+- Convert PDF files to text/markdown for processing using available MCP tools
 - Parse Excel feedback data and 9-box assessments
 - Cross-reference against strategic objectives and team information
 - Generate comprehensive manager evaluations with evidence-based ratings
@@ -54,8 +52,8 @@ This is a performance management analysis workspace for processing employee perf
 
 When working with this workspace:
 1. **Follow the detailed execution plan in `prompt.md`, Section D (Systematic Workflow per Team Member), for every employee**
-2. Use subagents for complex document processing tasks
-3. Split longer documents into readable chunks to avoid truncation
+2. Convert PDF documents to text format before processing using MCP tools
+3. Use Cursor's file search and editing capabilities to work with multiple files
 4. Ensure all input documents are fully considered in evaluations
 5. Apply consistent calibration methods across similar roles and levels
 6. Generate both individual assessments and organizational summaries
@@ -79,7 +77,7 @@ When working with this workspace:
   - Bias and Consistency Checks (tenure, role parity, peer vs manager alignment)
   - Development Focus and Specific Actions
   - Recognition/Retention Actions (if performance-rating gap exists)
-  - Manager’s Assessment Summary and Review Status
+  - Manager's Assessment Summary and Review Status
 - Outputs written to correct folders; naming: `{Last_First}_{MonthYear}_Manager_Evaluation.md`
 - Process in batches of 3–5; group commits per batch with short summary.
 
@@ -98,14 +96,14 @@ When working with this workspace:
 - Bias and Consistency Checks
 - Development Focus and Specific Actions
 - Recognition/Retention Actions (if applicable)
-- Manager’s Assessment Summary
+- Manager's Assessment Summary
 - Review Status: Final (Calibrated = X)
 
 ## Batching and Commits
 
 - Process 3–5 employees per batch.
 - Group changes per team members.
-- Commit and push grouped changes with a concise summary listing employees and key adjustments (e.g., calibration reconciliation, peer feedback integration).
+- Commit and push grouped changes with a concise summary listing employees and key adjustments.
 
 ## Quality Standards (from prompt.md)
 
@@ -124,19 +122,77 @@ When working with this workspace:
 
 ## File Handling
 
-- PDF files contain structured performance review data with specific sections (Goals, Competencies, Overall ratings)
+- Convert PDF files to text/markdown format for processing using MCP tools
 - Excel files require parsing for feedback data and statistical analysis
 - Output files should follow naming conventions that identify the employee and evaluation type
 
-## Memory Updates
+## Cursor-Specific Workflow
 
-- Use subagents when necessary.
-- For longer documents, split them first into chunks that can be read correctly. Do not truncate information, and make sure all input documents and files are consider in this overall process.
+- Use Cursor's file search capabilities to locate relevant documents
+- Work with text-based files for analysis and processing
+- Leverage Cursor's editing capabilities for generating and updating evaluation documents
+- Process files sequentially to maintain context and avoid information overload
+- Use available MCP tools for document conversion and processing
+
+## Available MCP Tools in Cursor
+
+This project is configured with MCP servers that provide additional capabilities:
+
+### Markdownify
+- Convert PDFs, DOCX, XLSX, PPTX files to markdown
+- Process images with OCR
+- Convert web pages to markdown
+
+### Context7  
+- Access up-to-date library documentation
+- Get code examples for any library
+- Search through API references
+
+### Office PowerPoint
+- Create and edit PowerPoint presentations
+- Add slides, charts, tables, and shapes
+- Apply professional templates and themes
+
+### Directory Tree
+- Generate visual directory structures
+- Customize depth and filtering options
+- Perfect for documentation
+
+### Video
+- Download videos from YouTube, Vimeo, etc.
+- Extract transcripts and subtitles
+- Process video content for analysis
+
+### Filesystem
+- Secure file system operations
+- Controlled access to files and directories
+- Safe file manipulation
+
+### MarkItDown
+- Convert web pages, documents, and resources to markdown
+- Microsoft's MarkItDown conversion tool
+- Enhanced document processing capabilities
 
 ## Manager Confidence Suggestions
 
-Include concise, actionable guidance in every Manager Evaluation (within the relevant Goal sections or in the **Development Focus and Specific Actions** / **Manager Comments**) that helps strengthen the manager’s confidence through improved visibility:
+Include concise, actionable guidance in every Manager Evaluation (within the relevant Goal sections or in the **Development Focus and Specific Actions** / **Manager Comments**) that helps strengthen the manager's confidence through improved visibility:
 
 - Maintain up-to-date documentation of work and share it with the team and stakeholders.
 - Present progress and key achievements in sprint reviews or stakeholder demos.
 - Proactively schedule regular 1-on-1s with the manager to surface wins, learnings, and challenges.
+
+## Troubleshooting
+
+If you encounter issues:
+
+1. **Check MCP Configuration**: Verify `.cursor/mcp.json` is properly configured
+2. **Install MCP Packages**: Ensure required npm packages are installed in WSL
+3. **Restart Cursor**: Fully restart Cursor after configuration changes
+4. **Check Logs**: Review Cursor's developer console for error messages
+5. **File Permissions**: Ensure proper access to input and output directories
+
+## Additional Resources
+
+- **MCP Setup**: See [CURSOR_MCP_SETUP.md](./CURSOR_MCP_SETUP.md) for detailed configuration
+- **Master Plan**: Follow [prompt.md](./prompt.md) for the complete execution workflow
+- **Claude Code Guide**: Reference [CLAUDE.md](./CLAUDE.md) for alternative workflows

@@ -5,7 +5,7 @@ Ultrathink, ROLE: You are an expert people manager, and performance review manag
 3. Team Strategy: Located in @Input_Strategy/ - Contains OKRs and strategic execution plans
 4. Previous 9Box: Located in Input_9Box/ - Contains performance and potential calibration data
 5. Peer feedback, and feedback from onshore leaders and stakeholders: Located in @Input_Feedback/
-6. Managers' Assessment Templates and compliance sheets: Located in @Input_Managers-Assessment/ - Used to validate guideline compliance and evaluation structure
+6. Managers' Assessments: Located in @Input_Managers-Assessment/ - Manager's assessment based on confidence, coming from the amount of feedback received from peers, and stakeholders, and amount of interaction the manager have to the team member.
 7. Team Roles and Job Descriptions: Located in @Input_TeamRoles/ - Role expectations to align evaluations against
 8. Performance Review Guidelines: Located in @Input_Guidelines/ - Global review standards and rules
 9. Take note that all data here are already anonymize, redacted, and fake.
@@ -56,9 +56,18 @@ Follow this 9-step process for EVERY employee evaluation to ensure consistency a
 
 3. **Collect Employee Artifacts**:
    - Self-evaluation PDF + impact statement (`Input_Self-Evaluation/`)
+   - All manager's assessment from `Input_Managers-Assessment/`
    - All peer/stakeholder feedback where "Name of colleague reviewing" = employee
    - Previous 9-Box data (`Input_9Box/`)
    - Role description (`Input_TeamRoles/`)
+   - When there's a rating discrepancy where employee expects higher but manager rates lower, and when the rating is lower than "EE" or "Exceeded Expectations", manager comments MUST provide comprehensive, actionable feedback including:
+      - Specific actions/behaviors needed to achieve higher ratings
+      - Specific actions/behaviors based on the team member's role as per documented in `Input_TeamRoles/` 
+      - Concrete examples of what "exceeds expectations" looks like
+      - Measurable milestones and success criteria
+      - Timeline expectations for improvement
+      - Resources or support available
+      - Regular check-in schedule to monitor progress
 
 4. **Extract Decision Inputs**:
    - Self-ratings for Goals and Competencies

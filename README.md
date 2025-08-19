@@ -1,5 +1,22 @@
 # Performance Management Analysis - ABC Technology Team
 
+## 🚀 Multi-IDE Support
+
+This repository supports multiple IDEs for performance review processing. **Choose your guide based on your IDE:**
+
+- **🟣 Claude Code Users**: See [CLAUDE.md](./CLAUDE.md) for specialized document processing and subagent workflows
+- **🔵 Cursor Users**: See [CURSOR.md](./CURSOR.md) for file search and editing workflows
+- **📋 MCP Setup**: See [CURSOR_MCP_SETUP.md](./CURSOR_MCP_SETUP.md) for Cursor MCP configuration
+
+**📖 Need help choosing?** See [IDE_GUIDE.md](./IDE_GUIDE.md) for a detailed comparison and selection guide.
+
+## Quick Start
+
+1. **Select your IDE guide** from the options above
+2. **Follow the execution plan** in `prompt.md` (required for all IDEs)
+3. **Process employee evaluations** using your IDE's workflow
+4. **Generate outputs** in the specified directories
+
 ## Overview
 
 This repository contains a comprehensive performance management analysis for ABC Technology's 47-member team, conducted for the July 2025 performance review cycle. The analysis includes statistical calibration, individual evaluations, team performance summaries, and strategic recommendations.
@@ -15,9 +32,14 @@ PerfMngmt_cc/
 ├── Input_9Box/             # Performance and potential calibration data
 ├── Output_Management-Evaluation/  # Individual manager evaluations and calibration analysis
 ├── Output_Summary/         # Consolidated reports and leadership evaluation
-├── CLAUDE.md              # Project instructions and guidelines
+├── CLAUDE.md              # Claude Code guide and instructions
+├── CURSOR.md              # Cursor IDE guide and instructions
+├── IDE_GUIDE.md           # IDE selection and comparison guide
+├── CURSOR_MCP_SETUP.md    # Cursor MCP configuration guide
 └── README.md              # This file
 ```
+
+**Multi-IDE Support**: This repository provides optimized workflows for both Claude Code and Cursor users.
 
 ## Key Deliverables
 
