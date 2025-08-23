@@ -58,3 +58,6 @@ Measurement sources: ADO (work items, throughput, lead time), Git/CI (builds, CF
 Project‑specific AUC objectives map to these OKRs via: reliability (SLO/MTTR/CFR), engineering excellence (FPA/coverage/lead time), enablement (templates/playbooks/mentoring), and stakeholder cadence. Teams should parameterize services/domains while keeping measurement consistent.
 
 
+
+
+
