@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "markitdown": {
-      "command": "npx",
-      "args": ["-y", "markitdown-mcp-npx"]
-    }
-  }
-}
