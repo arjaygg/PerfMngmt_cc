@@ -1,0 +1,39 @@
+{
+  "mcpServers": {
+    "directory-tree": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@andredezzy/deep-directory-tree-mcp"],
+      "env": {}
+    },
+    "markdownify": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/home/devag/git/markdownify-mcp/dist/index.js"],
+      "env": {}
+    },
+    "context7": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@upstash/context7-mcp"],
+      "env": {}
+    },
+    "office-powerpoint": {
+      "command": "/home/devag/git/Office-PowerPoint-MCP-Server/.venv/bin/python",
+      "args": ["/home/devag/git/Office-PowerPoint-MCP-Server/ppt_mcp_server.py"],
+      "env": {}
+    },
+    "mcp-video": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["@felores/mcp-video"],
+      "env": {}
+    },
+    "markitdown": {
+      "type": "stdio",
+      "command": "/home/devag/.venv/markitdown-mcp/bin/markitdown-mcp",
+      "args": [],
+      "env": {}
+    }
+  }
+}
